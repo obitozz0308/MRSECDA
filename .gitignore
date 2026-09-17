@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.venv/
+venv/
+env/
+
+# Results / outputs (regenerate locally)
+results/
+checkpoints/
+*.log
+
+# Large third-party raw databases (auto-downloaded on first use; parsed caches are committed)
+data/external/*.gaf
+data/external/*.obo
+data/external/*.gaf.gz
+data/external/*.obo.gz
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
