@@ -132,4 +132,4 @@ If you use this code in your research, please cite:
 
 ## Contact
 
-For questions or comments, please contact the corresponding author (email to be added upon publication).
+For questions or comments, please contact Shuaifu Huang: huangsf2147@163.com
