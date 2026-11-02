@@ -112,6 +112,8 @@ Results are written to `results/mrsecda/` as JSON + Markdown. `config.py` defaul
     └── external/             # precomputed features + processed DB inputs
 ```
 
+<!-- Citation (commented out — paper under review, uncomment after acceptance):
+
 ## Citation
 
 If you use this code in your research, please cite:
@@ -119,12 +121,13 @@ If you use this code in your research, please cite:
 ```bibtex
 @article{MRSECDA,
   title   = {Pairwise Structural Feature Encoding with Multi-Resolution Heterogeneous Graph Learning for Predicting CircRNA-Disease Associations},
-  author  = {Huang, Shuaifu},
+  author  = {Duan, Ran and Huang, Shuaifu and Guo, Maozu and Tian, Le and Sui, Dong},
   journal = {Bioinformatics},
   year    = {2026},
   note    = {under review}
 }
 ```
+-->
 
 ## License
 
