@@ -1,0 +1,14 @@
+{
+  "dataset": "circad",
+  "total_circrnas": 1265,
+  "circrnas_with_seq": 772,
+  "circrnas_with_mirna": 1265,
+  "coverage_pct": 100.0,
+  "khgat_pairs": 1825,
+  "seed_pairs": 33992,
+  "disease_pairs": 1016,
+  "gip_pairs": 9300,
+  "fallback_pairs": 0,
+  "combined_pairs": 45755,
+  "unique_mirnas": 564
+}

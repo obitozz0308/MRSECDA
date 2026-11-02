@@ -1,0 +1,14 @@
+{
+  "dataset": "circR2Cancer",
+  "total_circrnas": 514,
+  "circrnas_with_seq": 431,
+  "circrnas_with_mirna": 514,
+  "coverage_pct": 100.0,
+  "khgat_pairs": 6034,
+  "seed_pairs": 20732,
+  "disease_pairs": 298,
+  "gip_pairs": 1280,
+  "fallback_pairs": 0,
+  "combined_pairs": 27045,
+  "unique_mirnas": 587
+}

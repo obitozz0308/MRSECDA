@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link type="text/css" href="/static/hmdd3/css/jquery-ui.custom.css" rel="stylesheet" />
+    <link rel="stylesheet" href="/static/hmdd3/css/jquery.treeview.css" type="text/css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="/static/hmdd3/css/mrdn.css" />
+    <!--<base target=_blank>-->
+    <script type="text/javascript" src="/static/hmdd3/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/static/hmdd3/js/jquery-ui.custom.min.js"></script>
+    <script language="JavaScript" type="text/javascript" src="/static/hmdd3/js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="/static/hmdd3/js/jquery.treeview.js"></script>
+    <script type="text/javascript" src="/static/hmdd3/js/jquery.treeview.async.js"></script>
+    <script type="text/javascript" src="/static/hmdd3/js/d3.v3.min.js"></script>
+    <script type="text/javascript" src="/static/hmdd3/js/mrdn.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+    <script type="text/javascript">
+        document.onkeypress=function(event){
+            if(event.keyCode==13)return false;
+        };
+        $(document).ready(function(){
+            $("#tabs").tabs();
+            $.fx.speeds._default = 1000;
+            $("#browse").treeview({
+                collapsed: true,
+                unique: true,
+                url:"/hmdd3app/asynctest/"
+            });
+            $("#browse_net").treeview({
+                collapsed: true,
+                unique: true,
+                url:"/hmdd3app/asynctest_net/"
+            });
+            $("#causality").treeview({
+                collapsed: true,
+                unique: true,
+                url:"/hmdd3app/causality_tree/"
+            });
+            $('#resetsearch').click(function(){
+                $('#searchresult').html('<h2>Begin a new search!</h2>');
+                $('#input1_3').val('');
+                $('#input1_3').focus();
+            });
+            $('#example').click(function(){
+               $("#input1_3").val('hsa-mir-329;hsa-mir-328;hsa-mir-326');
+            });
+            $('#form_submit').submit(function(){
+                if (!$('#input2_1').val() || !$('#input2_2').val() || !$('#input2_3').val()) {
+                    alert('Please fill the blanks with the (*)!');}
+                else {this.submit();}
+                return false;
+            });
+        });
+</script>
+<style type="text/css">
+    body {
+        width: 1200px;
+        margin: auto;
+        padding: 20px 0;
+    }
+    #dialog {
+        background-color:lightgray;
+    }
+    #tabs {
+        min-width: 100%;
+        min-height: 650px;
+        <!--background-color:lightgray;-->
+    }
+    #pubs li{margin-bottom: 15px;}
+</style>
+<title>HMDD v4.0</title>
+</head>
+<body style="font-size:80%; "><!-- background-image: url(/static/hmdd3/images/back.png); -->
+    <div id="logo" style="margin-top:20px;margin-left:-180px; text-align:center;"><img src="/static/hmdd3/images/pic.png"/></div>
+    
+    <div id="tabs" >
+        <ul>
+            <li><a href="#fragment-1"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></a></li>
+            <li><a href="#fragment-2"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Browse&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></a></li>
+            <li><a href="#fragment-3"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Search&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></a></li>
+            <li><a href="#fragment-7"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;miR-Target Network&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></a></li>
+            <li><a href="#fragment-8"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Causality&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></a></li>
+            <li><a href="#fragment-9"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Disease Network&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></a></li>
+            <li><a href="#fragment-4"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Download&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></a></li>
+            <li><a href="#fragment-10"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Citation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></a></li>
+<!--             <li><a href="#fragment-5"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Submit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></a></li> -->
+            <li><a href="#fragment-6"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Help&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></a></li>
+        </ul>
+        
+        <div id="fragment-1">
+            <div style="float: left; width:48%; height: 500px; padding: 0 20px 0 10px;">
+            <h2 style="margin:40px 0 10px 0;" align="center">Welcome to the HMDD v4.0</h2>
+            <p style="text-align:justify;"><b>HMDD</b> (the <span style="color:red;">H</span>uman <span style="color:red;">m</span>icroRNA <span style="color:red;">D</span>isease <span style="color:red;">D</span>atabase)  is a database that curated experiment-supported evidence for human microRNA (miRNA) and disease associations. miRNAs are one class of important regulatory RNAs, which mainly repress gene express at the post-transcriptional level. Increasing reports have shown that miRNAs play important roles in various critical biological processes. For their importance, the dysfunctions of miRNAs are associated with a broad spectrum of diseases. The first version of HMDD was built in December 2007 and represents the first miRNA disease database in the world according to literature record.<br>&nbsp;&nbsp;&nbsp;&nbsp;Each entry in HMDD v1.0 has four items for annotation; they are miRNA name, disease name, the reference PubMed ID, and the evidence supporting the miRNA-association from the original paper.<br>&nbsp;&nbsp;&nbsp;&nbsp;HMDD v2.0 presents more detailed and comprehensive annotations to the human miRNA-disease association data, including miRNA-disease association data from the evidence of genetics, epigenetics, circulating miRNAs, and miRNA-target interactions. In addition, a “submission” function was implemented in the version 2.<br>&nbsp;&nbsp;&nbsp;&nbsp;HMDD v3.0 contains approximately 200.2% human miRNA-disease association more entries than the previous HMDD v2.0, with more specified evidence classification (6 evidence classes, 20 evidence codes). In addition, it also incorporates the third-party annotations about miRNAs and diseases and supplies disease-associated miRNA-target network visualization function.<br>&nbsp;&nbsp;&nbsp;&nbsp;Recently,<span style="color:darkorange;"> HMDD v4.0</span> are introduced, which showcases a 1.5-times increase in the number of human miRNA-disease association than HMDD v3.0 and contains 53,530 experimentally supported miRNA-disease association entries. Moreover, two newly categories of miRNA-disease associations, exosomal miRNAs and virus-encoded miRNAs, are added (8 categories, 23 evidence codes). Disease network analysis based on disease associated miRNAs are integrated to this version. HMDD will be timely and continuously updated with new miRNA-disease entries.</p>
+            <p style="color:red">This website has been tested by using Chrome, Microsoft Edge and Firefox browsers. Microsoft IE may not work well. </p>
+            </div>
+            <div style="float: left; width:46%; height: 500px; padding: 40px 0 0 30px;">
+            <p style="margin:10px 0;"><b>Statistics:</b><br/>
+                Currently, in HMDD v4.0, we manually collected 53,530 miRNA-disease association entries which include 1,817 human miRNA genes, 79 virus-derived miRNAs, and 2,360 diseases from 37,090 papers.
+            </p>
+            
+            <p style="margin:15px 0 0 0;"><b>History:</b><br/>
+                <span>June, 2023, HMDD v4.0 was released.</span>
+                <span>September, 2022, HMDD v3.3 was released. Disease network analysis modules was implemented.</span><br/>
+                <span>March 27, 2019, HMDD v3.2 was released. Causality information was attached to each association.</span><br/>
+                <span>January 3, 2019, HMDD v3.1 was released.</span><br/>
+				June 28, 2018, HMDD v3.0 was released.<br/>
+                June 20, 2013, HMDD v2.0 was released.<br/>
+                January, 2012, HMDD has been updated for 27 times during the past four years.<br/>
+                January, 2011, HMDD has been updated for 19 times during the past three years.<br/>
+                October, 2008, an analysis and modeling paper based on the miRNA-disease association data in the HMDD database was published on PLoS ONE.<br/>
+                December, 2007, the original HMDD database was released.<br/>
+            </p>
+            
+            <p style="margin:15px 0 0 0;"><b>Contact us</b><br/>
+				<span style="color:red">HMDD is free only for academic usage. For commercial usage, please Contact</span><br/>
+                Dr. Qinghua Cui, 38 Xueyuan Rd, Department of Biomedical Informatics, Peking University Health Science Center, Beijing 100191, China<br/>
+                Email: <a >cuiqinghua@hsc.pku.edu.cn</a><br/>
+                Homepage:<a href="http://www.cuilab.cn/"><span color="red"> http://www.cuilab.cn/ </span></a> </br>
+            </p>
+            
+            <p style="margin:15px 0 0 0;"> Last Update: July-10, 2023</p>
+            
+            </div>
+        </div>
+        
+        <div id="fragment-2">
+            <table ><tr>
+                <td style="vertical-align:top; ">
+                    <div style="width:250px; height:600px; overflow: auto; margin:30px 0 0 0; background-color: #C0C0C0; padding:10px 0 0 0;">
+                    <ul id="browse" ></ul>
+                    </div>
+                </td >
+                <td style="vertical-align:top;">
+                    <div id="browseresult" style="width:800px; margin:30px 0 0 20px;">
+<!--                    <p style="width:500px; text-align:justify; margin:0px 0 0 80px;"> To <b>browse</b> data in the database, select the menu "Browse". And then select corresponding items to browse the entries you are interested. For example, if you want to get entries about the lncRNA "AK023948", you can click "LncRNA" first and then select "AK023948". The corresponding entries will be shown on the right panel.</p>
+                    <div style="margin:60px 80px;"><img src="/hmdd/files/images/hmdd2/chatu.png"/></div>
+-->
+                        <iframe src="" name="view_frame" style="width:900px; height:800px;" frameborder="0"></iframe>
+                    </div>
+                </td>
+            </tr></table>
+        </div>
+        
+        <div id="fragment-3">
+            <div style="margin:30px 0 0 50px; ">
+                <p style="margin:10px 0 0 0; font-size:120%;">You can submit a semicolon-delimited list of keywords(no more than 20) for batch search. <span id="example" style="margin-left:20px;color: deepskyblue;cursor: pointer;">Use example</span></p>
+                    <div style="margin-top:10px;">
+                        <div style="float: left;margin-top:40px;">
+                            <select id="input1_1" style="width:85px;font-size: 16px;">
+                                <option value="mir" selected="selected">miRNA</option>
+                                <option value="dis">Disease</option>
+                            </select>
+                        </div>
+                        <div style="float: left;margin-left:20px;margin-top:40px;">
+                            <select id="input1_2" style="width:80px;font-size: 16px;">
+                                <option value="exact" selected="selected">exact</option>
+                                <option value="fuzzy">fuzzy</option>
+                            </select>
+                        </div>
+                        <div style="float: left;margin-left:20px;">
+                            <!--<input id="input1_3" style="width:450px;" type="text" />-->
+                            <textarea id="input1_3" rows="5" cols="50" style="font-size: 16px;"></textarea>
+                        </div>
+                        <div style="float:left;margin-top:40px;">
+                            <a id="searchclick" style="font-size:16px; margin:0 0 0 60px;" href=""><b>Click to Search</b></a>
+                            <input id="resetsearch" type="reset" style="margin-left:40px;font-size:16px;" value="Reset all"/>
+                        </div>
+                        <div style="clear:both"></div>
+                    </div>
+            </div>
+            <div id="searchresult" style="margin:15px 0 0 50px;">
+            </div>
+        </div>
+        <div id="fragment-7">
+            <table ><tr>
+                <td style="vertical-align:top; ">
+                    <div style="width:250px; height:600px; overflow: auto; margin:30px 0 0 0; background-color: #C0C0C0; padding:10px 0 0 0;">
+                    <ul id="browse_net" ></ul>
+                    </div>
+                </td >
+                <td style="vertical-align:top;">
+                    <div id="browseresult_net" style="width:800px; margin:30px 0 0 20px;">
+<!--                    <p style="width:500px; text-align:justify; margin:0px 0 0 80px;"> To <b>browse</b> data in the database, select the menu "Browse". And then select corresponding items to browse the entries you are interested. For example, if you want to get entries about the lncRNA "AK023948", you can click "LncRNA" first and then select "AK023948". The corresponding entries will be shown on the right panel.</p>
+                    <div style="margin:60px 80px;"><img src="/hmdd/files/images/hmdd2/chatu.png"/></div>
+-->
+                        <iframe src="" name="view_frame_net" style="width:900px; height:800px;" frameborder="0"></iframe>
+                    </div>
+                </td>
+            </tr></table>
+        </div>
+        <div id="fragment-8">
+            <table ><tr>
+                <td style="vertical-align:top; ">
+                    <div style="width:250px; height:600px; overflow: auto; margin:30px 0 0 0; background-color: #C0C0C0; padding:10px 0 0 0;">
+                    <ul id="causality"></ul>
+                    </div>
+                </td >
+                <td style="vertical-align:top;">
+                    <div id="causality_result" style="width:800px; margin:30px 0 0 20px;">
+                        <iframe src="" name="causality_frame" style="width:900px; height:800px;" frameborder="0"></iframe>
+                    </div>
+                </td>
+            </tr></table>
+        </div>
+        <div id="fragment-4">
+            <div style="margin:30px 0 0 30px;">
+                <p><strong>Part A. HMDD v4.0 data</strong></p>
+                <p style="margin:10px 0 0 0; font-size:110%;">The whole dataset of miRNA-disease association data (version 2023.07 <a href="/static/hmdd3/data/alldata_v4.txt" download="">txt</a> or <a href="/static/hmdd3/data/alldata_v4.xlsx" download="">excel</a>).</p>
+<p style="margin:10px 0 0 0; font-size:110%;">The sex-biased miRNAs in human diseases (version 2023.07 <a href="/static/hmdd3/data/sex-biased miRNAs.csv" download="">csv</a>).</p>
+                <p><strong>Part B. HMDD v3.2 data</strong></p>
+                <p style="margin:10px 0 0 0; font-size:110%;">The whole dataset of miRNA-disease association data (version 2019.01 <a href="/static/hmdd3/data/v3_alldata.txt" download="">txt</a> or <a href="/static/hmdd3/data/v3_alldata.xlsx">excel</a>).</p>
+                <p style="margin:10px 0 0 0; font-size:110%;">The miRNA-disease association data from circulation assay (version 2019.01 <a href="/static/hmdd3/data/v3_circulation.txt" download="">txt</a> or <a href="/static/hmdd3/data/v3_circulation.xlsx">excel</a>).</p>
+                <p style="margin:10px 0 0 0; font-size:110%;">The miRNA-disease association data from genetics assay (version 2019.01 <a href="/static/hmdd3/data/v3_genetics.txt" download="">txt</a> or <a href="/static/hmdd3/data/v3_genetics.xlsx">excel</a>).</p>
+                <p style="margin:10px 0 0 0; font-size:110%;">The miRNA-disease association data from epigenetics assay (version 2019.01 <a href="/static/hmdd3/data/v3_epigenetics.txt" download="">txt</a> or <a href="/static/hmdd3/data/v3_epigenetics.xlsx">excel</a>).</p>
+                <p style="margin:10px 0 0 0; font-size:110%;">The miRNA-disease association data from miRNA-target assay (version 2019.01 <a href="/static/hmdd3/data/v3_target.txt" download="">txt</a> or <a href="/static/hmdd3/data/v3_target.xlsx">excel</a>).</p>
+                <p style="margin:10px 0 0 0; font-size:110%;">The miRNA-disease association data from tissues expression assay (version 2019.01 <a href="/static/hmdd3/data/v3_tissue.txt" download="">txt</a> or <a href="/static/hmdd3/data/v3_tissue.xlsx">excel</a>).</p>
+                <p style="margin:10px 0 0 0; font-size:110%;">The other miRNA-disease association data (version 2019.01 <a href="/static/hmdd3/data/v3_other.txt" download="">txt</a> or <a href="/static/hmdd3/data/v3_other.xlsx">excel</a>).</p>
+
+                <!-- <p style="margin:10px 0 0 0; font-size:110%;">The causal miRNA-disease association data (version 2019.3 <a href="/static/hmdd3/data/hmdd3.2_causality.txt" download="">txt</a> or <a href="/static/hmdd3/data/hmdd3.2_causality.xlsx">excel</a>).</p> -->
+                <p style="margin:10px 0 0 0; font-size:110%;">The disease spectrum width data of miRNAs (version 2019.01 <a href="/static/hmdd3/data/mir_DSW.txt" download="">txt</a>).</p>
+                <p><strong>Part C. HMDD v3.2 causal association data</strong></p>
+                <p style="margin:10px 0 0 0; font-size:110%;">Causal associations: HMDD3 causal association information  (<a href="/static/hmdd3/data/S1_HMDD3_causal_info.xlsx">excel</a>).</p>
+                <p style="margin:10px 0 0 0; font-size:110%;">Causal associations: miRNA conservation information (<a href="/static/hmdd3/data/S2_miRNA_conservation_info.xlsx">excel</a>).</p>
+                <p style="margin:10px 0 0 0; font-size:110%;">Causal assocaitions: MDCAP prediction results (<a href="/static/hmdd3/data/S3_MDCAP_results.xlsx">excel</a>).
+                <p><strong>Part D. Benchmark 2019 data</strong></p>
+                <p style="margin:10px 0 0 0; font-size:110%;">The prediction scores of the top predictors and the combined predictor based on data of HMDD v3.1 (<a href="/static/hmdd3/data/hmdd3_score.xlsx" download="">excel</a>).</p>
+                <p style="margin:10px 0 0 0; font-size:110%;">Bechmarking datasets: ALL benchmarking dataset from HMDD v3.1 (<a href="/static/hmdd3/data/benchmark2019.txt" download="">txt</a>), CAUSAL benchmarking dataset from HMDD v3.1(<a href="/static/hmdd3/data/benchmark2019_causal.txt" download="">txt</a>) and dbDEMC dataset (<a href="/static/hmdd3/data/benchmark2019_dbDEMC.txt" download="">txt</a>).</p>
+                <p style="margin:10px 0 0 0; font-size:110%;">The disease mapping between HMDD v3.1 and HMDD v2.0 used in the benchmarking analysis (<a href="/static/hmdd3/data/disease_mapping2019.txt" download="">txt</a>).</p>
+                <!-- <p style="margin:10px 0 0 0; font-size:110%;">miRNA disease causal association prediction results( <a href="/static/hmdd3/data/S2_MDCAP_results.xlsx" download="">excel</a> ). -->
+				<p style="margin:10px 0 0 0; font-size:110%;">The prediction scores of the top predictors and the combined predictor, in HMDD v2.0 format (<a href="/static/hmdd3/data/prediction_combined.xlsx">excel</a>).</p>
+               <!--  <p><strong>Part D. Old version data</strong></p>
+                <p style="margin:10px 0 0 0; font-size:110%;">version HMDD2.0 (<a href="/static/hmdd3/data/hmdd2.zip">zip</a>). -->
+            </div>
+        </div>
+        
+<!--         <div id="fragment-5">
+            <div style="margin:30px 0 0 30px;">
+                <p style="margin:10px 0 0 0; font-size:120%;">Welcome to submit new entries to the database.</p>
+                <form id="form_submit" action="/hmdd3app/submit/" method="POST">
+                    <div style="float: left; width:45%; height: 500px; padding: 0 20px 0 10px;">
+                    <p><input id="input2_1" style="width:200px; margin:10px 0 0 0;" type="text" name="mir"/>&nbsp;&nbsp;miRNA name (*)</p>
+                    <p><input id="input2_2" style="width:200px; margin:10px 0 0 0;" type="text" name="dis"/>&nbsp;&nbsp;Disease (*)</p>
+                    <p><input style="width:200px; margin:10px 0 0 0;" type="text" name="pub"/>&nbsp;&nbsp;Reference PubMed ID</p>
+                    <p><input id="input2_3" style="width:200px; margin:10px 0 0 0;" type="text" name="email"/>&nbsp;&nbsp;Your email (*)</p>
+                    </div>
+                    <div style="float: left; width:45%; height: 500px; padding: 10px 0 0 20px;">
+                    <p >More introduction (limited to 500 words)
+                        <textarea style="height:220px; width:350px; margin:20px 0 0 0;" name="evi"></textarea></p>
+                    <p style="margin:30px 0 0 80px; font-size:110%;">Click here to&nbsp;&nbsp;
+                        <input type="submit" value="Submit"/>&nbsp;&nbsp;or&nbsp;&nbsp;<input type="reset" value="Reset"/></p>
+                    </div>
+                </form>
+            </div>
+        </div> -->
+        
+        <div id="fragment-6">
+            <div style="margin:0 0 0 40px; width:90%;">
+                <h1 style="text-align:center;">HMDD v4.0 Tutorial</h1>
+                <h3 style="text-align:center;">June, 2023</h3>
+                <p style="text-align:justify;">MicroRNAs (miRNAs) are one class of important regulatory noncoding RNAs, which is ~22nt in length and mainly repress gene expression at post-transcriptional level. Emerging evidence has shown that miRNAs play critical roles in various important biological processes and therefore the dysfunctions related with miRNAs are often associated with human disease, including cancer and cardiovascular disease. Therefore, miRNAs are representing one class of important biological molecules in understanding the mechanisms of disease formation and development, and in identifying biomarkers for disease diagnosis and treatment.</p>
+                <p style="margin:20px 0 0 0; text-align:justify;">HMDD (the Human microRNA Disease Database) is a resource that curates experimentally supported miRNA and disease association data. HMDD was originally constructed on December 2007 and was updated more than 40 times during the past fifteen years. On June 2013, we released HMDD version 2 (HMDD v2.0). In the version 2, we curated miRNA-disease association data in more details, such as data from genetics, and epigenetics, data from samples of circulation (such as blood, serum, and plasma etc), and data from miRNA-target interactions. On June 2018, we released HMDD v3.0. Now in the latest version 4, we have classified the literature evidence in more details, which results in 8 evidence classes in the following figure. Currently, users can browse and search the database by the names of miRNAs and diseases. Moreover, users can download all data in HMDD v4.0 (The whole dataset of miRNA-disease association data in the 'Download' page).</p>
+                <p style="text-align:center;"><img style="border:0px solid; height:50%; width:50%;" src="/static/hmdd3/images/help_table.png"/></p>
+                <p><span style="color:darkorange">Note:&nbsp;&nbsp;</span>Two of these categories, 'Exosome' and 'Virus', are newly introduced. <strong>'Exosome'</strong> is collected according to whether the miRNAs are derived from exosome involved in human diseases, and <strong>‘Virus’</strong> represents the virus-derived miRNAs associated with human diseases.</p>
+                <p style="margin:20px 0 0 0; text-align:justify;">The detailed usage of the database is as followings: </p>
+                <p style="margin:20px 0 0 0; text-align:justify;"><b>[1]</b> Visiting HMDD v4.0: Log on HMDD at <a href="http://www.cuilab.cn/hmdd">http://www.cuilab.cn/hmdd</a></p>
+                <p style="margin:20px 0 0 0; text-align:justify;"><b>[2]</b> To browse miRNA-disease association data in the database, please click the menu "Browse" (1 in Figure 1). For example for the miRNA-disease association data from miRNA-target interactions, select “Target” (step 1). To browse the entries related to the candidate disease, please click “disease” (step 2) and select the one you are interested in (step 3). To browse the entries related to the candidate miRNA, please click “miRNA” and select the one you are interested in. For other types of miRNA-disease association data, please select specific browse options, such as “genetics”, “epigenetics”, and “circulation”.In addition, we added the third party annotations about miRNA and disease; users can click the miRNA/disease name to see these annotations (step 4). The result will be shown in the right panel. Clicking “click to download” to download the browsing result (step 5). </p>
+                <p style="text-align:center;"><img style="border:0px solid; height:90%; width:90%;" src="/static/hmdd3/images/help-n2.png"/></p>
+                <p style="text-align:center;">Figure 1. A demo for browsing data in the database</p>
+                <p style="margin:20px 0 0 0; text-align:justify;"><b>[3]</b> To search data in the database, select the menu "Search". HMDD v4.0 provides functions of "search" by full or partial names of miRNAs or diseases. Input your candidate keywords into corresponding blanks and submit the query. </p>
+                <p style="margin:20px 0 0 0; text-align:justify;">Each “search” will return entries including the following four items.</p>
+                <p style="text-indent:20px;">(1) miRNA name</p>
+                <p style="text-indent:20px;">(2) Disease name</p>
+                <p style="text-indent:20px; text-align:justify;">(3) Reference –The PMID links to the reference in PubMed.</p>
+                <p style="text-indent:20px;">(4) Description - detailed description of the miRNA-disease association.</p>
+                <p style="margin:20px 0 0 0; text-align:justify;"><b>[4]</b> To view the networks between the disease-associated miRNAs and disease-associated genes, select the menu “miR-Target Network”. If the user clicks one miRNA name, the disease-associated genes it targets will be displayed. If the user clicks one disease name, the network between miRNAs and genes associated with this disease will be shown.</p>
+                <p style="text-align:center;"><img style="border:0px solid; height:90%; width:90%;" src="/static/hmdd3/images/help-n3.png"/></p>
+                <p style="text-align:center;">Figure 2. A demo for viewing the networks between the disease-associated miRNAs and disease-associated genes</p>
+                <p style="margin:20px 0 0 0; text-align:justify;"><b>[5]</b> To download data in the database, select the menu "Download". HMDD v4.0 provides two formats of downloadable file in TEXT and Excel formats, respectively. The users can download all data in HMDD v3.0, including the experimentally supported miRNA-disease association data, miRNA-disease association data from genetics, miRNA-disease association data from epigenetics, miRNA-disease association data from circulation samples, and miRNA-disease association data from miRNA-target interactions. </p>
+                <p style="margin:20px 0 0 0; text-align:justify;"><b>[6]</b> To submit new entries to the database, select the menu "Submit". The users need to input their data into corresponding blanks and then submit the query. We will further curate the submitted information to determine whether to add the new entries to the database or not.</p>
+                <p style="margin:20px 0 0 0; text-align:justify;"><b>[7]</b> Currently, all data in HMDD is free only for academic users and please contact Dr. Qinghua Cui for commercial using. If you used the data in HMDD v4.0, please cite "Cui C, Zhong B, Fan R, Cui Q. HMDD v4.0: a database for experimentally supported human microRNA-disease associations. Nucleic Acids Res. 2024;52(D1):D1327-D1332. doi:10.1093/nar/gkad717."</p><!-- Lu M, Zhang Q, Deng M, Miao J, Guo Y, et al. (2008) An Analysis of Human MicroRNA and Disease Associations. PLoS ONE 3(10): e3420.", "Li Y, Qiu C, Tu J, Geng B, Yang J, Jiang T, Cui Q. HMDD v2.0: a database for experimentally supported human microRNA and disease associations. Nucleic Acids Res. 2014 Jan;42(Database issue):D1070-4." and "Huang Z, Shi J, Gao Y, Cui C, Zhang S, Li J, Zhou Y, Cui Q. HMDD v3.0: a database for experimentally supported human microRNA-disease associations. Nucleic Acids Res. 2019 Jan 8;47(D1):D1013-D1017. -->
+                <p style="margin:20px 0 0 0; text-align:justify;">If there are any comments or suggestions, please contact Dr. Qinghua Cui at <font color="red">cuiqinghua@bjmu.edu.cn</font> or <font color="red">cuiqinghua@hsc.pku.edu.cn.</font></p>
+            </div>
+        </div>
+        <div id="fragment-9">
+            <div class="main-content">
+                <div class="mybox nav-column">
+                    <ul class="nav nav-pills">
+                        <li class="nav-item active"><a href="javascript:void(0)" name="#mrdn-search-pane" id="mrdn-search-tab">Search</a></li>
+                        <li class="nav-item"><a href="javascript:void(0)" name="#mrdn-browse-pane" id="mrdn-browse-tab">Browse</a></li>
+                        <li class="nav-item"><a href="javascript:void(0)" name="#mrdn-upload-pane" id="mrdn-upload-tab">Upload</a></li>
+                    </ul>
+                    <br><br>
+                    <div class="tab-content" style="height: 450px">
+                        <div class="tab-pane active" id="mrdn-search-pane">
+                            <table>
+                                <tr><td>
+                                    <p><strong>Step 1:</strong></p>
+                                    <p>Search and select one or more diseases</p>
+                                    <div class="input-group">
+                                        <input class="input-group-ipt" type="text" name="search" placeholder="Search for ..." id="mrdn-search-pane-input" style="width: 150px;">
+                                        <button class="input-group-btn btn-default" type="button" id="select01">Select</button>
+                                    </div>
+                                    <br style="margin-bottom: 10px;">
+                                    <div class="suggest-group dropdown-container" style="width: 162px;"><ul class="dropdown-menu" id="mrdn-search-suggest" style="width: 182px;"></ul></div>
+                                    <br style="clear: both" />
+                                </td></tr>
+                                <tr><td>
+                                    <p><strong>Step 2:</strong></p>
+                                    <p>Confirm your selections</p>
+                                    <ul class="list-group-pills" id="disease-selections">
+                                    </ul>
+                                    <br>
+                                </td></tr>
+                                <tr><td>
+                                    <p><strong>Step 3:</strong></p>
+                                    <p>Show disease network</p>
+                                </td></tr>
+                            </table>
+                        </div>
+                        <div class="tab-pane" id="mrdn-browse-pane">
+                            <ul class="list-group-default"></ul>
+                        </div>
+                        <div class="tab-pane" id="mrdn-upload-pane">
+                            <div>
+                                <div>
+                                    <p><strong>Step 1:</strong></p>
+                                    <p>Enter upregulated miRNA list</p>
+                                    <div class="input-block">
+                                        <textarea class="" type="text" name="search" onkeydown="enter('up-mir')" placeholder="" id="up-mir" style="width: 200px;height: 150px"></textarea>
+                                    </div>
+                                    <p><strong>Step 2:</strong></p>
+                                    <p>Enter downregulated miRNA list</p>
+                                    <div class="input-block">
+                                        <textarea class="" type="text" name="search" onkeydown="enter('down-mir')" placeholder="" id="down-mir" style="width: 200px;height: 150px"></textarea>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane-submit">
+                        <button class="btn-default" style="width: 100%" id="clear-selections">Clear All</button>
+                        <button class="btn-default" style="width: 100%; margin-top: 10px;" id="btn-submit">Submit</button>
+                    </div>
+                </div>
+                <div class="mybox content-column">
+                    <div class="plot-content plot-status hidden sepline" id="plot-status">
+                        <div><button class="btn-default" id="mrdn-back">Back</button></div>
+                        <div class="myhint" style="font-weight: bold; padding-top: 8px"></div>
+                    </div>
+                    <div class="plot-content plot-homepage">
+                        <div class="info">
+                            <h2>miRNA-based Disease Network</h2>
+                        </div>
+                        <div class="plot sepline" id="homepage-net"></div>
+                        <div class="info">
+                            <h2>Statistics</h2>
+                        </div>
+                        <div class="plot" id="homepage-bar"></div>
+                    </div>
+                    <div class="plot-content plot-detail hidden">
+                        <div class="mrdn mrdn-network sepline" >
+                            <h2>Disease Network</h2>
+                            <div class="plot networkplot" id="mrdn-network" style="background-color: black;"></div>
+                            <div class="info plotinfo">
+                                <table class="infotable" id="mrdn-network-infotable" cellspacing="0">
+                                    <tr>
+                                        <th style="width: 30%">Disease</th>
+                                        <th style="width: 30%">Category</th>
+                                        <th>Degree</th>
+                                        <th>Positive Edge Number</th>
+                                        <th>Negative Edge Number</th>
+                                        <th>Cluster Coefficient</th>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
+                        <div class="mrdn mrdn-barplot" >
+                            <h2>Disease Similarity</h2>
+                            <div><span>Disease:&nbsp;</span><select id="barplot-select"></select></div>
+                            <div class="plot barplot" id="mrdn-barplot"></div>
+                            <div class="info plotinfo">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="fragment-10">
+            <div style="float: left; width:80%; padding: 0 0 0 50px; font-family: Lucida Grande, Lucida Sans, Arial, sans-serif;">
+                <p style="font-size: 16px;"><br/><b>Please cite:</b> </p>
+<!--                 <li>Lu et al. An analysis of human microRNA and disease associations. PLoS ONE. 2008;3(10):e3420.</li>
+                <li>Li et al. HMDD v2.0: a database for experimentally supported human microRNA and disease associations. Nucleic Acids Res. 2014 Jan;42(Database issue):D1070-4.</li>
+                <li>Huang et al. HMDD v3.0: a database for experimentally supported human microRNA-disease associations. Nucleic Acids Res. 2019 Jan 8;47(D1):D1013-D1017.</li> -->
+                <li>Cui C, Zhong B, Fan R, Cui Q. HMDD v4.0: a database for experimentally supported human microRNA-disease associations. Nucleic Acids Res. 2024;52(D1):D1327-D1332. doi:10.1093/nar/gkad717</li>
+                <p><b>If you use the module of  disease-network analysis, please cite this article as well. </b><li>Shen Y, Gao Y, Shi J, Huang Z, Dai R, Fu Y, Zhou Y, Kong W, Cui Q. MicroRNA-Disease Network Analysis Repurposes Methotrexate for the Treatment of Abdominal Aortic Aneurysm in Mice. Genomics Proteomics Bioinformatics. 2022 Aug 24:S1672-0229(22)00095-X. doi: 10.1016/j.gpb.2022.08.002.</li></p>
+                </div>
+        </div>
+    </div>
+
+    
+<script type="text/javascript">
+    var enter=function(id){
+        if (window.event.keyCode==13) {
+            var rawstr=$("#"+id).val();
+            $("#"+id).val(rawstr+"\n");
+        } 
+    }
+    $('#fragment-3').keydown(function(event){
+       if(event.keyCode==13)
+       { $("#searchclick").click(); }
+    });
+    $('#searchclick').click(function(){
+        if (!$('#input1_3').val()) {
+            alert('Please input one keyword for your search!');}
+        else {
+            $.ajax({
+                url:'/hmdd3app/search/',
+                type:'post',
+                data:{
+                    'type':$('#input1_1').val(),
+                    'exact':$('#input1_2').val(),
+                    'entry':$('#input1_3').val()
+                },
+                success:function(data){
+//                    $('#searchresult').html(data);
+                    console.log(data);
+                    if(data[0]['flag'] == 'max'){
+                        // console.log(data);
+                        // console.log('max!');
+                        alert("No more than 20 keywords!");
+                    }
+                    else if(data.length == 2){
+                        console.log('no result!');
+                        htmlstr = "<p style=\"font-size:140%; color:red; margin:0 0 0 0px;\">No entry matched your search.</p>"
+                        $('#searchresult').html(htmlstr);
+                    }
+                    else{
+                        console.log(data);
+                        htmlstr ="<div><a href=\"/static/hmdd3/download/" + data[data.length-1]['file'] + "\" id=\"download_btn\" class=\"ui-button ui-state-default\" style=\"text-decoration:none;font-size: 20px;\">download the result file</a></div>";
+                        htmlstr = htmlstr + "<table border=\"1\" style=\"text-align:center; margin:10px 0;border-collapse: collapse;\">";
+                        htmlstr = htmlstr + "<tr><th>miRNA name</th><th>Evidence Code</th><th>Disease name</th><th>PMID</th><th>Description</th><th>Causality</th></tr>";
+                        for(var i = 1;i<data.length-1;i++){
+                            htmlstr = htmlstr + "<tr><td style=\"width:200px;\">"+data[i]['mir']+"</td><td style=\"width:200px;\">"+data[i]['category']+"</td><td style=\"width:200px\">"+data[i]['disease']+"</td><td><a href=\"http://www.ncbi.nlm.nih.gov/pubmed/"+data[i]['pmid']+"\">"+data[i]['pmid']+"</a></td><td style=\"width:600px;\">"+data[i]['description']+"</td><td>"+data[i]['causality']+"</td></tr>";
+                        }
+                        htmlstr = htmlstr + "</table>";
+                        $('#searchresult').html(htmlstr);
+                    }
+                }
+            });
+        }
+        return false;
+    });
+</script>
+</body>
+</html>
+

@@ -1,0 +1,14 @@
+{
+  "dataset": "circ2Traits",
+  "total_circrnas": 923,
+  "circrnas_with_seq": 860,
+  "circrnas_with_mirna": 923,
+  "coverage_pct": 100.0,
+  "khgat_pairs": 0,
+  "seed_pairs": 37679,
+  "disease_pairs": 1615,
+  "gip_pairs": 160,
+  "fallback_pairs": 0,
+  "combined_pairs": 39454,
+  "unique_mirnas": 445
+}

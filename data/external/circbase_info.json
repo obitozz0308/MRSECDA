@@ -1,0 +1,6107 @@
+{
+  "hsa_circ_0078297": {
+    "gene_symbol": "MTHFD1L",
+    "best_transcript": "NM_001242767"
+  },
+  "hsa_circ_0043278": {
+    "gene_symbol": "TADA2A",
+    "best_transcript": "NM_001488"
+  },
+  "hsa_circ_0006220": {
+    "gene_symbol": "TADA2A",
+    "best_transcript": "NM_001488"
+  },
+  "hsa_circ_0001666": {
+    "gene_symbol": "FAM120B",
+    "best_transcript": "NM_032448"
+  },
+  "hsa_circ_0000977": {
+    "gene_symbol": "NOL10",
+    "best_transcript": "NM_024894"
+  },
+  "hsa_circ_0092374": {
+    "gene_symbol": "GADD45A",
+    "best_transcript": "NM_001924"
+  },
+  "hsa_circ_0003146": {
+    "gene_symbol": "EHD2",
+    "best_transcript": "NM_014601"
+  },
+  "hsa_circ_0034398": {
+    "gene_symbol": "C15ORF41",
+    "best_transcript": "NM_032499"
+  },
+  "hsa_circ_0001866": {
+    "gene_symbol": "UBQLN1",
+    "best_transcript": "NM_013438"
+  },
+  "hsa_circ_0046599": {
+    "gene_symbol": "B3GNTL1",
+    "best_transcript": "NM_001009905"
+  },
+  "hsa_circ_0021549": {
+    "gene_symbol": "MPPED2",
+    "best_transcript": "NM_001145399"
+  },
+  "hsa_circ_0037911": {
+    "gene_symbol": "GSPT1",
+    "best_transcript": "NM_001130007"
+  },
+  "hsa_circ_0008615": {
+    "gene_symbol": "PPP1R13L",
+    "best_transcript": "NM_001142502"
+  },
+  "hsa_circ_0040705": {
+    "gene_symbol": "USP10",
+    "best_transcript": "NM_005153"
+  },
+  "hsa_circ_0007534": {
+    "gene_symbol": "DDX42",
+    "best_transcript": "NM_007372"
+  },
+  "hsa_circ_0001649": {
+    "gene_symbol": "SHPRH",
+    "best_transcript": "NM_173082"
+  },
+  "hsa_circ_0002161": {
+    "gene_symbol": "GSPT1",
+    "best_transcript": "NM_001130007"
+  },
+  "hsa_circ_0001073": {
+    "gene_symbol": "ACVR2A",
+    "best_transcript": "NM_001616"
+  },
+  "hsa_circ_0084927": {
+    "gene_symbol": "ESRP1",
+    "best_transcript": "NM_017697"
+  },
+  "hsa_circ_0005941": {
+    "gene_symbol": "FTO",
+    "best_transcript": "NM_001080432"
+  },
+  "hsa_circ_0086376": {
+    "gene_symbol": "NFIB",
+    "best_transcript": "NM_001190737"
+  },
+  "hsa_circ_0018168": {
+    "gene_symbol": "PARD3",
+    "best_transcript": "NM_019619"
+  },
+  "hsa_circ_0002495": {
+    "gene_symbol": "RORA",
+    "best_transcript": "NM_134261"
+  },
+  "hsa_circ_0093859": {
+    "gene_symbol": "JMJD1C",
+    "best_transcript": "NM_032776"
+  },
+  "hsa_circ_0011946": {
+    "gene_symbol": "SCMH1",
+    "best_transcript": "NM_001031694"
+  },
+  "hsa_circ_0000172": {
+    "gene_symbol": "CSRP1",
+    "best_transcript": "NM_001193571"
+  },
+  "hsa_circ_0000284": {
+    "gene_symbol": "HIPK3",
+    "best_transcript": "NM_005734"
+  },
+  "hsa_circ_0004712": {
+    "gene_symbol": "PDE7B",
+    "best_transcript": "NM_018945"
+  },
+  "hsa_circ_0002198": {
+    "gene_symbol": "PDE7B",
+    "best_transcript": "NM_018945"
+  },
+  "hsa_circ_0067934": {
+    "gene_symbol": "PRKCI",
+    "best_transcript": "NM_002740"
+  },
+  "hsa_circ_0000175": {
+    "gene_symbol": "ELK4",
+    "best_transcript": "NM_021795"
+  },
+  "hsa_circ_0008433": {
+    "gene_symbol": "PDE4B",
+    "best_transcript": "NM_001037341"
+  },
+  "hsa_circ_0000219": {
+    "gene_symbol": "FAM188A",
+    "best_transcript": "NM_024948"
+  },
+  "hsa_circ_0001819": {
+    "gene_symbol": "UBR5",
+    "best_transcript": "NM_015902"
+  },
+  "hsa_circ_0000615": {
+    "gene_symbol": "ZNF609",
+    "best_transcript": "NM_015042"
+  },
+  "hsa_circ_0003922": {
+    "gene_symbol": "SP100",
+    "best_transcript": "NM_001080391"
+  },
+  "hsa_circ_0087537": {
+    "gene_symbol": "FAM120A",
+    "best_transcript": "NM_014612"
+  },
+  "hsa_circ_0072668": {
+    "gene_symbol": "ADAMTS6",
+    "best_transcript": "NM_197941"
+  },
+  "hsa_circ_0053743": {
+    "gene_symbol": "BIRC6",
+    "best_transcript": "NM_016252"
+  },
+  "hsa_circ_0029067": {
+    "gene_symbol": "CLIP1",
+    "best_transcript": "NM_001247997"
+  },
+  "hsa_circ_0005127": {
+    "gene_symbol": "REXO2",
+    "best_transcript": "NM_015523"
+  },
+  "hsa_circ_0063781": {
+    "gene_symbol": "PPARA",
+    "best_transcript": "NM_005036"
+  },
+  "hsa_circ_0000378": {
+    "gene_symbol": "LRP6",
+    "best_transcript": "NM_002336"
+  },
+  "hsa_circ_0003171": {
+    "gene_symbol": "PTK2",
+    "best_transcript": "NM_001199649"
+  },
+  "hsa_circ_0071896": {
+    "gene_symbol": "TRIO",
+    "best_transcript": "NM_007118"
+  },
+  "hsa_circ_0005267": {
+    "gene_symbol": "C14ORF118",
+    "best_transcript": "NM_017926"
+  },
+  "hsa_circ_0000426": {
+    "gene_symbol": "ATP2B1",
+    "best_transcript": "NM_001001323"
+  },
+  "hsa_circ_0001445": {
+    "gene_symbol": "SMARCA5",
+    "best_transcript": "NM_003601"
+  },
+  "hsa_circ_0080210": {
+    "gene_symbol": "GRB10",
+    "best_transcript": "NM_001001550"
+  },
+  "hsa_circ_0006427": {
+    "gene_symbol": "BCAR3",
+    "best_transcript": "NM_003567"
+  },
+  "hsa_circ_0014717": {
+    "gene_symbol": "CCT3",
+    "best_transcript": "NR_036564"
+  },
+  "hsa_circ_0015756": {
+    "gene_symbol": "CFH",
+    "best_transcript": "NM_000186"
+  },
+  "hsa_circ_0014130": {
+    "gene_symbol": "PIP5K1A",
+    "best_transcript": "NM_001135638"
+  },
+  "hsa_circ_0016760": {
+    "gene_symbol": "SNAP47",
+    "best_transcript": "NM_053052"
+  },
+  "hsa_circ_0067745": {
+    "gene_symbol": "ARHGEF26",
+    "best_transcript": "NM_001251962"
+  },
+  "hsa_circ_0062163": {
+    "gene_symbol": "CECR2",
+    "best_transcript": "NM_031413"
+  },
+  "hsa_circ_0017515": {
+    "gene_symbol": "KLF6",
+    "best_transcript": "NM_001300"
+  },
+  "hsa_circ_0005931": {
+    "gene_symbol": "SLC25A25",
+    "best_transcript": "NM_001006641"
+  },
+  "hsa_circ_0045510": {
+    "gene_symbol": "ABCA9",
+    "best_transcript": "NM_080283"
+  },
+  "hsa_circ_0079549": {
+    "gene_symbol": "RAPGEF5",
+    "best_transcript": "NM_012294"
+  },
+  "hsa_circ_0040081": {
+    "gene_symbol": "NQO1",
+    "best_transcript": "NM_000903"
+  },
+  "hsa_circ_0023114": {
+    "gene_symbol": "GSTP1",
+    "best_transcript": "NM_000852"
+  },
+  "hsa_circ_0041731": {
+    "gene_symbol": "FAM64A",
+    "best_transcript": "NM_019013"
+  },
+  "hsa_circ_0078710": {
+    "gene_symbol": "THBS2",
+    "best_transcript": "NM_003247"
+  },
+  "hsa_circ_0043534": {
+    "gene_symbol": "TOP2A",
+    "best_transcript": "NM_001067"
+  },
+  "hsa_circ_0023110": {
+    "gene_symbol": "GSTP1",
+    "best_transcript": "NM_000852"
+  },
+  "hsa_circ_0109046": {
+    "best_transcript": "ENST00000254321.5"
+  },
+  "hsa_circ_0072359": {
+    "gene_symbol": "OXCT1",
+    "best_transcript": "NM_000436"
+  },
+  "hsa_circ_0023117": {
+    "gene_symbol": "GSTP1",
+    "best_transcript": "NM_000852"
+  },
+  "hsa_circ_0066077": {
+    "best_transcript": "NM_001134231"
+  },
+  "hsa_circ_0057336": {
+    "gene_symbol": "TFPI",
+    "best_transcript": "NM_001032281"
+  },
+  "hsa_circ_0026143": {
+    "gene_symbol": "TROAP",
+    "best_transcript": "NM_005480"
+  },
+  "hsa_circ_0023115": {
+    "gene_symbol": "GSTP1",
+    "best_transcript": "NM_000852"
+  },
+  "hsa_circ_0000673": {
+    "gene_symbol": "RSL1D1",
+    "best_transcript": "NM_015659"
+  },
+  "hsa_circ_0002577": {
+    "gene_symbol": "WDR26",
+    "best_transcript": "NM_025160"
+  },
+  "hsa_circ_0062557": {
+    "gene_symbol": "CHCHD10",
+    "best_transcript": "NM_213720"
+  },
+  "hsa_circ_0007385": {
+    "gene_symbol": "MEMO1",
+    "best_transcript": "NM_015955"
+  },
+  "hsa_circ_0012673": {
+    "gene_symbol": "DHCR24",
+    "best_transcript": "NM_014762"
+  },
+  "hsa_circ_0046701": {
+    "gene_symbol": "YES1",
+    "best_transcript": "NM_005433"
+  },
+  "hsa_circ_0009910": {
+    "gene_symbol": "MFN2",
+    "best_transcript": "NM_014874"
+  },
+  "hsa_circ_0061276": {
+    "gene_symbol": "NRIP1",
+    "best_transcript": "NM_003489"
+  },
+  "hsa_circ_0067531": {
+    "gene_symbol": "PIK3CB",
+    "best_transcript": "NM_006219"
+  },
+  "hsa_circ_0001017": {
+    "gene_symbol": "XPO1",
+    "best_transcript": "NM_003400"
+  },
+  "hsa_circ_0074362": {
+    "gene_symbol": "ARHGAP26",
+    "best_transcript": "NM_015071"
+  },
+  "hsa_circ_0001564": {
+    "gene_symbol": "CANX",
+    "best_transcript": "NM_001024649"
+  },
+  "hsa_circ_0001946": {
+    "gene_symbol": "CDR1",
+    "best_transcript": "NM_004065"
+  },
+  "hsa_circ_0001141": {
+    "gene_symbol": "ITCH",
+    "best_transcript": "NM_031483"
+  },
+  "hsa_circ_0000567": {
+    "gene_symbol": "SETD3",
+    "best_transcript": "NM_199123"
+  },
+  "hsa_circ_0091702": {
+    "gene_symbol": "VMA21",
+    "best_transcript": "NM_001017980"
+  },
+  "hsa_circ_0043256": {
+    "gene_symbol": "ACACA",
+    "best_transcript": "NM_198839"
+  },
+  "hsa_circ_0046366": {
+    "gene_symbol": "FASN",
+    "best_transcript": "NM_004104"
+  },
+  "hsa_circ_0004214": {
+    "gene_symbol": "AMOTL1",
+    "best_transcript": "NM_130847"
+  },
+  "hsa_circ_0013509": {
+    "gene_symbol": "WDR77",
+    "best_transcript": "NM_024102"
+  },
+  "hsa_circ_0021001": {
+    "gene_symbol": "ARFIP2",
+    "best_transcript": "NM_001242854"
+  },
+  "hsa_circ_0002113": {
+    "gene_symbol": "IFNGR2",
+    "best_transcript": "NM_005534"
+  },
+  "hsa_circ_0008797": {
+    "gene_symbol": "GSK3B",
+    "best_transcript": "NM_002093"
+  },
+  "hsa_circ_0002362": {
+    "gene_symbol": "ASAP2",
+    "best_transcript": "NM_003887"
+  },
+  "hsa_circ_0000681": {
+    "gene_symbol": "PRKCB",
+    "best_transcript": "NM_002738"
+  },
+  "hsa_circ_0063179": {
+    "gene_symbol": "CSF2RB",
+    "best_transcript": "NM_000395"
+  },
+  "hsa_circ_0002908": {
+    "gene_symbol": "PTK2",
+    "best_transcript": "NM_001199649"
+  },
+  "hsa_circ_0013339": {
+    "gene_symbol": "SLC30A7",
+    "best_transcript": "NM_133496"
+  },
+  "hsa_circ_0000064": {
+    "gene_symbol": "B4GALT2",
+    "best_transcript": "NM_001005417"
+  },
+  "hsa_circ_0000414": {
+    "gene_symbol": "IRAK3",
+    "best_transcript": "NM_007199"
+  },
+  "hsa_circ_0005105": {
+    "gene_symbol": "SEC24A",
+    "best_transcript": "NM_021982"
+  },
+  "hsa_circ_0075001": {
+    "gene_symbol": "NPM1",
+    "best_transcript": "NM_002520"
+  },
+  "hsa_circ_0001577": {
+    "gene_symbol": "RANBP9",
+    "best_transcript": "NM_005493"
+  },
+  "hsa_circ_0005015": {
+    "gene_symbol": "HAS2",
+    "best_transcript": "NM_005328"
+  },
+  "hsa_circ_0066922": {
+    "gene_symbol": "HGD",
+    "best_transcript": "NM_000187"
+  },
+  "hsa_circ_0081108": {
+    "gene_symbol": "COL1A2",
+    "best_transcript": "NM_000089"
+  },
+  "hsa_circ_0019069": {
+    "gene_symbol": "SLC16A12",
+    "best_transcript": "NM_213606"
+  },
+  "hsa_circ_0041796": {
+    "gene_symbol": "C17ORF81",
+    "best_transcript": "NM_203413"
+  },
+  "hsa_circ_0087206": {
+    "gene_symbol": "ALDH1A1",
+    "best_transcript": "NM_000689"
+  },
+  "hsa_circ_0081162": {
+    "gene_symbol": "COL1A2",
+    "best_transcript": "NM_000089"
+  },
+  "hsa_circ_0072410": {
+    "gene_symbol": "NNT",
+    "best_transcript": "NM_012343"
+  },
+  "hsa_circ_0087215": {
+    "gene_symbol": "ANXA1",
+    "best_transcript": "NM_000700"
+  },
+  "hsa_circ_0068489": {
+    "best_transcript": "NM_139125"
+  },
+  "hsa_circ_0026372": {
+    "gene_symbol": "KRT81",
+    "best_transcript": "NM_002281"
+  },
+  "hsa_circ_0057093": {
+    "gene_symbol": "PDK1",
+    "best_transcript": "NM_002610"
+  },
+  "hsa_circ_0030055": {
+    "gene_symbol": "MTRF1",
+    "best_transcript": "NM_004294"
+  },
+  "hsa_circ_0026388": {
+    "gene_symbol": "KRT75",
+    "best_transcript": "NM_004693"
+  },
+  "hsa_circ_0041946": {
+    "gene_symbol": "TP53",
+    "best_transcript": "NM_001126114"
+  },
+  "hsa_circ_0008305": {
+    "gene_symbol": "PTK2",
+    "best_transcript": "NM_001199649"
+  },
+  "hsa_circ_0083964": {
+    "gene_symbol": "ASH2L",
+    "best_transcript": "NM_001105214"
+  },
+  "hsa_circ_0032683": {
+    "gene_symbol": "NEK9",
+    "best_transcript": "NM_033116"
+  },
+  "hsa_circ_0064996": {
+    "gene_symbol": "SNRK",
+    "best_transcript": "NM_017719"
+  },
+  "hsa_circ_0052012": {
+    "gene_symbol": "POLD1",
+    "best_transcript": "NM_002691"
+  },
+  "hsa_circ_0085154": {
+    "gene_symbol": "PABPC1",
+    "best_transcript": "NM_002568"
+  },
+  "hsa_circ_0070616": {
+    "gene_symbol": "PAPSS1",
+    "best_transcript": "NM_005443"
+  },
+  "hsa_circ_0003575": {
+    "gene_symbol": "CHMP5",
+    "best_transcript": "NM_016410"
+  },
+  "hsa_circ_0043497": {
+    "gene_symbol": "MED24",
+    "best_transcript": "NM_014815"
+  },
+  "hsa_circ_0001417": {
+    "gene_symbol": "ANKRD17",
+    "best_transcript": "NM_198889"
+  },
+  "hsa_circ_0006935": {
+    "gene_symbol": "PAPSS1",
+    "best_transcript": "NM_005443"
+  },
+  "hsa_circ_0001204": {
+    "gene_symbol": "DGCR8",
+    "best_transcript": "NM_022720"
+  },
+  "hsa_circ_0030045": {
+    "gene_symbol": "SLC25A15",
+    "best_transcript": "NM_014252"
+  },
+  "hsa_circ_0001785": {
+    "gene_symbol": "ELP3",
+    "best_transcript": "NM_018091"
+  },
+  "hsa_circ_0030569": {
+    "gene_symbol": "ABCC4",
+    "best_transcript": "NM_005845"
+  },
+  "hsa_circ_0068033": {
+    "gene_symbol": "NAALADL2",
+    "best_transcript": "NM_207015"
+  },
+  "hsa_circ_0108942": {
+    "gene_symbol": "ANKRD12",
+    "best_transcript": "NM_001204056"
+  },
+  "hsa_circ_0092509": {
+    "best_transcript": "ENST00000343289.5"
+  },
+  "hsa_circ_0000096": {
+    "gene_symbol": "HIAT1",
+    "best_transcript": "NM_033055"
+  },
+  "hsa_circ_0001895": {
+    "gene_symbol": "PRRC2B",
+    "best_transcript": "NM_013318"
+  },
+  "hsa_circ_0000190": {
+    "gene_symbol": "CNIH4",
+    "best_transcript": "NM_014184"
+  },
+  "hsa_circ_0003221": {
+    "gene_symbol": "PTK2",
+    "best_transcript": "NM_001199649"
+  },
+  "hsa_circ_0001313": {
+    "gene_symbol": "CCDC66",
+    "best_transcript": "NM_001012506"
+  },
+  "hsa_circ_0004018": {
+    "gene_symbol": "SMYD4",
+    "best_transcript": "NM_052928"
+  },
+  "hsa_circ_0005986": {
+    "gene_symbol": "PRDM2",
+    "best_transcript": "NM_012231"
+  },
+  "hsa_circ_0003570": {
+    "gene_symbol": "FAM53B",
+    "best_transcript": "NM_014661"
+  },
+  "hsa_circ_0058106": {
+    "gene_symbol": "FN1",
+    "best_transcript": "NM_212482"
+  },
+  "hsa_circ_0001727": {
+    "gene_symbol": "ZKSCAN1",
+    "best_transcript": "NM_003439"
+  },
+  "hsa_circ_0058107": {
+    "gene_symbol": "FN1",
+    "best_transcript": "NM_212482"
+  },
+  "hsa_circ_0007874": {
+    "gene_symbol": "MTO1",
+    "best_transcript": "NM_001123226"
+  },
+  "hsa_circ_0024108": {
+    "best_transcript": "NM_002421"
+  },
+  "hsa_circ_0002260": {
+    "gene_symbol": "PAPD4",
+    "best_transcript": "NM_001114394"
+  },
+  "hsa_circ_0001189": {
+    "gene_symbol": "MORC3",
+    "best_transcript": "NM_015358"
+  },
+  "hsa_circ_0023404": {
+    "best_transcript": "NM_018320"
+  },
+  "hsa_circ_0036722": {
+    "gene_symbol": "RHCG",
+    "best_transcript": "NM_016321"
+  },
+  "hsa_circ_0002343": {
+    "gene_symbol": "B3GALNT2",
+    "best_transcript": "NM_152490"
+  },
+  "hsa_circ_0069399": {
+    "gene_symbol": "ARAP2",
+    "best_transcript": "NM_015230"
+  },
+  "hsa circ 0031288": {
+    "gene_symbol": "PABPN1",
+    "best_transcript": "NM_004643"
+  },
+  "hsa_circ_0007386": {
+    "gene_symbol": "CRIM1",
+    "best_transcript": "NM_016441"
+  },
+  "hsa_circ_0001212": {
+    "gene_symbol": "GUSBP11",
+    "best_transcript": "NR_024448"
+  },
+  "hsa_circ_0008844": {
+    "gene_symbol": "MFSD2A",
+    "best_transcript": "NM_001136493"
+  },
+  "hsa_circ_0124644": {
+    "best_transcript": "ENST00000487694.3"
+  },
+  "hsa_circ_0001187": {
+    "gene_symbol": "DOPEY2",
+    "best_transcript": "NM_005128"
+  },
+  "hsa_circ_0113854": {
+    "gene_symbol": "ATG4C",
+    "best_transcript": "NM_032852"
+  },
+  "hsa_circ_0007928": {
+    "gene_symbol": "DCUN1D4",
+    "best_transcript": "NM_001040402"
+  },
+  "hsa_circ_0082081": {
+    "gene_symbol": "CADPS2",
+    "best_transcript": "NM_001167940"
+  },
+  "hsa_circ_0098964": {
+    "best_transcript": "ENST00000355086.3"
+  },
+  "hsa_circ_0008345": {
+    "gene_symbol": "PTK2",
+    "best_transcript": "NM_001199649"
+  },
+  "hsa_circ_0005603": {
+    "gene_symbol": "MAP2K4",
+    "best_transcript": "NM_003010"
+  },
+  "hsa_circ_0006460": {
+    "gene_symbol": "BRAF",
+    "best_transcript": "NM_004333"
+  },
+  "hsa_circ_0004872": {
+    "gene_symbol": "MAPK1",
+    "best_transcript": "NM_002745"
+  },
+  "hsa_circ_0003586": {
+    "gene_symbol": "NF1",
+    "best_transcript": "NM_001042492"
+  },
+  "hsa_circ_0000594": {
+    "gene_symbol": "TTBK2",
+    "best_transcript": "NM_173500"
+  },
+  "hsa_circ_0002968": {
+    "gene_symbol": "MAPK8",
+    "best_transcript": "NM_002750"
+  },
+  "hsa_circ_0006411": {
+    "gene_symbol": "PIK3R1",
+    "best_transcript": "NM_181523"
+  },
+  "hsa_circ_0000199": {
+    "gene_symbol": "AKT3",
+    "best_transcript": "NM_181690"
+  },
+  "hsa_circ_0001566": {
+    "gene_symbol": "MAPK9",
+    "best_transcript": "NM_139069"
+  },
+  "hsa_circ_0035381": {
+    "gene_symbol": "PIGB",
+    "best_transcript": "NM_004855"
+  },
+  "hsa_circ_0058058": {
+    "gene_symbol": "ATIC",
+    "best_transcript": "NM_004044"
+  },
+  "hsa_circ_0013958": {
+    "gene_symbol": "ACP6",
+    "best_transcript": "NM_016361"
+  },
+  "hsa_circ_0004277": {
+    "gene_symbol": "WDR37",
+    "best_transcript": "NM_014023"
+  },
+  "hsa_circ_0017446": {
+    "gene_symbol": "WDR37",
+    "best_transcript": "NM_014023"
+  },
+  "hsa_circ_0002111": {
+    "gene_symbol": "PSD3",
+    "best_transcript": "NM_015310"
+  },
+  "hsa_circ_0015278": {
+    "gene_symbol": "KLHL20",
+    "best_transcript": "NM_014458"
+  },
+  "hsa_circ_0004458": {
+    "gene_symbol": "PSD3",
+    "best_transcript": "NM_015310"
+  },
+  "hsa_circ_0004136": {
+    "gene_symbol": "KCNQ5",
+    "best_transcript": "NM_001160133"
+  },
+  "hsa_circ_0004771": {
+    "gene_symbol": "NRIP1",
+    "best_transcript": "NM_003489"
+  },
+  "hsa_circ_0021553": {
+    "gene_symbol": "MPPED2",
+    "best_transcript": "NM_001145399"
+  },
+  "hsa_circ_0091894": {
+    "gene_symbol": "FLNA",
+    "best_transcript": "NM_001110556"
+  },
+  "hsa_circ_0092315": {
+    "gene_symbol": "PWP2",
+    "best_transcript": "NM_005049"
+  },
+  "hsa_circ_0067103": {
+    "gene_symbol": "ZNF148",
+    "best_transcript": "NM_021964"
+  },
+  "hsa_circ_0079891": {
+    "gene_symbol": "ELMO1",
+    "best_transcript": "NM_001206482"
+  },
+  "hsa_circ_0078738": {
+    "gene_symbol": "WDR27",
+    "best_transcript": "NM_182552"
+  },
+  "hsa_circ_0004846": {
+    "gene_symbol": "SAMD4A",
+    "best_transcript": "NM_015589"
+  },
+  "hsa_circ_0000516": {
+    "gene_symbol": "RPPH1",
+    "best_transcript": "NR_002312"
+  },
+  "hsa_circ_0008016": {
+    "gene_symbol": "FGFR1",
+    "best_transcript": "NM_001174064"
+  },
+  "hsa_circ_0064557": {
+    "gene_symbol": "SATB1",
+    "best_transcript": "NM_001195470"
+  },
+  "hsa_circ_0003505": {
+    "gene_symbol": "USP22",
+    "best_transcript": "NM_015276"
+  },
+  "hsa_circ_0081342": {
+    "gene_symbol": "ARPC1B",
+    "best_transcript": "NM_005720"
+  },
+  "hsa_circ_0035431": {
+    "gene_symbol": "CGNL1",
+    "best_transcript": "NM_001252335"
+  },
+  "hsa_circ_0076304": {
+    "gene_symbol": "PGC",
+    "best_transcript": "NM_002630"
+  },
+  "hsa_circ_0076305": {
+    "gene_symbol": "PGC",
+    "best_transcript": "NM_002630"
+  },
+  "hsa_circ_0000504": {
+    "gene_symbol": "TUBGCP3",
+    "best_transcript": "NM_006322"
+  },
+  "hsa_circ_0007006": {
+    "gene_symbol": "DYM",
+    "best_transcript": "NM_017653"
+  },
+  "hsa_circ_0048232": {
+    "gene_symbol": "DAZAP1",
+    "best_transcript": "NM_170711"
+  },
+  "hsa_circ_0007031": {
+    "gene_symbol": "TUBGCP3",
+    "best_transcript": "NM_006322"
+  },
+  "hsa_circ_0006174": {
+    "gene_symbol": "RAD23B",
+    "best_transcript": "NM_002874"
+  },
+  "hsa_circ_0023984": {
+    "gene_symbol": "NOX4",
+    "best_transcript": "NM_001143837"
+  },
+  "hsa_circ_0074930": {
+    "gene_symbol": "SLIT3",
+    "best_transcript": "NM_003062"
+  },
+  "hsa_circ_0008509": {
+    "gene_symbol": "NAV3",
+    "best_transcript": "NM_014903"
+  },
+  "hsa_circ_0084021": {
+    "gene_symbol": "PLEKHA2",
+    "best_transcript": "NM_021623"
+  },
+  "hsa_circ_0051239": {
+    "gene_symbol": "ATP5SL",
+    "best_transcript": "NM_001167867"
+  },
+  "hsa_circ_0003258": {
+    "gene_symbol": "ZNF652",
+    "best_transcript": "NM_001145365"
+  },
+  "hsa_circ_0091017": {
+    "gene_symbol": "TAF1",
+    "best_transcript": "NM_004606"
+  },
+  "hsa_circ_0079385": {
+    "gene_symbol": "ZDHHC4",
+    "best_transcript": "NM_001134387"
+  },
+  "hsa_circ_0043138": {
+    "gene_symbol": "TAF15",
+    "best_transcript": "NM_139215"
+  },
+  "hsa_circ_0002024": {
+    "gene_symbol": "NAB1",
+    "best_transcript": "NM_005966"
+  },
+  "hsa_circ_0011021": {
+    "gene_symbol": "PIGV",
+    "best_transcript": "NM_001202554"
+  },
+  "hsa_circ_0034912": {
+    "gene_symbol": "UBR1",
+    "best_transcript": "NM_174916"
+  },
+  "hsa_circ_0018289": {
+    "gene_symbol": "SYT15",
+    "best_transcript": "NM_031912"
+  },
+  "hsa_circ_0089231": {
+    "gene_symbol": "PRRC2B",
+    "best_transcript": "NM_013318"
+  },
+  "hsa_circ_0003159": {
+    "gene_symbol": "CACNA2D1",
+    "best_transcript": "NM_000722"
+  },
+  "hsa_circ_0091822": {
+    "gene_symbol": "IRAK1",
+    "best_transcript": "NM_001569"
+  },
+  "hsa_circ_0087432": {
+    "gene_symbol": "SPIN1",
+    "best_transcript": "NM_006717"
+  },
+  "hsa_circ_0000181": {
+    "gene_symbol": "TATDN3",
+    "best_transcript": "NM_001146171"
+  },
+  "hsa_circ_0004619": {
+    "gene_symbol": "FAF1",
+    "best_transcript": "NM_007051"
+  },
+  "hsa_circ_0001824": {
+    "gene_symbol": "ASAP1",
+    "best_transcript": "NM_018482"
+  },
+  "hsa_circ_0006054": {
+    "gene_symbol": "KIAA0355",
+    "best_transcript": "NM_014686"
+  },
+  "hsa_circ_0001875": {
+    "gene_symbol": "FAM120A",
+    "best_transcript": "NM_014612"
+  },
+  "hsa_circ_0085616": {
+    "gene_symbol": "ASAP1",
+    "best_transcript": "NM_001247996"
+  },
+  "hsa_circ_0000745": {
+    "gene_symbol": "SPECC1",
+    "best_transcript": "NM_001033554"
+  },
+  "hsa_circ_0001724": {
+    "gene_symbol": "CDK6",
+    "best_transcript": "NM_001145306"
+  },
+  "hsa_circ_0006633": {
+    "gene_symbol": "FGGY",
+    "best_transcript": "NM_001113411"
+  },
+  "hsa_circ_0023903": {
+    "gene_symbol": "PICALM",
+    "best_transcript": "NM_007166"
+  },
+  "hsa_circ_0002569": {
+    "gene_symbol": "SETD2",
+    "best_transcript": "NM_014159"
+  },
+  "hsa_circ_0000520": {
+    "gene_symbol": "RPPH1",
+    "best_transcript": "NR_002312"
+  },
+  "hsa_circ_0006127": {
+    "gene_symbol": "SRCAP",
+    "best_transcript": "NM_006662"
+  },
+  "hsa_circ_0002078": {
+    "gene_symbol": "ABCC1",
+    "best_transcript": "NM_004996"
+  },
+  "hsa_circ_0005836": {
+    "gene_symbol": "TRAPPC6B",
+    "best_transcript": "NM_001079537"
+  },
+  "hsa_circ_0067209": {
+    "gene_symbol": "EEFSEC",
+    "best_transcript": "NM_021937"
+  },
+  "hsa_circ_0050898": {
+    "gene_symbol": "ACTN4",
+    "best_transcript": "NM_004924"
+  },
+  "hsa_circ_0023956": {
+    "gene_symbol": "C11ORF73",
+    "best_transcript": "NM_016401"
+  },
+  "hsa_circ_0009128": {
+    "gene_symbol": "TXNDC11",
+    "best_transcript": "NM_015914"
+  },
+  "hsa_circ_0078768": {
+    "gene_symbol": "FAM120B",
+    "best_transcript": "NM_032448"
+  },
+  "hsa_circ_0088452": {
+    "gene_symbol": "DENND1A",
+    "best_transcript": "NM_020946"
+  },
+  "hsa_circ_0085495": {
+    "gene_symbol": "TMEM65",
+    "best_transcript": "NM_194291"
+  },
+  "hsa_circ_0001667": {
+    "gene_symbol": "HEATR2",
+    "best_transcript": "NM_017802"
+  },
+  "hsa_circ_0002874": {
+    "gene_symbol": "GLIS3",
+    "best_transcript": "NM_001042413"
+  },
+  "hsa_circ_0086241": {
+    "gene_symbol": "RFX3",
+    "best_transcript": "NM_002919"
+  },
+  "hsa_circ_0006528": {
+    "gene_symbol": "PRELID2",
+    "best_transcript": "NM_138492"
+  },
+  "hsa_circ_0092276": {
+    "gene_symbol": "NISCH",
+    "best_transcript": "NM_007184"
+  },
+  "hsa_circ_0003838": {
+    "gene_symbol": "TTBK2",
+    "best_transcript": "NM_173500"
+  },
+  "hsa_circ_0071410": {
+    "gene_symbol": "PALLD",
+    "best_transcript": "NM_001166108"
+  },
+  "hsa_circ_0072765": {
+    "gene_symbol": "CCNB1",
+    "best_transcript": "NM_031966"
+  },
+  "hsa_circ_0070963": {
+    "gene_symbol": "SCLT1",
+    "best_transcript": "NM_144643"
+  },
+  "hsa_circ_0054345": {
+    "gene_symbol": "LRPPRC",
+    "best_transcript": "NM_133259"
+  },
+  "hsa_circ_0013255": {
+    "gene_symbol": "DPYD",
+    "best_transcript": "NM_000110"
+  },
+  "hsa_circ_0008717": {
+    "gene_symbol": "ABCB10",
+    "best_transcript": "NM_012089"
+  },
+  "hsa_circ_0008945": {
+    "gene_symbol": "NIN",
+    "best_transcript": "NM_020921"
+  },
+  "hsa_circ_0001982": {
+    "gene_symbol": "RNF111",
+    "best_transcript": "NM_017610"
+  },
+  "hsa_circ_0000732": {
+    "gene_symbol": "SCARF1",
+    "best_transcript": "NM_003693"
+  },
+  "hsa_circ_0020397": {
+    "gene_symbol": "DOCK1",
+    "best_transcript": "NM_001380"
+  },
+  "hsa_circ_0061893": {
+    "gene_symbol": "PDXK",
+    "best_transcript": "NM_003681"
+  },
+  "hsa_circ_0000098": {
+    "gene_symbol": "SLC30A7",
+    "best_transcript": "NM_001144884"
+  },
+  "hsa_circ_0000981": {
+    "gene_symbol": "LAPTM4A",
+    "best_transcript": "NM_014713"
+  },
+  "hsa_circ_0001283": {
+    "gene_symbol": "WDR48",
+    "best_transcript": "NM_020839"
+  },
+  "hsa_circ_0000893": {
+    "gene_symbol": "DHPS",
+    "best_transcript": "NM_001930"
+  },
+  "hsa_circ_0002768": {
+    "gene_symbol": "MYLK",
+    "best_transcript": "NM_053025"
+  },
+  "hsa_circ_0000911": {
+    "gene_symbol": "GTPBP3",
+    "best_transcript": "NM_001195422"
+  },
+  "hsa_circ_0035560": {
+    "gene_symbol": "ANXA2",
+    "best_transcript": "NM_001136015"
+  },
+  "hsa_circ_0000518": {
+    "gene_symbol": "RPPH1",
+    "best_transcript": "NR_002312"
+  },
+  "hsa_circ_0000519": {
+    "gene_symbol": "RPPH1",
+    "best_transcript": "NR_002312"
+  },
+  "hsa_circ_0000517": {
+    "gene_symbol": "RPPH1",
+    "best_transcript": "NR_002312"
+  },
+  "hsa_circ_0024892": {
+    "gene_symbol": "SNX19",
+    "best_transcript": "NM_014758"
+  },
+  "hsa_circ_0001400": {
+    "gene_symbol": "RELL1",
+    "best_transcript": "NM_001085399"
+  },
+  "hsa_circ_0005870": {
+    "gene_symbol": "SETD2",
+    "best_transcript": "NM_014159"
+  },
+  "hsa_circ_0005402": {
+    "gene_symbol": "ANXA2",
+    "best_transcript": "NM_001136015"
+  },
+  "hsa_circ_0001721": {
+    "gene_symbol": "CDK14",
+    "best_transcript": "NM_012395"
+  },
+  "hsa_circ_0056731": {
+    "gene_symbol": "CACNB4",
+    "best_transcript": "NM_001005747"
+  },
+  "hsa_circ_0058246": {
+    "gene_symbol": "VIL1",
+    "best_transcript": "NM_007127"
+  },
+  "hsa_circ_0085553": {
+    "gene_symbol": "PVT1",
+    "best_transcript": "NR_003367"
+  },
+  "hsa_circ_0003707": {
+    "gene_symbol": "CD44",
+    "best_transcript": "NM_000610"
+  },
+  "hsa_circ_0091742": {
+    "gene_symbol": "BGN",
+    "best_transcript": "NM_001711"
+  },
+  "hsa_circ_0069131": {
+    "gene_symbol": "AFAP1",
+    "best_transcript": "NM_001134647"
+  },
+  "hsa_circ_0031979": {
+    "gene_symbol": "CDKN3",
+    "best_transcript": "NM_005192"
+  },
+  "hsa_circ_0089548": {
+    "gene_symbol": "NOTCH1",
+    "best_transcript": "NM_017617"
+  },
+  "hsa_circ_0006022": {
+    "gene_symbol": "LYN",
+    "best_transcript": "NM_002350"
+  },
+  "hsa_circ_0054633": {
+    "gene_symbol": "PNPT1",
+    "best_transcript": "NM_033109"
+  },
+  "hsa_circ_0018508": {
+    "gene_symbol": "DNA2",
+    "best_transcript": "NM_001080449"
+  },
+  "hsa_circ_0068087": {
+    "gene_symbol": "GNB4",
+    "best_transcript": "NM_021629"
+  },
+  "hsa_circ_0032821": {
+    "gene_symbol": "CEP128",
+    "best_transcript": "NM_152446"
+  },
+  "hsa_circ_0000144": {
+    "gene_symbol": "SLAMF6",
+    "best_transcript": "NM_052931"
+  },
+  "hsa_circ_0061274": {
+    "gene_symbol": "NRIP1",
+    "best_transcript": "NM_003489"
+  },
+  "hsa_circ_0000026": {
+    "gene_symbol": "EIF4G3",
+    "best_transcript": "NM_001198803"
+  },
+  "hsa_circ_0005529": {
+    "gene_symbol": "VPS33B",
+    "best_transcript": "NM_018668"
+  },
+  "hsa_circ_0005927": {
+    "gene_symbol": "VDAC3",
+    "best_transcript": "NM_001135694"
+  },
+  "hsa_circ_0045714": {
+    "gene_symbol": "UNK",
+    "best_transcript": "NM_001080419"
+  },
+  "hsa_circ_0001561": {
+    "gene_symbol": "AGXT2L2",
+    "best_transcript": "NM_153373"
+  },
+  "hsa_circ_0092341": {
+    "gene_symbol": "C6ORF132",
+    "best_transcript": "NM_001164446"
+  },
+  "hsa_circ_0004372": {
+    "gene_symbol": "PAN3",
+    "best_transcript": "NM_175854"
+  },
+  "hsa_circ_0002271": {
+    "gene_symbol": "C2ORF43",
+    "best_transcript": "NM_021925"
+  },
+  "hsa_circ_0079929": {
+    "gene_symbol": "CDK13",
+    "best_transcript": "NM_003718"
+  },
+  "hsa_circ_0055377": {
+    "gene_symbol": "CTNNA2",
+    "best_transcript": "NM_004389"
+  },
+  "hsa_circ_0005525": {
+    "gene_symbol": "ATP8B1",
+    "best_transcript": "NM_005603"
+  },
+  "hsa_circ_0005567": {
+    "gene_symbol": "EPS15",
+    "best_transcript": "NM_001981"
+  },
+  "hsa_circ_0084615": {
+    "gene_symbol": "ASPH",
+    "best_transcript": "NM_032468"
+  },
+  "hsa_circ_0006988": {
+    "gene_symbol": "LDLRAD3",
+    "best_transcript": "NM_174902"
+  },
+  "hsa_circ_0067175": {
+    "gene_symbol": "ABTB1",
+    "best_transcript": "NM_172027"
+  },
+  "hsa_circ_0003028": {
+    "gene_symbol": "FUT8",
+    "best_transcript": "NM_178155"
+  },
+  "hsa_circ_0007915": {
+    "gene_symbol": "IPO11",
+    "best_transcript": "NM_001134779"
+  },
+  "hsa_circ_0016347": {
+    "gene_symbol": "KCNH1",
+    "best_transcript": "NM_172362"
+  },
+  "hsa_circ_0056288": {
+    "gene_symbol": "GLI2",
+    "best_transcript": "NM_005270"
+  },
+  "hsa_circ_0006404": {
+    "gene_symbol": "FOXO3",
+    "best_transcript": "NM_001455"
+  },
+  "hsa_circ_0106803": {
+    "best_transcript": "ENST00000394175.2"
+  },
+  "hsa_circ_0005075": {
+    "gene_symbol": "EIF4G3",
+    "best_transcript": "NM_001198801"
+  },
+  "hsa_circ_0004383": {
+    "gene_symbol": "ZNF292",
+    "best_transcript": "NM_015021"
+  },
+  "hsa_circ_0023028": {
+    "gene_symbol": "C11ORF80",
+    "best_transcript": "NM_024650"
+  },
+  "hsa_circ_0005785": {
+    "gene_symbol": "ANAPC7",
+    "best_transcript": "NM_016238"
+  },
+  "hsa_circ_0005397": {
+    "gene_symbol": "RHOT1",
+    "best_transcript": "NM_001033568"
+  },
+  "hsa_circ_0088442": {
+    "gene_symbol": "DENND1A",
+    "best_transcript": "NM_020946"
+  },
+  "hsa_circ_0006913": {
+    "gene_symbol": "ARID1A",
+    "best_transcript": "NM_006015"
+  },
+  "hsa_circ_0041150": {
+    "gene_symbol": "RPH3AL",
+    "best_transcript": "NM_006987"
+  },
+  "hsa_circ_0008719": {
+    "gene_symbol": "AKT2",
+    "best_transcript": "NM_001626"
+  },
+  "hsa_circ_0014879": {
+    "gene_symbol": "DCAF8",
+    "best_transcript": "NR_028103"
+  },
+  "hsa_circ_0002019": {
+    "gene_symbol": "FOXRED1",
+    "best_transcript": "NR_037648"
+  },
+  "hsa_circ_0089974": {
+    "gene_symbol": "NHS",
+    "best_transcript": "NM_198270"
+  },
+  "hsa_circ_0001336": {
+    "gene_symbol": "EEFSEC",
+    "best_transcript": "NM_021937"
+  },
+  "hsa_circ_0032832": {
+    "gene_symbol": "STON2",
+    "best_transcript": "NM_033104"
+  },
+  "hsa_circ_0000257": {
+    "gene_symbol": "NOLC1",
+    "best_transcript": "NM_004741"
+  },
+  "hsa_circ_0004519": {
+    "gene_symbol": "RFWD3",
+    "best_transcript": "NM_018124"
+  },
+  "hsa_circ_0070933": {
+    "gene_symbol": "LARP1B",
+    "best_transcript": "NM_018078"
+  },
+  "hsa_circ_0001955": {
+    "gene_symbol": "CSNK1G1",
+    "best_transcript": "NM_022048"
+  },
+  "hsa_circ_0000554": {
+    "gene_symbol": "LIN52",
+    "best_transcript": "NM_001024674"
+  },
+  "hsa_circ_0070934": {
+    "gene_symbol": "LARP1B",
+    "best_transcript": "NM_018078"
+  },
+  "hsa_circ_0038374": {
+    "gene_symbol": "IQCK",
+    "best_transcript": "NM_153208"
+  },
+  "hsa_circ_0108308": {
+    "best_transcript": "NM_001198939"
+  },
+  "hsa_circ_0032891": {
+    "gene_symbol": "EFCAB11",
+    "best_transcript": "NM_145231"
+  },
+  "hsa_circ_0054211": {
+    "gene_symbol": "MAP4K3",
+    "best_transcript": "NM_003618"
+  },
+  "hsa_circ_0075829": {
+    "gene_symbol": "LINC00340",
+    "best_transcript": "NR_015410"
+  },
+  "hsa_circ_0008732": {
+    "gene_symbol": "BNC2",
+    "best_transcript": "NM_017637"
+  },
+  "hsa_circ_0005912": {
+    "gene_symbol": "FIP1L1",
+    "best_transcript": "NM_030917"
+  },
+  "hsa_circ_0029601": {
+    "gene_symbol": "TPTE2",
+    "best_transcript": "NM_199254"
+  },
+  "hsa_circ_0005540": {
+    "gene_symbol": "MCTP1",
+    "best_transcript": "NM_024717"
+  },
+  "hsa_circ_0001410": {
+    "gene_symbol": "DCUN1D4",
+    "best_transcript": "NM_015115"
+  },
+  "hsa_circ_0005620": {
+    "gene_symbol": "SH3PXD2A",
+    "best_transcript": "NM_014631"
+  },
+  "hsa_circ_0001907": {
+    "gene_symbol": "LOC100507412",
+    "best_transcript": "NR_038958"
+  },
+  "hsa_circ_0007158": {
+    "gene_symbol": "FAM169A",
+    "best_transcript": "NM_015566"
+  },
+  "hsa_circ_0089310": {
+    "gene_symbol": "GTF3C5",
+    "best_transcript": "NM_001122823"
+  },
+  "hsa_circ_0082582": {
+    "gene_symbol": "TRIM24",
+    "best_transcript": "NM_015905"
+  },
+  "hsa_circ_0000069": {
+    "gene_symbol": "STIL",
+    "best_transcript": "NM_003035"
+  },
+  "hsa_circ_0072088": {
+    "gene_symbol": "ZFR",
+    "best_transcript": "NM_016107"
+  },
+  "hsa_circ_0005273": {
+    "gene_symbol": "PTK2",
+    "best_transcript": "NM_001199649"
+  },
+  "hsa_circ_0041103": {
+    "gene_symbol": "TCF25",
+    "best_transcript": "NM_014972"
+  },
+  "hsa_circ_0005218": {
+    "gene_symbol": "FAM120A",
+    "best_transcript": "NM_014612"
+  },
+  "hsa_circ_0000140": {
+    "gene_symbol": "KIAA0907",
+    "best_transcript": "NM_014949"
+  },
+  "hsa_circ_0000677": {
+    "gene_symbol": "ABCC1",
+    "best_transcript": "NM_019899"
+  },
+  "hsa_circ_0082333": {
+    "gene_symbol": "KLHDC10",
+    "best_transcript": "NM_014997"
+  },
+  "hsa_circ_0008887": {
+    "gene_symbol": "HIPK3",
+    "best_transcript": "NM_005734"
+  },
+  "hsa_circ_0005442": {
+    "gene_symbol": "CRIM1",
+    "best_transcript": "NM_016441"
+  },
+  "hsa_circ_001196": {
+    "gene_symbol": "WDR4",
+    "best_transcript": "NM_033661"
+  },
+  "hsa_circ_002052": {
+    "gene_symbol": "PAPPA",
+    "best_transcript": "NM_002581"
+  },
+  "hsa_circ_000224": {
+    "gene_symbol": "PLXDC2",
+    "best_transcript": "NM_032812"
+  },
+  "hsa_circ_002027": {
+    "gene_symbol": "FMN2",
+    "best_transcript": "NM_020066"
+  },
+  "hsa_circ_002109": {
+    "gene_symbol": "MCM10",
+    "best_transcript": "NM_182751"
+  },
+  "hsa_circ_000753": {
+    "gene_symbol": "SSH2",
+    "best_transcript": "NM_033389"
+  },
+  "hsa_circ_001181": {
+    "gene_symbol": "BACH1",
+    "best_transcript": "NM_001186"
+  },
+  "hsa_circ_006054": {
+    "gene_symbol": "KIAA0355",
+    "best_transcript": "NM_014686"
+  },
+  "hsa_circ_001522": {
+    "gene_symbol": "CSNK1G3",
+    "best_transcript": "NM_001044723"
+  },
+  "hsa_circRNA_104700": {
+    "best_transcript": "NM_199330"
+  },
+  "hsa_circ_000870": {
+    "gene_symbol": "PIP5K1C",
+    "best_transcript": "NM_001195733"
+  },
+  "hsa_circ_000064": {
+    "gene_symbol": "B4GALT2",
+    "best_transcript": "NM_001005417"
+  },
+  "hsa_circ_001328": {
+    "gene_symbol": "SIDT1",
+    "best_transcript": "NM_017699"
+  },
+  "hsa_circ_0002062": {
+    "gene_symbol": "PTK2",
+    "best_transcript": "NM_001199649"
+  },
+  "hsa_circ_001792": {
+    "gene_symbol": "ANK1",
+    "best_transcript": "NM_000037"
+  },
+  "hsa_circRNA_101407": {
+    "best_transcript": "ENST00000331782.3"
+  },
+  "hsa_circ_000155": {
+    "gene_symbol": "DCAF6",
+    "best_transcript": "NM_001017977"
+  },
+  "hsa_circ_001664": {
+    "gene_symbol": "EZR",
+    "best_transcript": "NM_003379"
+  },
+  "hsa_circ_000125": {
+    "gene_symbol": "RNF115",
+    "best_transcript": "NM_014455"
+  },
+  "hsa_circRNA_086376": {
+    "gene_symbol": "NFIB",
+    "best_transcript": "NM_001190737"
+  },
+  "hsa_circ_001048": {
+    "gene_symbol": "ANKRD36",
+    "best_transcript": "NM_001164315"
+  },
+  "hsa_circ_000918": {
+    "gene_symbol": "GMIP",
+    "best_transcript": "NM_016573"
+  },
+  "hsa_circ_001339": {
+    "gene_symbol": "ISY1",
+    "best_transcript": "NM_001199469"
+  },
+  "hsa_circ_001691": {
+    "gene_symbol": "HNRNPA2B1",
+    "best_transcript": "NM_031243"
+  },
+  "hsa_circ_001062": {
+    "gene_symbol": "ZC3H6",
+    "best_transcript": "NM_198581"
+  },
+  "hsa_circ_002121": {
+    "gene_symbol": "OXCT1",
+    "best_transcript": "NM_000436"
+  },
+  "hsa_circ_001126": {
+    "gene_symbol": "PTPRA",
+    "best_transcript": "NM_080841"
+  },
+  "hsa_circ_000079": {
+    "gene_symbol": "USP1",
+    "best_transcript": "NM_001017416"
+  },
+  "hsa_circ_000304": {
+    "gene_symbol": "CELF1",
+    "best_transcript": "NM_198700"
+  },
+  "hsa_circ_001962": {
+    "gene_symbol": "ZNF483",
+    "best_transcript": "NM_133464"
+  },
+  "hsa_circ_001510": {
+    "gene_symbol": "VCAN",
+    "best_transcript": "NM_004385"
+  },
+  "hsa_circ_001998": {
+    "gene_symbol": "FUT8",
+    "best_transcript": "NM_178155"
+  },
+  "hsa_circ_000547": {
+    "gene_symbol": "RAD51B",
+    "best_transcript": "NM_133509"
+  },
+  "hsa_circ_000841": {
+    "gene_symbol": "TRAPPC8",
+    "best_transcript": "NM_014939"
+  },
+  "hsa_circ_001757": {
+    "gene_symbol": "SLC37A3",
+    "best_transcript": "NM_032295"
+  },
+  "hsa_circ_001467": {
+    "gene_symbol": "MARCH6",
+    "best_transcript": "NM_005885"
+  },
+  "hsa_circ_001606": {
+    "gene_symbol": "MEA1",
+    "best_transcript": "NM_014623"
+  },
+  "hsa_circRNA_101113": {
+    "best_transcript": "ENST00000376586.2"
+  },
+  "hsa_circ_001813": {
+    "gene_symbol": "INTS8",
+    "best_transcript": "NM_017864"
+  },
+  "hsa_circ_000840": {
+    "gene_symbol": "IMPACT",
+    "best_transcript": "NM_018439"
+  },
+  "hsa_circRNA_102002": {
+    "best_transcript": "ENST00000216373.5"
+  },
+  "hsa_circ_000920": {
+    "gene_symbol": "ZNF430",
+    "best_transcript": "NM_025189"
+  },
+  "hsa_circ_000999": {
+    "gene_symbol": "RHOQ",
+    "best_transcript": "NM_012249"
+  },
+  "hsa_circ_001911": {
+    "gene_symbol": "FANCB",
+    "best_transcript": "NM_001018113"
+  },
+  "hsa_circ_000867": {
+    "gene_symbol": "OAZ1",
+    "best_transcript": "NM_004152"
+  },
+  "hsa_circ_001107": {
+    "gene_symbol": "SP140L",
+    "best_transcript": "NM_138402"
+  },
+  "hsa_circ_082319": {
+    "gene_symbol": "ZC3HC1",
+    "best_transcript": "NM_016478"
+  },
+  "mmu_circ_0001046": {
+    "gene_symbol": "AMBRA1",
+    "best_transcript": "NM_001080754"
+  },
+  "hsa_circ_001833": {
+    "gene_symbol": "HEATR7A",
+    "best_transcript": "NM_001099281"
+  },
+  "hsa_circ_001894": {
+    "gene_symbol": "NUP188",
+    "best_transcript": "NM_015354"
+  },
+  "hsa_circRNA_103643": {
+    "gene_symbol": "SPG11",
+    "best_transcript": "NM_025137"
+  },
+  "hsa_circ_001491": {
+    "gene_symbol": "IPO11",
+    "best_transcript": "NM_001134779"
+  },
+  "hsa_circ_000094": {
+    "gene_symbol": "CNN3",
+    "best_transcript": "NM_001839"
+  },
+  "hsa_circ_002022": {
+    "gene_symbol": "USP22",
+    "best_transcript": "NM_015276"
+  },
+  "hsa_circ_000648": {
+    "gene_symbol": "KLHL25",
+    "best_transcript": "NM_022480"
+  },
+  "hsa_circ_000839": {
+    "gene_symbol": "TTC39C",
+    "best_transcript": "NM_001135993"
+  },
+  "hsa_circ_002039": {
+    "gene_symbol": "OSBPL9",
+    "best_transcript": "NM_148909"
+  },
+  "hsa_circ_001599": {
+    "gene_symbol": "FKBP5",
+    "best_transcript": "NM_001145776"
+  },
+  "hsa_circ_001848": {
+    "gene_symbol": "UBAP2",
+    "best_transcript": "NM_018449"
+  },
+  "hsa_circ_001748": {
+    "gene_symbol": "CHCHD3",
+    "best_transcript": "NM_017812"
+  },
+  "hsa_circRNA_101539": {
+    "best_transcript": "ENST00000458591.2"
+  },
+  "hsa_circ_000853": {
+    "gene_symbol": "MALT1",
+    "best_transcript": "NM_173844"
+  },
+  "hsa_circ_001214": {
+    "gene_symbol": "PITPNB",
+    "best_transcript": "NM_012399"
+  },
+  "hsa_circ_000112": {
+    "gene_symbol": "AP4B1",
+    "best_transcript": "NM_006594"
+  },
+  "hsa_circ_002169": {
+    "gene_symbol": "NRP1",
+    "best_transcript": "NM_003873"
+  },
+  "hsa_circRNA_104194": {
+    "gene_symbol": "HERC1",
+    "best_transcript": "NM_003922"
+  },
+  "hsa_circ_001934": {
+    "gene_symbol": "ATP7A",
+    "best_transcript": "NM_000052"
+  },
+  "hsa_circRNA_102612": {
+    "best_transcript": "ENST00000238616.5"
+  },
+  "hsa_circ_001273": {
+    "gene_symbol": "OXNAD1",
+    "best_transcript": "NM_138381"
+  },
+  "hsa_circ_000130": {
+    "gene_symbol": "SNX27",
+    "best_transcript": "NM_030918"
+  },
+  "hsa_circ_001027": {
+    "gene_symbol": "MPHOSPH10",
+    "best_transcript": "NM_005791"
+  },
+  "hsa_circ_001611": {
+    "gene_symbol": "KIAA1586",
+    "best_transcript": "NM_020931"
+  },
+  "hsa_circ_001032": {
+    "gene_symbol": "TET3",
+    "best_transcript": "NM_144993"
+  },
+  "hsa_circ_001795": {
+    "gene_symbol": "SLC20A2",
+    "best_transcript": "NM_006749"
+  },
+  "hsa_circ_001353": {
+    "gene_symbol": "GMPS",
+    "best_transcript": "NM_003875"
+  },
+  "hsa_circ_000994": {
+    "gene_symbol": "SLC8A1",
+    "best_transcript": "NM_021097"
+  },
+  "hsa_circ_002130": {
+    "gene_symbol": "C3",
+    "best_transcript": "NM_000064"
+  },
+  "hsa_circ_000492": {
+    "gene_symbol": "PCDH9",
+    "best_transcript": "NM_203487"
+  },
+  "hsa_circ_000696": {
+    "gene_symbol": "DNAJA2",
+    "best_transcript": "NM_005880"
+  },
+  "hsa_circ_001702": {
+    "gene_symbol": "MYO1G",
+    "best_transcript": "NM_033054"
+  },
+  "hsa_circ_001999": {
+    "gene_symbol": "G3BP1",
+    "best_transcript": "NM_005754"
+  },
+  "hsa_circ_000625": {
+    "gene_symbol": "MYO9A",
+    "best_transcript": "NM_006901"
+  },
+  "hsa_circ_001193": {
+    "gene_symbol": "BRWD1",
+    "best_transcript": "NM_033656"
+  },
+  "hsa_circ_001970": {
+    "gene_symbol": "PRKCI",
+    "best_transcript": "NM_002740"
+  },
+  "hsa_circ_002006": {
+    "gene_symbol": "SHQ1",
+    "best_transcript": "NM_018130"
+  },
+  "hsa_circ_002176": {
+    "gene_symbol": "SEC23B",
+    "best_transcript": "NM_032985"
+  },
+  "hsa_circ_000808": {
+    "gene_symbol": "SEPT9",
+    "best_transcript": "NM_006640"
+  },
+  "hsa_circ_000783": {
+    "gene_symbol": "FAM117A",
+    "best_transcript": "NM_030802"
+  },
+  "mmu_circ_0000290": {
+    "gene_symbol": "SMYD4",
+    "best_transcript": "NM_001102611"
+  },
+  "hsa_circ_001619": {
+    "gene_symbol": "MDN1",
+    "best_transcript": "NM_014611"
+  },
+  "hsa_circ_0000154": {
+    "gene_symbol": "DCAF6",
+    "best_transcript": "NM_001017977"
+  },
+  "hsa_circ_000751": {
+    "gene_symbol": "NUFIP2",
+    "best_transcript": "NM_020772"
+  },
+  "hsa_circ_0008078": {
+    "gene_symbol": "DOPEY2",
+    "best_transcript": "NM_005128"
+  },
+  "hsa_circ_000850": {
+    "gene_symbol": "ME2",
+    "best_transcript": "NM_002396"
+  },
+  "hsa_circ_000181": {
+    "gene_symbol": "TATDN3",
+    "best_transcript": "NM_001146171"
+  },
+  "hsa_circ_000603": {
+    "gene_symbol": "TEX9",
+    "best_transcript": "NM_198524"
+  },
+  "hsa_circ_001916": {
+    "gene_symbol": "CASK",
+    "best_transcript": "NM_001126055"
+  },
+  "hsa_circ_001371": {
+    "gene_symbol": "YEATS2",
+    "best_transcript": "NM_018023"
+  },
+  "hsa_circ_002141": {
+    "gene_symbol": "ZDBF2",
+    "best_transcript": "NM_020923"
+  },
+  "hsa_circ_001956": {
+    "gene_symbol": "EEPD1",
+    "best_transcript": "NM_030636"
+  },
+  "hsa_circRNA_104595": {
+    "best_transcript": "ENST00000538941.2"
+  },
+  "hsa_circ_001626": {
+    "gene_symbol": "BACH2",
+    "best_transcript": "NM_021813"
+  },
+  "hsa_circ_000784": {
+    "gene_symbol": "KAT7",
+    "best_transcript": "NM_001199156"
+  },
+  "hsa_circ_0082824": {
+    "gene_symbol": "CUL1",
+    "best_transcript": "NM_003592"
+  },
+  "hsa_circRNA_000167": {
+    "gene_symbol": "CDC73",
+    "best_transcript": "NM_024529"
+  },
+  "hsa_circ_001118": {
+    "gene_symbol": "NDUFA10",
+    "best_transcript": "NM_004544"
+  },
+  "hsa_circ_001753": {
+    "gene_symbol": "CREB3L2",
+    "best_transcript": "NM_194071"
+  },
+  "hsa_circ_000541": {
+    "gene_symbol": "PELI2",
+    "best_transcript": "NM_021255"
+  },
+  "hsa_circ_001068": {
+    "gene_symbol": "MGAT5",
+    "best_transcript": "NM_002410"
+  },
+  "hsa_circ_000489": {
+    "gene_symbol": "RNASEH2B",
+    "best_transcript": "NM_024570"
+  },
+  "hsa_circ_000657": {
+    "gene_symbol": "MCTP2",
+    "best_transcript": "NM_001159643"
+  },
+  "hsa_circRNA_102594": {
+    "best_transcript": "ENST00000553458.1"
+  },
+  "hsa_circ_001472": {
+    "gene_symbol": "NIPBL",
+    "best_transcript": "NM_015384"
+  },
+  "hsa_circRNA_103334": {
+    "best_transcript": "ENST00000156471.5"
+  },
+  "hsa_circ_002021": {
+    "gene_symbol": "FRYL",
+    "best_transcript": "NM_015030"
+  },
+  "hsa_circ_001707": {
+    "gene_symbol": "ABCA13",
+    "best_transcript": "NM_152701"
+  },
+  "hsa_circ_0051172": {
+    "gene_symbol": "AXL",
+    "best_transcript": "NM_021913"
+  },
+  "hsa_circ_002088": {
+    "gene_symbol": "MAT2A",
+    "best_transcript": "NM_005911"
+  },
+  "hsa_circ_001349": {
+    "gene_symbol": "MBNL1",
+    "best_transcript": "NM_207296"
+  },
+  "hsa_circ_000029": {
+    "gene_symbol": "USP48",
+    "best_transcript": "NM_001032730"
+  },
+  "hsa_circ_001489": {
+    "gene_symbol": "PDE4D",
+    "best_transcript": "NM_001165899"
+  },
+  "hsa_circ_000645": {
+    "gene_symbol": "MESDC2",
+    "best_transcript": "NM_015154"
+  },
+  "hsa_circ_001325": {
+    "gene_symbol": "BBX",
+    "best_transcript": "NM_020235"
+  },
+  "hsa_circ_002098": {
+    "gene_symbol": "MGAT2",
+    "best_transcript": "NM_002408"
+  },
+  "hsa_circRNA_102101": {
+    "gene_symbol": "TXNDC16",
+    "best_transcript": "NM_020784"
+  },
+  "hsa_circ_001926": {
+    "gene_symbol": "MED12",
+    "best_transcript": "NM_005120"
+  },
+  "hsa_circRNA_103343": {
+    "best_transcript": "ENST00000156471.5"
+  },
+  "hsa_circ_001917": {
+    "gene_symbol": "CASK",
+    "best_transcript": "NM_001126055"
+  },
+  "hsa_circ_002057": {
+    "gene_symbol": "SKIV2L2",
+    "best_transcript": "NM_015360"
+  },
+  "hsa_circ_001128": {
+    "gene_symbol": "RASSF2",
+    "best_transcript": "NM_014737"
+  },
+  "hsa_circ_001269": {
+    "gene_symbol": "IQSEC1",
+    "best_transcript": "NM_001134382"
+  },
+  "hsa_circ_001020": {
+    "gene_symbol": "UGP2",
+    "best_transcript": "NM_006759"
+  },
+  "hsa_circ_001726": {
+    "gene_symbol": "ZNF394",
+    "best_transcript": "NM_032164"
+  },
+  "hsa_circ_001150": {
+    "gene_symbol": "PHF20",
+    "best_transcript": "NM_016436"
+  },
+  "hsa_circ_000457": {
+    "gene_symbol": "ARL6IP4",
+    "best_transcript": "NM_018694"
+  },
+  "hsa_circ_000605": {
+    "gene_symbol": "SLTM",
+    "best_transcript": "NM_024755"
+  },
+  "hsa_circ_000228": {
+    "gene_symbol": "ZEB1",
+    "best_transcript": "NM_030751"
+  },
+  "hsa_circ_001571": {
+    "gene_symbol": "RIPK1",
+    "best_transcript": "NM_003804"
+  },
+  "hsa_circ_001778": {
+    "gene_symbol": "WDR60",
+    "best_transcript": "NM_018051"
+  },
+  "hsa_circ_000566": {
+    "gene_symbol": "VRK1",
+    "best_transcript": "NM_003384"
+  },
+  "hsa_circ_001102": {
+    "gene_symbol": "WDFY1",
+    "best_transcript": "NM_020830"
+  },
+  "hsa_circ_000768": {
+    "gene_symbol": "TUBG1",
+    "best_transcript": "NM_001070"
+  },
+  "hsa_circ_000673": {
+    "gene_symbol": "RSL1D1",
+    "best_transcript": "NM_015659"
+  },
+  "hsa_circ_002120": {
+    "gene_symbol": "PAPOLA",
+    "best_transcript": "NM_001252007"
+  },
+  "hsa_circ_000009": {
+    "gene_symbol": "SKI",
+    "best_transcript": "NM_003036"
+  },
+  "hsa_circ_000868": {
+    "gene_symbol": "LMNB2",
+    "best_transcript": "NM_032737"
+  },
+  "hsa_circ_0006323": {
+    "gene_symbol": "DPYD",
+    "best_transcript": "NM_000110"
+  },
+  "hsa_circ_001083": {
+    "gene_symbol": "PMS1",
+    "best_transcript": "NM_001128143"
+  },
+  "hsa_circ_001454": {
+    "gene_symbol": "KIAA0922",
+    "best_transcript": "NM_001131007"
+  },
+  "hsa_circRNA_104892": {
+    "best_transcript": "NM_014848"
+  },
+  "hsa_circ_001323": {
+    "gene_symbol": "BBX",
+    "best_transcript": "NM_020235"
+  },
+  "hsa_circ_100219": {
+    "best_transcript": "ENST00000380473.3"
+  },
+  "hsa_circ_001036": {
+    "gene_symbol": "TGOLN2",
+    "best_transcript": "NM_001206844"
+  },
+  "hsa_circRNA_104081": {
+    "gene_symbol": "VPS13C",
+    "best_transcript": "NM_001018088"
+  },
+  "hsa_circ_001819": {
+    "gene_symbol": "UBR5",
+    "best_transcript": "NM_015902"
+  },
+  "hsa_circ_000951": {
+    "gene_symbol": "SIGLEC12",
+    "best_transcript": "NM_053003"
+  },
+  "hsa_circ_002167": {
+    "gene_symbol": "GOSR1",
+    "best_transcript": "NM_004871"
+  },
+  "hsa_circ_001512": {
+    "gene_symbol": "MCTP1",
+    "best_transcript": "NM_001002796"
+  },
+  "hsa_circ_001008": {
+    "gene_symbol": "SMEK2",
+    "best_transcript": "NM_001122964"
+  },
+  "hsa_circ_001752": {
+    "gene_symbol": "DGKI",
+    "best_transcript": "NM_004717"
+  },
+  "hsa_circ_001076": {
+    "gene_symbol": "NMI",
+    "best_transcript": "NM_004688"
+  },
+  "mmu_circ_0001351": {
+    "gene_symbol": "APBB2",
+    "best_transcript": "NM_001201414"
+  },
+  "hsa_circ_001156": {
+    "gene_symbol": "PPP1R16B",
+    "best_transcript": "NM_015568"
+  },
+  "hsa_circ_001771": {
+    "gene_symbol": "RBM33",
+    "best_transcript": "NM_053043"
+  },
+  "hsa_circ_000884": {
+    "gene_symbol": "INSR",
+    "best_transcript": "NM_001079817"
+  },
+  "hsa_circ_000381": {
+    "gene_symbol": "LRMP",
+    "best_transcript": "NM_006152"
+  },
+  "hsa_circ_000767": {
+    "gene_symbol": "TUBG1",
+    "best_transcript": "NM_001070"
+  },
+  "hsa_circ_001566": {
+    "gene_symbol": "MAPK9",
+    "best_transcript": "NM_139069"
+  },
+  "hsa_circ_001101": {
+    "gene_symbol": "WDFY1",
+    "best_transcript": "NM_020830"
+  },
+  "hsa_circ_002110": {
+    "gene_symbol": "AMN1",
+    "best_transcript": "NM_001113402"
+  },
+  "hsa_circ_001121": {
+    "gene_symbol": "FARP2",
+    "best_transcript": "NM_014808"
+  },
+  "hsa_circ_000763": {
+    "gene_symbol": "CNP",
+    "best_transcript": "NM_033133"
+  },
+  "hsa_circRNA_102051": {
+    "best_transcript": "ENST00000441560.2"
+  },
+  "hsa_circ_001445": {
+    "gene_symbol": "SMARCA5",
+    "best_transcript": "NM_003601"
+  },
+  "hsa_circRNA_103737": {
+    "best_transcript": "ENST00000284509.6"
+  },
+  "hsa_circ_001685": {
+    "gene_symbol": "MPP6",
+    "best_transcript": "NM_016447"
+  },
+  "hsa_circ_002025": {
+    "gene_symbol": "WDR43",
+    "best_transcript": "NM_015131"
+  },
+  "hsa_circ_000488": {
+    "gene_symbol": "DLEU2",
+    "best_transcript": "NR_002612"
+  },
+  "hsa_circ_001903": {
+    "gene_symbol": "SNHG7",
+    "best_transcript": "NR_003672"
+  },
+  "hsa_circ_000021": {
+    "gene_symbol": "PLEKHM2",
+    "best_transcript": "NM_015164"
+  },
+  "hsa_circ_001487": {
+    "gene_symbol": "PDE4D",
+    "best_transcript": "NM_001104631"
+  },
+  "hsa_circ_001523": {
+    "gene_symbol": "ZNF608",
+    "best_transcript": "NM_020747"
+  },
+  "hsa_circRNA_104296": {
+    "best_transcript": "ENST00000261875.5"
+  },
+  "hsa_circ_001824": {
+    "gene_symbol": "ASAP1",
+    "best_transcript": "NM_018482"
+  },
+  "hsa_circRNA_001959": {
+    "gene_symbol": "ATG7",
+    "best_transcript": "NM_006395"
+  },
+  "hsa_circ_001595": {
+    "gene_symbol": "HIST1H2AK",
+    "best_transcript": "NM_003510"
+  },
+  "hsa_circ_0008494": {
+    "gene_symbol": "ARID1A",
+    "best_transcript": "NM_006015"
+  },
+  "hsa_circ_0007099": {
+    "gene_symbol": "ABHD2",
+    "best_transcript": "NM_007011"
+  },
+  "hsa_circ_001907": {
+    "gene_symbol": "LOC100507412",
+    "best_transcript": "NR_038958"
+  },
+  "hsa_circ_002151": {
+    "gene_symbol": "PDIA3",
+    "best_transcript": "NM_005313"
+  },
+  "hsa_circ_000564": {
+    "gene_symbol": "DICER1",
+    "best_transcript": "NM_030621"
+  },
+  "hsa_circ_001717": {
+    "gene_symbol": "CLIP2",
+    "best_transcript": "NM_032421"
+  },
+  "hsa_circ_001787": {
+    "gene_symbol": "RNF122",
+    "best_transcript": "NM_024787"
+  },
+  "hsa_circ_000312": {
+    "gene_symbol": "SDHAF2",
+    "best_transcript": "NM_017841"
+  },
+  "hsa_circ_000926": {
+    "gene_symbol": "LSM14A",
+    "best_transcript": "NM_015578"
+  },
+  "hsa_circ_001997": {
+    "gene_symbol": "PCNX",
+    "best_transcript": "NM_014982"
+  },
+  "hsa_circ_000011": {
+    "gene_symbol": "PHF13",
+    "best_transcript": "NM_153812"
+  },
+  "hsa_circ_000007": {
+    "gene_symbol": "GNB1",
+    "best_transcript": "NM_002074"
+  },
+  "hsa_circ_000948": {
+    "gene_symbol": "NUCB1",
+    "best_transcript": "NM_006184"
+  },
+  "hsa_circ_001943": {
+    "gene_symbol": "ZNF280C",
+    "best_transcript": "NM_017666"
+  },
+  "hsa_circ_000913": {
+    "gene_symbol": "KIAA1683",
+    "best_transcript": "NM_001145304"
+  },
+  "hsa_circ_000023": {
+    "gene_symbol": "HP1BP3",
+    "best_transcript": "NM_016287"
+  },
+  "mmu_circ_0000254": {
+    "gene_symbol": "PWWP2A",
+    "best_transcript": "NM_001164231"
+  },
+  "hsa_circ_002099": {
+    "gene_symbol": "SEMA5A",
+    "best_transcript": "NM_003966"
+  },
+  "hsa_circ_0005949": {
+    "gene_symbol": "ZNF608",
+    "best_transcript": "NM_020747"
+  },
+  "hsa_circ_0001546": {
+    "gene_symbol": "FAM114A2",
+    "best_transcript": "NM_018691"
+  },
+  "hsa_circ_000852": {
+    "gene_symbol": "WDR7",
+    "best_transcript": "NM_015285"
+  },
+  "hsa_circRNA_102761": {
+    "best_transcript": "ENST00000556553.1"
+  },
+  "hsa_circ_001732": {
+    "gene_symbol": "CUX1",
+    "best_transcript": "NM_001913"
+  },
+  "hsa_circ_000689": {
+    "gene_symbol": "MVP",
+    "best_transcript": "NM_005115"
+  },
+  "hsa_circ_000044": {
+    "gene_symbol": "PUM1",
+    "best_transcript": "NM_014676"
+  },
+  "hsa_circ_001552": {
+    "gene_symbol": "PANK3",
+    "best_transcript": "NM_024594"
+  },
+  "hsa_circ_001662": {
+    "gene_symbol": "TMEM181",
+    "best_transcript": "NM_020823"
+  },
+  "hsa_circ_001213": {
+    "gene_symbol": "ADRBK2",
+    "best_transcript": "NM_005160"
+  },
+  "hsa_circ_0022342": {
+    "gene_symbol": "SYT7",
+    "best_transcript": "NM_001252065"
+  },
+  "hsa_circ_001318": {
+    "gene_symbol": "LRIG1",
+    "best_transcript": "NM_015541"
+  },
+  "hsa_circ_001932": {
+    "gene_symbol": "ATRX",
+    "best_transcript": "NM_000489"
+  },
+  "hsa_circ_001860": {
+    "gene_symbol": "ZCCHC7",
+    "best_transcript": "NM_032226"
+  },
+  "hsa_circ_001720": {
+    "gene_symbol": "RSBN1L",
+    "best_transcript": "NM_198467"
+  },
+  "hsa_circ_000425": {
+    "gene_symbol": "ATP2B1",
+    "best_transcript": "NM_001001323"
+  },
+  "hsa_circ_001246": {
+    "gene_symbol": "ATXN10",
+    "best_transcript": "NM_013236"
+  },
+  "hsa_circ_000955": {
+    "gene_symbol": "LILRB3",
+    "best_transcript": "NM_006864"
+  },
+  "hsa_circ_002107": {
+    "gene_symbol": "IPO11",
+    "best_transcript": "NM_001134779"
+  },
+  "hsa_circRNA_103999": {
+    "best_transcript": "ENST00000260408.3"
+  },
+  "hsa_circ_001867": {
+    "gene_symbol": "UBQLN1",
+    "best_transcript": "NM_013438"
+  },
+  "hsa_circ_000907": {
+    "gene_symbol": "MYO9B",
+    "best_transcript": "NM_004145"
+  },
+  "hsa_circ_001525": {
+    "gene_symbol": "C5ORF56",
+    "best_transcript": "NR_045116"
+  },
+  "hsa_circ_001896": {
+    "gene_symbol": "PRRC2B",
+    "best_transcript": "NM_013318"
+  },
+  "hsa_circ_000631": {
+    "gene_symbol": "ADPGK",
+    "best_transcript": "NM_031284"
+  },
+  "hsa_circ_001898": {
+    "gene_symbol": "SETX",
+    "best_transcript": "NM_015046"
+  },
+  "hsa_circ_000713": {
+    "gene_symbol": "NFATC3",
+    "best_transcript": "NM_173165"
+  },
+  "hsa_circ_000688": {
+    "gene_symbol": "MVP",
+    "best_transcript": "NM_005115"
+  },
+  "hsa_circ_002149": {
+    "gene_symbol": "SMTN",
+    "best_transcript": "NM_001207018"
+  },
+  "hsa_circ_001138": {
+    "gene_symbol": "E2F1",
+    "best_transcript": "NM_005225"
+  },
+  "hsa_circ_000018": {
+    "gene_symbol": "DNAJC16",
+    "best_transcript": "NM_015291"
+  },
+  "hsa_circ_000196": {
+    "gene_symbol": "EGLN1",
+    "best_transcript": "NM_022051"
+  },
+  "hsa_circ_002074": {
+    "gene_symbol": "TAMM41",
+    "best_transcript": "NM_138807"
+  },
+  "hsa_circ_001516": {
+    "gene_symbol": "LIX1",
+    "best_transcript": "NM_153234"
+  },
+  "hsa_circ_000216": {
+    "gene_symbol": "MCM10",
+    "best_transcript": "NM_182751"
+  },
+  "hsa_circ_001947": {
+    "gene_symbol": "AFF2",
+    "best_transcript": "NM_001169122"
+  },
+  "hsa_circ_001398": {
+    "gene_symbol": "ZCCHC4",
+    "best_transcript": "NM_024936"
+  },
+  "hsa_circ_001265": {
+    "gene_symbol": "MTMR14",
+    "best_transcript": "NM_022485"
+  },
+  "hsa_circ_001179": {
+    "gene_symbol": "GABPA",
+    "best_transcript": "NM_002040"
+  },
+  "hsa_circ_000837": {
+    "gene_symbol": "RBBP8",
+    "best_transcript": "NM_203291"
+  },
+  "hsa_circRNA_103736": {
+    "best_transcript": "ENST00000284509.6"
+  },
+  "hsa_circ_001887": {
+    "gene_symbol": "STRBP",
+    "best_transcript": "NR_033234"
+  },
+  "hsa_circ_001134": {
+    "gene_symbol": "XRN2",
+    "best_transcript": "NM_012255"
+  },
+  "hsa_circ_001531": {
+    "gene_symbol": "HSPA4",
+    "best_transcript": "NM_002154"
+  },
+  "hsa_circ_000254": {
+    "gene_symbol": "RRP12",
+    "best_transcript": "NM_001145114"
+  },
+  "hsa_circ_000793": {
+    "gene_symbol": "USP32",
+    "best_transcript": "NM_032582"
+  },
+  "hsa_circ_0089378": {
+    "gene_symbol": "VAV2",
+    "best_transcript": "NM_001134398"
+  },
+  "hsa_circ_001912": {
+    "gene_symbol": "CDKL5",
+    "best_transcript": "NM_003159"
+  },
+  "hsa_circ_001440": {
+    "gene_symbol": "SCLT1",
+    "best_transcript": "NM_144643"
+  },
+  "hsa_circ_001823": {
+    "gene_symbol": "ASAP1",
+    "best_transcript": "NM_018482"
+  },
+  "hsa_circ_001330": {
+    "gene_symbol": "TIMMDC1",
+    "best_transcript": "NM_016589"
+  },
+  "hsa_circ_001460": {
+    "gene_symbol": "NEIL3",
+    "best_transcript": "NM_018248"
+  },
+  "hsa_circ_001326": {
+    "gene_symbol": "PHLDB2",
+    "best_transcript": "NM_001134439"
+  },
+  "hsa_circ_001736": {
+    "gene_symbol": "MLL5",
+    "best_transcript": "NM_018682"
+  },
+  "hsa_circ_001613": {
+    "gene_symbol": "SENP6",
+    "best_transcript": "NM_015571"
+  },
+  "hsa_circ_001799": {
+    "gene_symbol": "KIAA0146",
+    "best_transcript": "NM_001080394"
+  },
+  "hsa_circ_001847": {
+    "gene_symbol": "UBAP2",
+    "best_transcript": "NM_018449"
+  },
+  "hsa_circRNA_103410": {
+    "gene_symbol": "EIF2AK4",
+    "best_transcript": "NM_001013703"
+  },
+  "hsa_circ_001115": {
+    "gene_symbol": "DGKD",
+    "best_transcript": "NM_152879"
+  },
+  "hsa_circ_001069": {
+    "gene_symbol": "R3HDM1",
+    "best_transcript": "NM_015361"
+  },
+  "hsa_circRNA_104423": {
+    "best_transcript": "ENST00000424560.1"
+  },
+  "hsa_circRNA_100833": {
+    "best_transcript": "ENST00000326291.6"
+  },
+  "hsa_circ_002047": {
+    "gene_symbol": "TBC1D5",
+    "best_transcript": "NM_014744"
+  },
+  "hsa_circ_001838": {
+    "gene_symbol": "JAK2",
+    "best_transcript": "NM_004972"
+  },
+  "hsa_circ_103110": {
+    "best_transcript": "ENST00000283645.4"
+  },
+  "hsa_circ_0006470": {
+    "gene_symbol": "MFN2",
+    "best_transcript": "NM_014874"
+  },
+  "hsa_circ_001511": {
+    "gene_symbol": "GPR98",
+    "best_transcript": "NM_032119"
+  },
+  "hsa_circ_000829": {
+    "gene_symbol": "SPIRE1",
+    "best_transcript": "NM_001128626"
+  },
+  "hsa_circ_002116": {
+    "gene_symbol": "REV3L",
+    "best_transcript": "NM_002912"
+  },
+  "hsa_circ_001204": {
+    "gene_symbol": "DGCR8",
+    "best_transcript": "NM_022720"
+  },
+  "hsa_circ_0003789": {
+    "gene_symbol": "TSN",
+    "best_transcript": "NM_004622"
+  },
+  "hsa_circ_0084606": {
+    "gene_symbol": "ASPH",
+    "best_transcript": "NM_004318"
+  },
+  "hsa_circ_002066": {
+    "gene_symbol": "CORO7",
+    "best_transcript": "NM_024535"
+  },
+  "hsa_circ_001842": {
+    "gene_symbol": "SMU1",
+    "best_transcript": "NM_018225"
+  },
+  "hsa_circ_001640": {
+    "gene_symbol": "EPB41L2",
+    "best_transcript": "NM_001199388"
+  },
+  "hsa_circRNA_067209": {
+    "gene_symbol": "EEFSEC",
+    "best_transcript": "NM_021937"
+  },
+  "hsa_circ_000833": {
+    "gene_symbol": "C18ORF1",
+    "best_transcript": "NM_181481"
+  },
+  "hsa_circRNA_063981": {
+    "gene_symbol": "SBF1",
+    "best_transcript": "NM_002972"
+  },
+  "hsa_circ_001173": {
+    "gene_symbol": "VAPB",
+    "best_transcript": "NM_004738"
+  },
+  "hsa_circ_001876": {
+    "gene_symbol": "STX17",
+    "best_transcript": "NM_017919"
+  },
+  "hsa_circ_001436": {
+    "gene_symbol": "SEC24B",
+    "best_transcript": "NM_006323"
+  },
+  "hsa_circ_000697": {
+    "gene_symbol": "PHKB",
+    "best_transcript": "NM_001031835"
+  },
+  "hsa_circ_000611": {
+    "gene_symbol": "USP3",
+    "best_transcript": "NM_006537"
+  },
+  "hsa_circ_001025": {
+    "gene_symbol": "GFPT1",
+    "best_transcript": "NM_002056"
+  },
+  "hsa_circ_001592": {
+    "gene_symbol": "HIST1H2BK",
+    "best_transcript": "NM_080593"
+  },
+  "hsa_circ_001633": {
+    "gene_symbol": "SOBP",
+    "best_transcript": "NM_018013"
+  },
+  "hsa_circ_000600": {
+    "gene_symbol": "TRPM7",
+    "best_transcript": "NM_017672"
+  },
+  "hsa_circ_000959": {
+    "gene_symbol": "PPP6R1",
+    "best_transcript": "NM_014931"
+  },
+  "hsa_circRNA_103809": {
+    "gene_symbol": "AP4E1",
+    "best_transcript": "NM_001252127"
+  },
+  "hsa_circ_000069": {
+    "gene_symbol": "STIL",
+    "best_transcript": "NM_003035"
+  },
+  "hsa_circ_000593": {
+    "gene_symbol": "MGA",
+    "best_transcript": "NM_001164273"
+  },
+  "hsa_circ_001310": {
+    "gene_symbol": "SFMBT1",
+    "best_transcript": "NM_001005158"
+  },
+  "hsa_circ_002073": {
+    "gene_symbol": "TULP4",
+    "best_transcript": "NM_020245"
+  },
+  "hsa_circ_001075": {
+    "gene_symbol": "EPC2",
+    "best_transcript": "NM_015630"
+  },
+  "hsa_circ_0050547": {
+    "gene_symbol": "UBA2",
+    "best_transcript": "NM_005499"
+  },
+  "hsa_circ_001760": {
+    "gene_symbol": "MGAM",
+    "best_transcript": "NM_004668"
+  },
+  "hsa_circ_001807": {
+    "gene_symbol": "ARFGEF1",
+    "best_transcript": "NM_006421"
+  },
+  "hsa_circ_001570": {
+    "gene_symbol": "IRF4",
+    "best_transcript": "NM_001195286"
+  },
+  "hsa_circ_001529": {
+    "gene_symbol": "AFF4",
+    "best_transcript": "NM_014423"
+  },
+  "hsa_circ_001684": {
+    "gene_symbol": "CCDC126",
+    "best_transcript": "NM_138771"
+  },
+  "hsa_circ_001189": {
+    "gene_symbol": "MORC3",
+    "best_transcript": "NM_015358"
+  },
+  "hsa_circ_000792": {
+    "gene_symbol": "LOC100506779",
+    "best_transcript": "NR_038411"
+  },
+  "mmu_circ_0001052": {
+    "gene_symbol": "HIPK3",
+    "best_transcript": "NM_010434"
+  },
+  "hsa_circ_001410": {
+    "gene_symbol": "DCUN1D4",
+    "best_transcript": "NM_015115"
+  },
+  "mmu_circ_0000375": {
+    "gene_symbol": "HECTD1",
+    "best_transcript": "NM_144788"
+  },
+  "hsa_circ_000116": {
+    "gene_symbol": "MAN1A2",
+    "best_transcript": "NM_006699"
+  },
+  "hsa_circ_001161": {
+    "gene_symbol": "MMP9",
+    "best_transcript": "NM_004994"
+  },
+  "hsa_circ_001831": {
+    "gene_symbol": "SCRIB",
+    "best_transcript": "NM_015356"
+  },
+  "hsa_circ_000712": {
+    "gene_symbol": "NFATC3",
+    "best_transcript": "NM_173165"
+  },
+  "hsa_circ_001252": {
+    "gene_symbol": "TBC1D22A",
+    "best_transcript": "NM_014346"
+  },
+  "hsa_circ_000785": {
+    "gene_symbol": "SPAG9",
+    "best_transcript": "NM_003971"
+  },
+  "hsa_circ_000620": {
+    "gene_symbol": "AAGAB",
+    "best_transcript": "NM_024666"
+  },
+  "hsa_circ_000978": {
+    "gene_symbol": "NBAS",
+    "best_transcript": "NM_015909"
+  },
+  "hsa_circ_001331": {
+    "gene_symbol": "LRRC58",
+    "best_transcript": "NM_001099678"
+  },
+  "hsa_circ_001088": {
+    "gene_symbol": "ANKRD44",
+    "best_transcript": "NM_001195144"
+  },
+  "hsa_circ_000262": {
+    "gene_symbol": "GRK5",
+    "best_transcript": "NM_005308"
+  },
+  "hsa_circ_001949": {
+    "gene_symbol": "FLNA",
+    "best_transcript": "NM_001456"
+  },
+  "mmu_circ_0001098": {
+    "gene_symbol": "DLGAP4",
+    "best_transcript": "NM_001042487"
+  },
+  "hsa_circ_002005": {
+    "gene_symbol": "MIER2",
+    "best_transcript": "NM_017550"
+  },
+  "hsa_circ_0008394": {
+    "gene_symbol": "TIMMDC1",
+    "best_transcript": "NM_016589"
+  },
+  "hsa_circ_000012": {
+    "gene_symbol": "RERE",
+    "best_transcript": "NM_012102"
+  },
+  "hsa_circ_000535": {
+    "gene_symbol": "POLE2",
+    "best_transcript": "NM_001197331"
+  },
+  "hsa_circ_001251": {
+    "gene_symbol": "TBC1D22A",
+    "best_transcript": "NM_014346"
+  },
+  "hsa_circ_000179": {
+    "gene_symbol": "DTL",
+    "best_transcript": "NM_016448"
+  },
+  "hsa_circ_001307": {
+    "gene_symbol": "RAD54L2",
+    "best_transcript": "NM_015106"
+  },
+  "hsa_circ_001351": {
+    "gene_symbol": "GMPS",
+    "best_transcript": "NM_003875"
+  },
+  "hsa_circ_001597": {
+    "gene_symbol": "HLA-DRB5",
+    "best_transcript": "NM_002125"
+  },
+  "hsa_circ_001925": {
+    "gene_symbol": "KIF4A",
+    "best_transcript": "NM_012310"
+  },
+  "hsa_circ_001428": {
+    "gene_symbol": "MANBA",
+    "best_transcript": "NM_005908"
+  },
+  "hsa_circ_001397": {
+    "gene_symbol": "ZCCHC4",
+    "best_transcript": "NM_024936"
+  },
+  "hsa_circ_000722": {
+    "gene_symbol": "KIAA0182",
+    "best_transcript": "NM_014615"
+  },
+  "hsa_circ_000690": {
+    "gene_symbol": "ITGAL",
+    "best_transcript": "NM_001114380"
+  },
+  "hsa_circ_000666": {
+    "gene_symbol": "MAPK8IP3",
+    "best_transcript": "NM_015133"
+  },
+  "hsa_circ_000828": {
+    "gene_symbol": "VAPA",
+    "best_transcript": "NM_003574"
+  },
+  "hsa_circ_001333": {
+    "gene_symbol": "ZNF148",
+    "best_transcript": "NM_021964"
+  },
+  "hsa_circ_000586": {
+    "gene_symbol": "UBE3A",
+    "best_transcript": "NM_000462"
+  },
+  "hsa_circRNA_100777": {
+    "gene_symbol": "PCDH9",
+    "best_transcript": "NM_203487"
+  },
+  "hsa_circRNA_104268": {
+    "best_transcript": "ENST00000341861.5"
+  },
+  "hsa_circ_002016": {
+    "gene_symbol": "IGF2R",
+    "best_transcript": "NM_000876"
+  },
+  "hsa_circ_001017": {
+    "gene_symbol": "XPO1",
+    "best_transcript": "NM_003400"
+  },
+  "hsa_circ_001553": {
+    "gene_symbol": "DOCK2",
+    "best_transcript": "NM_004946"
+  },
+  "hsa_circ_001028": {
+    "gene_symbol": "ZNF638",
+    "best_transcript": "NM_014497"
+  },
+  "hsa_circ_001861": {
+    "gene_symbol": "GRHPR",
+    "best_transcript": "NM_012203"
+  },
+  "hsa_circ_000158": {
+    "gene_symbol": "SELL",
+    "best_transcript": "NM_000655"
+  },
+  "hsa_circ_000458": {
+    "gene_symbol": "TMED2",
+    "best_transcript": "NM_006815"
+  },
+  "hsa_circ_000633": {
+    "gene_symbol": "EDC3",
+    "best_transcript": "NM_025083"
+  },
+  "hsa_circ_000622": {
+    "gene_symbol": "TLE3",
+    "best_transcript": "NM_001105192"
+  },
+  "hsa_circ_000912": {
+    "gene_symbol": "FCHO1",
+    "best_transcript": "NM_001161357"
+  },
+  "hsa_circ_002007": {
+    "gene_symbol": "KPNB1",
+    "best_transcript": "NM_002265"
+  },
+  "hsa_circ_0083357": {
+    "gene_symbol": "CTSB",
+    "best_transcript": "NM_147780"
+  },
+  "hsa_circ_001713": {
+    "gene_symbol": "WBSCR17",
+    "best_transcript": "NM_022479"
+  },
+  "hsa_circ_001832": {
+    "gene_symbol": "HEATR7A",
+    "best_transcript": "NM_001099281"
+  },
+  "hsa_circ_001320": {
+    "gene_symbol": "FOXP1",
+    "best_transcript": "NM_032682"
+  },
+  "hsa_circ_000744": {
+    "gene_symbol": "NCOR1",
+    "best_transcript": "NM_001190440"
+  },
+  "hsa_circ_001488": {
+    "gene_symbol": "PDE4D",
+    "best_transcript": "NM_001104631"
+  },
+  "hsa_circ_001282": {
+    "gene_symbol": "GOLGA4",
+    "best_transcript": "NM_001172713"
+  },
+  "hsa_circ_001394": {
+    "gene_symbol": "TBC1D14",
+    "best_transcript": "NM_001113361"
+  },
+  "hsa_circ_000460": {
+    "gene_symbol": "ATP6V0A2",
+    "best_transcript": "NM_012463"
+  },
+  "hsa_circ_001735": {
+    "gene_symbol": "PRKRIP1",
+    "best_transcript": "NM_024653"
+  },
+  "hsa_circ_001052": {
+    "gene_symbol": "REV1",
+    "best_transcript": "NM_016316"
+  },
+  "hsa_circRNA_104348": {
+    "gene_symbol": "MAP2K5",
+    "best_transcript": "NM_145160"
+  },
+  "hsa_circ_001676": {
+    "gene_symbol": "LOC729852",
+    "best_transcript": "NR_034084"
+  },
+  "hsa_circ_000614": {
+    "gene_symbol": "SNX1",
+    "best_transcript": "NM_003099"
+  },
+  "hsa_circ_001483": {
+    "gene_symbol": "DHX29",
+    "best_transcript": "NM_019030"
+  },
+  "hsa_circ_001980": {
+    "gene_symbol": "DERL1",
+    "best_transcript": "NM_024295"
+  },
+  "hsa_circRNA_105038": {
+    "best_transcript": "ENST00000571589.1"
+  },
+  "hsa_circ_001294": {
+    "gene_symbol": "SMARCC1",
+    "best_transcript": "NM_003074"
+  },
+  "hsa_circRNA_102619": {
+    "gene_symbol": "FLVCR2",
+    "best_transcript": "NM_017791"
+  },
+  "hsa_circ_001338": {
+    "gene_symbol": "RAB43",
+    "best_transcript": "NM_001204883"
+  },
+  "hsa_circ_001558": {
+    "gene_symbol": "UIMC1",
+    "best_transcript": "NM_016290"
+  },
+  "hsa_circ_001825": {
+    "gene_symbol": "ZFAT",
+    "best_transcript": "NM_001167583"
+  },
+  "hsa_circ_001178": {
+    "gene_symbol": "USP25",
+    "best_transcript": "NM_013396"
+  },
+  "hsa_circRNA_050898": {
+    "gene_symbol": "ACTN4",
+    "best_transcript": "NM_004924"
+  },
+  "hsa_circ_000807": {
+    "gene_symbol": "SEPT9",
+    "best_transcript": "NM_006640"
+  },
+  "hsa_circ_000789": {
+    "gene_symbol": "DYNLL2",
+    "best_transcript": "NM_080677"
+  },
+  "hsa_circ_000070": {
+    "gene_symbol": "FAF1",
+    "best_transcript": "NM_007051"
+  },
+  "hsa_circ_002111": {
+    "gene_symbol": "PSD3",
+    "best_transcript": "NM_015310"
+  },
+  "hsa_circ_000760": {
+    "gene_symbol": "MLLT6",
+    "best_transcript": "NM_005937"
+  },
+  "hsa_circ_001406": {
+    "gene_symbol": "SLC30A9",
+    "best_transcript": "NM_006345"
+  },
+  "hsa_circ_001283": {
+    "gene_symbol": "WDR48",
+    "best_transcript": "NM_020839"
+  },
+  "hsa_circ_000040": {
+    "gene_symbol": "EPB41",
+    "best_transcript": "NM_001166007"
+  },
+  "hsa_circ_001621": {
+    "gene_symbol": "CASP8AP2",
+    "best_transcript": "NM_001137668"
+  },
+  "hsa_circ_001642": {
+    "gene_symbol": "MYB",
+    "best_transcript": "NM_001130173"
+  },
+  "hsa_circ_000261": {
+    "gene_symbol": "SHOC2",
+    "best_transcript": "NM_007373"
+  },
+  "hsa_circ_001211": {
+    "gene_symbol": "BCR",
+    "best_transcript": "NM_021574"
+  },
+  "hsa_circ_000921": {
+    "gene_symbol": "C19ORF2",
+    "best_transcript": "NM_134447"
+  },
+  "hsa_circ_001074": {
+    "gene_symbol": "ORC4",
+    "best_transcript": "NM_002552"
+  },
+  "hsa_circ_000919": {
+    "gene_symbol": "ATP13A1",
+    "best_transcript": "NM_020410"
+  },
+  "hsa_circ_000773": {
+    "gene_symbol": "HDAC5",
+    "best_transcript": "NM_005474"
+  },
+  "hsa_circ_000934": {
+    "gene_symbol": "ZNF780B",
+    "best_transcript": "NM_001005851"
+  },
+  "hsa_circ_000134": {
+    "gene_symbol": "IL6R",
+    "best_transcript": "NM_000565"
+  },
+  "hsa_circ_001019": {
+    "gene_symbol": "UGP2",
+    "best_transcript": "NM_001001521"
+  },
+  "hsa_circ_000131": {
+    "gene_symbol": "SNX27",
+    "best_transcript": "NM_030918"
+  },
+  "hsa_circ_001477": {
+    "gene_symbol": "RICTOR",
+    "best_transcript": "NM_152756"
+  },
+  "hsa_circ_000597": {
+    "gene_symbol": "SPG11",
+    "best_transcript": "NM_025137"
+  },
+  "hsa_circ_002118": {
+    "gene_symbol": "FAM208B",
+    "best_transcript": "NM_017782"
+  },
+  "hsa_circ_000716": {
+    "gene_symbol": "ADAT1",
+    "best_transcript": "NM_012091"
+  },
+  "hsa_circ_001644": {
+    "gene_symbol": "BCLAF1",
+    "best_transcript": "NM_014739"
+  },
+  "hsa_circ_002043": {
+    "gene_symbol": "ZMYM4",
+    "best_transcript": "NM_005095"
+  },
+  "hsa_circ_000816": {
+    "gene_symbol": "FOXK2",
+    "best_transcript": "NM_004514"
+  },
+  "hsa_circ_001456": {
+    "gene_symbol": "NEK1",
+    "best_transcript": "NM_001199400"
+  },
+  "hsa_circ_001301": {
+    "gene_symbol": "USP4",
+    "best_transcript": "NM_003363"
+  },
+  "hsa_circ_000992": {
+    "gene_symbol": "PRKD3",
+    "best_transcript": "NM_005813"
+  },
+  "hsa_circ_001276": {
+    "gene_symbol": "NR1D2",
+    "best_transcript": "NM_005126"
+  },
+  "hsa_circ_001090": {
+    "gene_symbol": "CLK1",
+    "best_transcript": "NM_004071"
+  },
+  "hsa_circ_000549": {
+    "gene_symbol": "SRSF5",
+    "best_transcript": "NM_006925"
+  },
+  "hsa_circ_001376": {
+    "gene_symbol": "ATP13A3",
+    "best_transcript": "NM_024524"
+  },
+  "hsa_circ_001079": {
+    "gene_symbol": "STK39",
+    "best_transcript": "NM_013233"
+  },
+  "hsa_circ_001996": {
+    "gene_symbol": "ACAP2",
+    "best_transcript": "NM_012287"
+  },
+  "hsa_circ_001013": {
+    "gene_symbol": "KIAA1841",
+    "best_transcript": "NM_001129993"
+  },
+  "hsa_circ_000805": {
+    "gene_symbol": "SRP68",
+    "best_transcript": "NM_014230"
+  },
+  "hsa_circ_001100": {
+    "gene_symbol": "XRCC5",
+    "best_transcript": "NM_021141"
+  },
+  "hsa_circ_001785": {
+    "gene_symbol": "ELP3",
+    "best_transcript": "NM_018091"
+  },
+  "hsa_circ_0001897": {
+    "gene_symbol": "POMT1",
+    "best_transcript": "NM_001077365"
+  },
+  "hsa_circ_000609": {
+    "gene_symbol": "VPS13C",
+    "best_transcript": "NM_020821"
+  },
+  "hsa_circRNA_104566": {
+    "best_transcript": "ENST00000267938.4"
+  },
+  "hsa_circ_000670": {
+    "gene_symbol": "C16ORF72",
+    "best_transcript": "NM_014117"
+  },
+  "hsa_circ_002155": {
+    "gene_symbol": "HEATR5A",
+    "best_transcript": "NM_015473"
+  },
+  "hsa_circ_001507": {
+    "gene_symbol": "FAM151B",
+    "best_transcript": "NM_205548"
+  },
+  "hsa_circ_000630": {
+    "gene_symbol": "BBS4",
+    "best_transcript": "NM_033028"
+  },
+  "hsa_circ_000020": {
+    "gene_symbol": "DDI2",
+    "best_transcript": "NM_032341"
+  },
+  "hsa_circ_000004": {
+    "gene_symbol": "ATAD3B",
+    "best_transcript": "NM_031921"
+  },
+  "hsa_circRNA_100269": {
+    "best_transcript": "ENST00000380121.3"
+  },
+  "hsa_circ_000066": {
+    "gene_symbol": "RNF220",
+    "best_transcript": "NM_018150"
+  },
+  "hsa_circ_000284": {
+    "gene_symbol": "HIPK3",
+    "best_transcript": "NM_005734"
+  },
+  "hsa_circ_001357": {
+    "gene_symbol": "WDR49",
+    "best_transcript": "NM_178824"
+  },
+  "hsa_circ_001648": {
+    "gene_symbol": "UTRN",
+    "best_transcript": "NM_007124"
+  },
+  "hsa_circ_001461": {
+    "gene_symbol": "FAT1",
+    "best_transcript": "NM_005245"
+  },
+  "hsa_circ_000732": {
+    "gene_symbol": "SCARF1",
+    "best_transcript": "NM_003693"
+  },
+  "hsa_circ_001390": {
+    "gene_symbol": "MXD4",
+    "best_transcript": "NM_006454"
+  },
+  "hsa_circ_000482": {
+    "gene_symbol": "SETDB2",
+    "best_transcript": "NM_031915"
+  },
+  "hsa_circ_002092": {
+    "gene_symbol": "NCKAP1",
+    "best_transcript": "NM_205842"
+  },
+  "hsa_circ_0006282": {
+    "gene_symbol": "TCEB1",
+    "best_transcript": "NM_001204858"
+  },
+  "hsa_circ_002125": {
+    "gene_symbol": "KHDRBS3",
+    "best_transcript": "NM_006558"
+  },
+  "hsa_circ_000984": {
+    "gene_symbol": "NRBP1",
+    "best_transcript": "NM_013392"
+  },
+  "hsa_circ_000016": {
+    "gene_symbol": "DFFA",
+    "best_transcript": "NM_213566"
+  },
+  "hsa_circ_000636": {
+    "gene_symbol": "SIN3A",
+    "best_transcript": "NM_001145358"
+  },
+  "hsa_circ_001612": {
+    "gene_symbol": "SENP6",
+    "best_transcript": "NM_015571"
+  },
+  "hsa_circ_000265": {
+    "gene_symbol": "FAM53B",
+    "best_transcript": "NM_014661"
+  },
+  "hsa_circ_001316": {
+    "gene_symbol": "FAM208A",
+    "best_transcript": "NM_001112736"
+  },
+  "hsa_circ_002065": {
+    "gene_symbol": "COQ10B",
+    "best_transcript": "NM_025147"
+  },
+  "hsa_circ_000052": {
+    "gene_symbol": "EIF2C1",
+    "best_transcript": "NM_012199"
+  },
+  "hsa_circ_001423": {
+    "gene_symbol": "AFF1",
+    "best_transcript": "NM_001166693"
+  },
+  "hsa_circ_002033": {
+    "gene_symbol": "GRB10",
+    "best_transcript": "NM_005311"
+  },
+  "hsa_circ_001192": {
+    "gene_symbol": "BRWD1",
+    "best_transcript": "NM_033656"
+  },
+  "hsa_circ_001434": {
+    "gene_symbol": "PPA2",
+    "best_transcript": "NM_176869"
+  },
+  "hsa_circ_000795": {
+    "gene_symbol": "INTS2",
+    "best_transcript": "NM_020748"
+  },
+  "hsa_circ_001427": {
+    "gene_symbol": "PDLIM5",
+    "best_transcript": "NM_006457"
+  },
+  "hsa_circ_001250": {
+    "gene_symbol": "GRAMD4",
+    "best_transcript": "NM_015124"
+  },
+  "hsa_circ_001232": {
+    "gene_symbol": "APOBEC3C",
+    "best_transcript": "NM_014508"
+  },
+  "hsa_circRNA_100855": {
+    "best_transcript": "ENST00000377636.3"
+  },
+  "hsa_circ_001918": {
+    "gene_symbol": "UBA1",
+    "best_transcript": "NM_153280"
+  },
+  "hsa_circ_000719": {
+    "gene_symbol": "PLCG2",
+    "best_transcript": "NM_002661"
+  },
+  "hsa_circ_001839": {
+    "gene_symbol": "KDM4C",
+    "best_transcript": "NM_001146694"
+  },
+  "hsa_circ_000621": {
+    "gene_symbol": "CORO2B",
+    "best_transcript": "NM_001190457"
+  },
+  "hsa_circ_000916": {
+    "gene_symbol": "GATAD2A",
+    "best_transcript": "NM_017660"
+  },
+  "hsa_circ_001504": {
+    "gene_symbol": "PAPD4",
+    "best_transcript": "NM_001114394"
+  },
+  "hsa_circ_001939": {
+    "gene_symbol": "WDR44",
+    "best_transcript": "NM_001184965"
+  },
+  "hsa_circ_001871": {
+    "gene_symbol": "SECISBP2",
+    "best_transcript": "NM_024077"
+  },
+  "hsa_circ_001010": {
+    "gene_symbol": "FANCL",
+    "best_transcript": "NM_018062"
+  },
+  "hsa_circ_001271": {
+    "gene_symbol": "ANKRD28",
+    "best_transcript": "NM_001195099"
+  },
+  "hsa_circ_000886": {
+    "gene_symbol": "MYO1F",
+    "best_transcript": "NM_012335"
+  },
+  "hsa_circ_001217": {
+    "gene_symbol": "AP1B1",
+    "best_transcript": "NM_145730"
+  },
+  "hsa_circ_001862": {
+    "gene_symbol": "FAM108B1",
+    "best_transcript": "NM_016014"
+  },
+  "hsa_circ_001249": {
+    "gene_symbol": "TTC38",
+    "best_transcript": "NM_017931"
+  },
+  "hsa_circ_000847": {
+    "gene_symbol": "SMAD2",
+    "best_transcript": "NM_001003652"
+  },
+  "hsa_circ_000442": {
+    "gene_symbol": "MED13L",
+    "best_transcript": "NM_015335"
+  },
+  "hsa_circ_001647": {
+    "gene_symbol": "UTRN",
+    "best_transcript": "NM_007124"
+  },
+  "hsa_circ_001891": {
+    "gene_symbol": "FAM125B",
+    "best_transcript": "NM_033446"
+  },
+  "hsa_circ_000772": {
+    "gene_symbol": "DUSP3",
+    "best_transcript": "NM_004090"
+  },
+  "hsa_circRNA_104739": {
+    "best_transcript": "ENST00000535412.1"
+  },
+  "hsa_circ_000281": {
+    "gene_symbol": "ANO5",
+    "best_transcript": "NM_213599"
+  },
+  "hsa_circ_001683": {
+    "gene_symbol": "NUPL2",
+    "best_transcript": "NM_007342"
+  },
+  "hsa_circ_001319": {
+    "gene_symbol": "TMF1",
+    "best_transcript": "NM_007114"
+  },
+  "hsa_circ_002040": {
+    "gene_symbol": "TCTN2",
+    "best_transcript": "NM_024809"
+  },
+  "hsa_circ_001112": {
+    "gene_symbol": "DGKD",
+    "best_transcript": "NM_152879"
+  },
+  "hsa_circ_001050": {
+    "gene_symbol": "MITD1",
+    "best_transcript": "NM_138798"
+  },
+  "hsa_circ_000826": {
+    "gene_symbol": "ANKRD12",
+    "best_transcript": "NM_015208"
+  },
+  "hsa_circ_000525": {
+    "gene_symbol": "BCL2L2",
+    "best_transcript": "NM_001199839"
+  },
+  "hsa_circRNA_103636": {
+    "gene_symbol": "SPG11",
+    "best_transcript": "NM_025137"
+  },
+  "hsa_circ_001666": {
+    "gene_symbol": "FAM120B",
+    "best_transcript": "NM_032448"
+  },
+  "hsa_circ_000221": {
+    "gene_symbol": "VIM",
+    "best_transcript": "NM_003380"
+  },
+  "hsa_circ_001572": {
+    "gene_symbol": "PRPF4B",
+    "best_transcript": "NM_003913"
+  },
+  "hsa_circ_002156": {
+    "gene_symbol": "ACOX1",
+    "best_transcript": "NM_001185039"
+  },
+  "hsa_circ_001256": {
+    "gene_symbol": "HDAC10",
+    "best_transcript": "NM_001159286"
+  },
+  "hsa_circ_001888": {
+    "gene_symbol": "STRBP",
+    "best_transcript": "NM_001171137"
+  },
+  "hsa_circRNA_104738": {
+    "best_transcript": "ENST00000535412.1"
+  },
+  "hsa_circ_000612": {
+    "gene_symbol": "USP3",
+    "best_transcript": "NM_006537"
+  },
+  "hsa_circ_001289": {
+    "gene_symbol": "SETD2",
+    "best_transcript": "NM_014159"
+  },
+  "hsa_circ_001388": {
+    "gene_symbol": "WHSC1",
+    "best_transcript": "NM_001042424"
+  },
+  "hsa_circ_001203": {
+    "gene_symbol": "PEX26",
+    "best_transcript": "NM_017929"
+  },
+  "hsa_circRNA_104964": {
+    "best_transcript": "ENST00000268035.6"
+  },
+  "hsa_circ_001942": {
+    "gene_symbol": "ELF4",
+    "best_transcript": "NM_001421"
+  },
+  "hsa_circ_001543": {
+    "gene_symbol": "NR3C1",
+    "best_transcript": "NM_001018074"
+  },
+  "hsa_circ_001722": {
+    "gene_symbol": "CDK14",
+    "best_transcript": "NM_012395"
+  },
+  "hsa_circ_000726": {
+    "gene_symbol": "ANKRD11",
+    "best_transcript": "NM_013275"
+  },
+  "hsa_circ_001972": {
+    "gene_symbol": "TRIM37",
+    "best_transcript": "NM_001005207"
+  },
+  "hsa_circ_001239": {
+    "gene_symbol": "WBP2NL",
+    "best_transcript": "NM_152613"
+  },
+  "hsa_circ_001378": {
+    "gene_symbol": "TNK2",
+    "best_transcript": "NM_005781"
+  },
+  "hsa_circ_001270": {
+    "gene_symbol": "NR2C2",
+    "best_transcript": "NM_003298"
+  },
+  "hsa_circ_001705": {
+    "gene_symbol": "TNS3",
+    "best_transcript": "NM_022748"
+  },
+  "hsa_circ_001858": {
+    "gene_symbol": "PAX5",
+    "best_transcript": "NM_016734"
+  },
+  "hsa_circ_000384": {
+    "gene_symbol": "MRPS35",
+    "best_transcript": "NM_001190864"
+  },
+  "hsa_circ_001698": {
+    "gene_symbol": "VPS41",
+    "best_transcript": "NM_014396"
+  },
+  "hsa_circRNA_100410": {
+    "gene_symbol": "DCLK1",
+    "best_transcript": "NM_004734"
+  },
+  "hsa_circ_000594": {
+    "gene_symbol": "TTBK2",
+    "best_transcript": "NM_173500"
+  },
+  "hsa_circ_002063": {
+    "gene_symbol": "FBXO7",
+    "best_transcript": "NM_001033024"
+  },
+  "hsa_circ_001094": {
+    "gene_symbol": "ICA1L",
+    "best_transcript": "NM_138468"
+  },
+  "hsa_circ_001826": {
+    "gene_symbol": "TRAPPC9",
+    "best_transcript": "NM_031466"
+  },
+  "hsa_circ_001462": {
+    "gene_symbol": "EXOC3",
+    "best_transcript": "NM_007277"
+  },
+  "hsa_circ_000880": {
+    "gene_symbol": "SAFB2",
+    "best_transcript": "NM_014649"
+  },
+  "hsa_circ_000835": {
+    "gene_symbol": "MIB1",
+    "best_transcript": "NM_020774"
+  },
+  "hsa_circ_001309": {
+    "gene_symbol": "NEK4",
+    "best_transcript": "NM_001193533"
+  },
+  "hsa_circ_001682": {
+    "gene_symbol": "FAM126A",
+    "best_transcript": "NM_032581"
+  },
+  "hsa_circ_001137": {
+    "gene_symbol": "DNMT3B",
+    "best_transcript": "NM_175849"
+  },
+  "hsa_circ_0004680": {
+    "gene_symbol": "CCT3",
+    "best_transcript": "NR_036564"
+  },
+  "hsa_circ_000758": {
+    "gene_symbol": "TAF15",
+    "best_transcript": "NM_003487"
+  },
+  "hsa_circ_002101": {
+    "gene_symbol": "LATS1",
+    "best_transcript": "NM_004690"
+  },
+  "hsa_circ_000529": {
+    "gene_symbol": "SEC23A",
+    "best_transcript": "NM_006364"
+  },
+  "hsa_circ_000974": {
+    "gene_symbol": "ADAM17",
+    "best_transcript": "NM_003183"
+  },
+  "hsa_circ_001400": {
+    "gene_symbol": "RELL1",
+    "best_transcript": "NM_001085399"
+  },
+  "hsa_circ_001901": {
+    "gene_symbol": "CAMSAP1",
+    "best_transcript": "NM_015447"
+  },
+  "hsa_circ_000595": {
+    "gene_symbol": "CASC4",
+    "best_transcript": "NM_138423"
+  },
+  "hsa_circRNA_101356": {
+    "gene_symbol": "MARK3",
+    "best_transcript": "NM_001128918"
+  },
+  "hsa_circ_000520": {
+    "gene_symbol": "RPPH1",
+    "best_transcript": "NR_002312"
+  },
+  "hsa_circ_001199": {
+    "gene_symbol": "RRP1B",
+    "best_transcript": "NM_015056"
+  },
+  "hsa_circ_000487": {
+    "gene_symbol": "DLEU2",
+    "best_transcript": "NR_002612"
+  },
+  "hsa_circ_002031": {
+    "gene_symbol": "FYN",
+    "best_transcript": "NM_002037"
+  },
+  "hsa_circ_001182": {
+    "gene_symbol": "URB1",
+    "best_transcript": "NM_014825"
+  },
+  "hsa_circ_000420": {
+    "gene_symbol": "ZFC3H1",
+    "best_transcript": "NM_144982"
+  },
+  "hsa_circ_002157": {
+    "gene_symbol": "KIAA0146",
+    "best_transcript": "NM_001080394"
+  },
+  "hsa_circ_001984": {
+    "gene_symbol": "PCMT1",
+    "best_transcript": "NM_005389"
+  },
+  "hsa_circ_002175": {
+    "gene_symbol": "MED13L",
+    "best_transcript": "NM_015335"
+  },
+  "hsa_circRNA_104912": {
+    "best_transcript": "ENST00000268164.3"
+  },
+  "hsa_circ_001396": {
+    "gene_symbol": "GPR125",
+    "best_transcript": "NM_145290"
+  },
+  "hsa_circ_001071": {
+    "gene_symbol": "ARHGAP15",
+    "best_transcript": "NM_018460"
+  },
+  "hsa_circ_000883": {
+    "gene_symbol": "RFX2",
+    "best_transcript": "NM_000635"
+  },
+  "hsa_circ_000424": {
+    "gene_symbol": "PPP1R12A",
+    "best_transcript": "NM_002480"
+  },
+  "hsa_circ_001236": {
+    "gene_symbol": "ZC3H7B",
+    "best_transcript": "NM_017590"
+  },
+  "hsa_circ_001229": {
+    "gene_symbol": "NOL12",
+    "best_transcript": "NM_024313"
+  },
+  "hsa_circ_001297": {
+    "gene_symbol": "SMARCC1",
+    "best_transcript": "NM_003074"
+  },
+  "hsa_circ_001384": {
+    "gene_symbol": "BDH1",
+    "best_transcript": "NM_203315"
+  },
+  "hsa_circ_001227": {
+    "gene_symbol": "MYH9",
+    "best_transcript": "NM_002473"
+  },
+  "hsa_circ_000809": {
+    "gene_symbol": "CYTH1",
+    "best_transcript": "NM_004762"
+  },
+  "hsa_circ_001168": {
+    "gene_symbol": "CSE1L",
+    "best_transcript": "NM_001316"
+  },
+  "hsa_circ_001773": {
+    "gene_symbol": "UBE3C",
+    "best_transcript": "NM_014671"
+  },
+  "hsa_circ_001235": {
+    "gene_symbol": "RANGAP1",
+    "best_transcript": "NM_002883"
+  },
+  "hsa_circ_001624": {
+    "gene_symbol": "BACH2",
+    "best_transcript": "NM_001170794"
+  },
+  "hsa_circ_000640": {
+    "gene_symbol": "SCAPER",
+    "best_transcript": "NM_001145923"
+  },
+  "hsa_circ_0068942": {
+    "gene_symbol": "ADD1",
+    "best_transcript": "NM_176801"
+  },
+  "hsa_circ_002136": {
+    "gene_symbol": "RBMS1",
+    "best_transcript": "NM_016836"
+  },
+  "hsa_circ_001248": {
+    "gene_symbol": "TTC38",
+    "best_transcript": "NM_017931"
+  },
+  "hsa_circRNA_105055": {
+    "gene_symbol": "BFAR",
+    "best_transcript": "NM_016561"
+  },
+  "mmu_circ_0001878": {
+    "gene_symbol": "CDR1",
+    "best_transcript": "NM_001166658"
+  },
+  "hsa_circ_000817": {
+    "gene_symbol": "FOXK2",
+    "best_transcript": "NM_004514"
+  },
+  "hsa_circ_001941": {
+    "gene_symbol": "PGRMC1",
+    "best_transcript": "NM_006667"
+  },
+  "hsa_circ_0063809": {
+    "gene_symbol": "CELSR1",
+    "best_transcript": "NM_014246"
+  },
+  "hsa_circRNA_104916": {
+    "best_transcript": "ENST00000394196.4"
+  },
+  "hsa_circ_001358": {
+    "gene_symbol": "SEC62",
+    "best_transcript": "NM_003262"
+  },
+  "hsa_circ_002079": {
+    "gene_symbol": "GLIS1",
+    "best_transcript": "NM_147193"
+  },
+  "hsa_circ_001681": {
+    "gene_symbol": "RAPGEF5",
+    "best_transcript": "NM_012294"
+  },
+  "hsa_circ_000563": {
+    "gene_symbol": "BTBD7",
+    "best_transcript": "NM_001002860"
+  },
+  "hsa_circRNA_001379": {
+    "gene_symbol": "TFRC",
+    "best_transcript": "NM_001128148"
+  },
+  "hsa_circ_001484": {
+    "gene_symbol": "SKIV2L2",
+    "best_transcript": "NM_015360"
+  },
+  "hsa_circ_001967": {
+    "gene_symbol": "TIMM22",
+    "best_transcript": "NM_013337"
+  },
+  "hsa_circ_000991": {
+    "gene_symbol": "BIRC6",
+    "best_transcript": "NM_016252"
+  },
+  "hsa_circ_001366": {
+    "gene_symbol": "USP13",
+    "best_transcript": "NM_003940"
+  },
+  "hsa_circ_001458": {
+    "gene_symbol": "GALNT7",
+    "best_transcript": "NM_017423"
+  },
+  "hsa_circ_002119": {
+    "gene_symbol": "MGRN1",
+    "best_transcript": "NM_001142290"
+  },
+  "hsa_circ_001478": {
+    "gene_symbol": "PRKAA1",
+    "best_transcript": "NM_206907"
+  },
+  "hsa_circ_001298": {
+    "gene_symbol": "DHX30",
+    "best_transcript": "NM_138615"
+  },
+  "hsa_circ_000527": {
+    "gene_symbol": "FAM158A",
+    "best_transcript": "NM_016049"
+  },
+  "hsa_circ_000418": {
+    "gene_symbol": "CCT2",
+    "best_transcript": "NM_001198842"
+  },
+  "hsa_circ_001228": {
+    "gene_symbol": "MFNG",
+    "best_transcript": "NM_002405"
+  },
+  "hsa_circ_001747": {
+    "gene_symbol": "MKLN1",
+    "best_transcript": "NM_013255"
+  },
+  "hsa_circ_001393": {
+    "gene_symbol": "STX18",
+    "best_transcript": "NM_016930"
+  },
+  "hsa_circ_000606": {
+    "gene_symbol": "NARG2",
+    "best_transcript": "NM_024611"
+  },
+  "hsa_circ_001262": {
+    "gene_symbol": "ITPR1",
+    "best_transcript": "NM_001168272"
+  },
+  "hsa_circ_000877": {
+    "gene_symbol": "MIR4746",
+    "best_transcript": "NR_039901"
+  },
+  "hsa_circ_000714": {
+    "gene_symbol": "AARS",
+    "best_transcript": "NM_001605"
+  },
+  "hsa_circ_001663": {
+    "gene_symbol": "TMEM181",
+    "best_transcript": "NM_020823"
+  },
+  "hsa_circ_000544": {
+    "gene_symbol": "C14ORF135",
+    "best_transcript": "NM_022495"
+  },
+  "hsa_circ_001550": {
+    "gene_symbol": "RARS",
+    "best_transcript": "NM_002887"
+  },
+  "hsa_circ_000906": {
+    "gene_symbol": "TMEM38A",
+    "best_transcript": "NM_024074"
+  },
+  "hsa_circ_000321": {
+    "gene_symbol": "SF1",
+    "best_transcript": "NM_201998"
+  },
+  "hsa_circ_000739": {
+    "gene_symbol": "NUP88",
+    "best_transcript": "NM_002532"
+  },
+  "hsa_circ_000537": {
+    "gene_symbol": "ERO1L",
+    "best_transcript": "NM_014584"
+  },
+  "hsa_circ_000171": {
+    "gene_symbol": "KIF14",
+    "best_transcript": "NM_014875"
+  },
+  "hsa_circ_002165": {
+    "gene_symbol": "SRPK1",
+    "best_transcript": "NR_034069"
+  },
+  "hsa_circ_001503": {
+    "gene_symbol": "PAPD4",
+    "best_transcript": "NM_001114394"
+  },
+  "hsa_circ_001022": {
+    "gene_symbol": "ACTR2",
+    "best_transcript": "NM_005722"
+  },
+  "hsa_circ_000553": {
+    "gene_symbol": "NUMB",
+    "best_transcript": "NM_001005743"
+  },
+  "hsa_circ_001437": {
+    "gene_symbol": "PLA2G12A",
+    "best_transcript": "NM_030821"
+  },
+  "hsa_circ_001364": {
+    "gene_symbol": "GNB4",
+    "best_transcript": "NM_021629"
+  },
+  "hsa_circ_001449": {
+    "gene_symbol": "ARHGAP10",
+    "best_transcript": "NM_024605"
+  },
+  "hsa_circ_000769": {
+    "gene_symbol": "TUBG1",
+    "best_transcript": "NM_001070"
+  },
+  "hsa_circ_002037": {
+    "gene_symbol": "XPO5",
+    "best_transcript": "NM_020750"
+  },
+  "hsa_circ_002059": {
+    "gene_symbol": "MAN1A2",
+    "best_transcript": "NM_006699"
+  },
+  "hsa_circ_000358": {
+    "gene_symbol": "SIK3",
+    "best_transcript": "NM_025164"
+  },
+  "hsa_circ_001464": {
+    "gene_symbol": "SLC12A7",
+    "best_transcript": "NM_006598"
+  },
+  "hsa_circ_000727": {
+    "gene_symbol": "ANKRD11",
+    "best_transcript": "NM_013275"
+  },
+  "hsa_circ_002146": {
+    "gene_symbol": "SBDS",
+    "best_transcript": "NM_016038"
+  },
+  "hsa_circRNA_100914": {
+    "gene_symbol": "MYCBP2",
+    "best_transcript": "NM_015057"
+  },
+  "hsa_circ_001931": {
+    "gene_symbol": "ATRX",
+    "best_transcript": "NM_000489"
+  },
+  "hsa_circ_001099": {
+    "gene_symbol": "BARD1",
+    "best_transcript": "NM_000465"
+  },
+  "hsa_circ_001618": {
+    "gene_symbol": "PNRC1",
+    "best_transcript": "NM_006813"
+  },
+  "hsa_circ_001114": {
+    "gene_symbol": "DGKD",
+    "best_transcript": "NM_152879"
+  },
+  "hsa_circ_000762": {
+    "gene_symbol": "MED1",
+    "best_transcript": "NM_004774"
+  },
+  "hsa_circ_001834": {
+    "gene_symbol": "SMARCA2",
+    "best_transcript": "NM_003070"
+  },
+  "hsa_circ_000707": {
+    "gene_symbol": "CBFB",
+    "best_transcript": "NM_001755"
+  },
+  "hsa_circ_002067": {
+    "gene_symbol": "DAGLB",
+    "best_transcript": "NM_139179"
+  },
+  "hsa_circ_001759": {
+    "gene_symbol": "MGAM",
+    "best_transcript": "NM_004668"
+  },
+  "hsa_circRNA_001653": {
+    "gene_symbol": "SYNE1",
+    "best_transcript": "NM_033071"
+  },
+  "hsa_circ_002089": {
+    "gene_symbol": "ARHGEF12",
+    "best_transcript": "NM_015313"
+  },
+  "hsa_circ_000523": {
+    "gene_symbol": "METTL3",
+    "best_transcript": "NM_019852"
+  },
+  "hsa_circ_001598": {
+    "gene_symbol": "DEF6",
+    "best_transcript": "NM_022047"
+  },
+  "hsa_circ_001329": {
+    "gene_symbol": "TIMMDC1",
+    "best_transcript": "NM_016589"
+  },
+  "hsa_circ_001015": {
+    "gene_symbol": "USP34",
+    "best_transcript": "NM_014709"
+  },
+  "hsa_circ_001473": {
+    "gene_symbol": "NIPBL",
+    "best_transcript": "NM_015384"
+  },
+  "hsa_circ_001957": {
+    "gene_symbol": "NPHP4",
+    "best_transcript": "NM_015102"
+  },
+  "hsa_circ_002147": {
+    "gene_symbol": "RHEB",
+    "best_transcript": "NM_005614"
+  },
+  "hsa_circ_001930": {
+    "gene_symbol": "ABCB7",
+    "best_transcript": "NM_004299"
+  },
+  "hsa_circ_000956": {
+    "gene_symbol": "LILRA5",
+    "best_transcript": "NM_181985"
+  },
+  "hsa_circ_000943": {
+    "gene_symbol": "ARHGAP35",
+    "best_transcript": "NM_004491"
+  },
+  "hsa_circ_001520": {
+    "gene_symbol": "DCP2",
+    "best_transcript": "NM_152624"
+  },
+  "hsa_circ_001723": {
+    "gene_symbol": "ANKIB1",
+    "best_transcript": "NM_019004"
+  },
+  "hsa_circ_000240": {
+    "gene_symbol": "CCAR1",
+    "best_transcript": "NM_018237"
+  },
+  "hsa_circ_001258": {
+    "gene_symbol": "PPP6R2",
+    "best_transcript": "NM_001242899"
+  },
+  "hsa_circ_001508": {
+    "gene_symbol": "MSH3",
+    "best_transcript": "NM_002439"
+  },
+  "hsa_circ_001439": {
+    "gene_symbol": "SCLT1",
+    "best_transcript": "NM_144643"
+  },
+  "hsa_circ_0057576": {
+    "gene_symbol": "HECW2",
+    "best_transcript": "NM_020760"
+  },
+  "hsa_circ_000305": {
+    "gene_symbol": "CELF1",
+    "best_transcript": "NM_001172639"
+  },
+  "hsa_circ_000533": {
+    "gene_symbol": "MIS18BP1",
+    "best_transcript": "NM_018353"
+  },
+  "hsa_circ_001988": {
+    "gene_symbol": "ATXN7",
+    "best_transcript": "NM_000333"
+  },
+  "hsa_circ_001244": {
+    "gene_symbol": "TSPO",
+    "best_transcript": "NM_000714"
+  },
+  "hsa_circRNA_100241": {
+    "best_transcript": "ENST00000380250.3"
+  },
+  "hsa_circ_002171": {
+    "gene_symbol": "C5ORF25",
+    "best_transcript": "NM_198567"
+  },
+  "hsa_circ_002060": {
+    "gene_symbol": "DYNC1H1",
+    "best_transcript": "NM_001376"
+  },
+  "hsa_circ_001060": {
+    "gene_symbol": "UXS1",
+    "best_transcript": "NM_025076"
+  },
+  "hsa_circ_000752": {
+    "gene_symbol": "TAOK1",
+    "best_transcript": "NM_020791"
+  },
+  "hsa_circ_000930": {
+    "gene_symbol": "HKR1",
+    "best_transcript": "NM_181786"
+  },
+  "hsa_circ_0054537": {
+    "gene_symbol": "PSME4",
+    "best_transcript": "NM_014614"
+  },
+  "hsa_circ_000989": {
+    "gene_symbol": "BIRC6",
+    "best_transcript": "NM_016252"
+  },
+  "hsa_circ_001361": {
+    "gene_symbol": "FNDC3B",
+    "best_transcript": "NM_022763"
+  },
+  "hsa_circ_001923": {
+    "gene_symbol": "FAM123B",
+    "best_transcript": "NM_152424"
+  },
+  "hsa_circ_001482": {
+    "gene_symbol": "PARP8",
+    "best_transcript": "NM_001178056"
+  },
+  "hsa_circ_000786": {
+    "gene_symbol": "DGKE",
+    "best_transcript": "NM_003647"
+  },
+  "hsa_circ_001031": {
+    "gene_symbol": "ALMS1",
+    "best_transcript": "NM_015120"
+  },
+  "hsa_circ_001739": {
+    "gene_symbol": "ZNF277",
+    "best_transcript": "NM_021994"
+  },
+  "hsa_circ_000637": {
+    "gene_symbol": "UBE2Q2",
+    "best_transcript": "NM_173469"
+  },
+  "hsa_circ_001687": {
+    "gene_symbol": "MPP6",
+    "best_transcript": "NM_016447"
+  },
+  "hsa_circ_002170": {
+    "gene_symbol": "SMA4",
+    "best_transcript": "NR_029426"
+  },
+  "hsa_circ_001875": {
+    "gene_symbol": "FAM120A",
+    "best_transcript": "NM_014612"
+  },
+  "hsa_circ_001740": {
+    "gene_symbol": "NAA38",
+    "best_transcript": "NM_016200"
+  },
+  "hsa_circRNA_104084": {
+    "gene_symbol": "VPS13C",
+    "best_transcript": "NM_001018088"
+  },
+  "hsa_circ_001411": {
+    "gene_symbol": "FIP1L1",
+    "best_transcript": "NM_001134937"
+  },
+  "hsa_circ_001133": {
+    "gene_symbol": "RIN2",
+    "best_transcript": "NM_018993"
+  },
+  "hsa_circ_001709": {
+    "gene_symbol": "GBAS",
+    "best_transcript": "NM_001483"
+  },
+  "hsa_circ_001286": {
+    "gene_symbol": "TRAK1",
+    "best_transcript": "NM_001042646"
+  },
+  "hsa_circ_000935": {
+    "gene_symbol": "BLVRB",
+    "best_transcript": "NM_000713"
+  },
+  "hsa_circ_001878": {
+    "gene_symbol": "NIPSNAP3A",
+    "best_transcript": "NM_015469"
+  },
+  "hsa_circ_002162": {
+    "gene_symbol": "PTK2",
+    "best_transcript": "NM_001199649"
+  },
+  "hsa_circ_001763": {
+    "gene_symbol": "MGAM",
+    "best_transcript": "NM_004668"
+  },
+  "hsa_circ_000748": {
+    "gene_symbol": "SEZ6",
+    "best_transcript": "NM_178860"
+  },
+  "hsa_circ_002032": {
+    "gene_symbol": "DOCK7",
+    "best_transcript": "NM_033407"
+  },
+  "hsa_circ_001803": {
+    "gene_symbol": "LYN",
+    "best_transcript": "NM_002350"
+  },
+  "hsa_circ_001053": {
+    "gene_symbol": "REV1",
+    "best_transcript": "NM_016316"
+  },
+  "hsa_circ_000249": {
+    "gene_symbol": "ADK",
+    "best_transcript": "NM_006721"
+  },
+  "hsa_circ_001872": {
+    "gene_symbol": "SEMA4D",
+    "best_transcript": "NM_006378"
+  },
+  "hsa_circ_000747": {
+    "gene_symbol": "FLOT2",
+    "best_transcript": "NM_004475"
+  },
+  "hsa_circ_001574": {
+    "gene_symbol": "SNRNP48",
+    "best_transcript": "NM_152551"
+  },
+  "hsa_circ_001188": {
+    "gene_symbol": "MORC3",
+    "best_transcript": "NM_015358"
+  },
+  "hsa_circ_0092024": {
+    "gene_symbol": "FLNA",
+    "best_transcript": "NM_001110556"
+  },
+  "hsa_circ_001922": {
+    "gene_symbol": "HUWE1",
+    "best_transcript": "NM_031407"
+  },
+  "hsa_circ_001545": {
+    "gene_symbol": "TCOF1",
+    "best_transcript": "NM_001135245"
+  },
+  "hsa_circ_001385": {
+    "gene_symbol": "PCGF3",
+    "best_transcript": "NM_006315"
+  },
+  "hsa_circ_000745": {
+    "gene_symbol": "SPECC1",
+    "best_transcript": "NM_001033554"
+  },
+  "hsa_circRNA_103076": {
+    "gene_symbol": "ADAMTS17",
+    "best_transcript": "NM_139057"
+  },
+  "hsa_circ_000820": {
+    "gene_symbol": "NDC80",
+    "best_transcript": "NM_006101"
+  },
+  "hsa_circ_002150": {
+    "gene_symbol": "HECW2",
+    "best_transcript": "NM_020760"
+  },
+  "hsa_circRNA_103454": {
+    "best_transcript": "ENST00000361937.3"
+  },
+  "hsa_circ_000970": {
+    "gene_symbol": "RNF144A",
+    "best_transcript": "NM_014746"
+  },
+  "hsa_circ_001109": {
+    "gene_symbol": "GPR55",
+    "best_transcript": "NM_005683"
+  },
+  "hsa_circ_002083": {
+    "gene_symbol": "ETS1",
+    "best_transcript": "NM_005238"
+  },
+  "hsa_circ_001263": {
+    "gene_symbol": "ARL8B",
+    "best_transcript": "NM_018184"
+  },
+  "hsa_circ_000729": {
+    "gene_symbol": "GAS8",
+    "best_transcript": "NR_023348"
+  },
+  "hsa_circ_001160": {
+    "gene_symbol": "TOX2",
+    "best_transcript": "NM_001098797"
+  },
+  "hsa_circ_000161": {
+    "gene_symbol": "RABGAP1L",
+    "best_transcript": "NM_014857"
+  },
+  "hsa_circ_000939": {
+    "gene_symbol": "APOC1",
+    "best_transcript": "NM_001645"
+  },
+  "hsa_circ_001337": {
+    "gene_symbol": "RAB7A",
+    "best_transcript": "NM_004637"
+  },
+  "hsa_circ_001610": {
+    "gene_symbol": "TNFRSF21",
+    "best_transcript": "NM_014452"
+  },
+  "hsa_circ_001796": {
+    "gene_symbol": "FNTA",
+    "best_transcript": "NM_002027"
+  },
+  "hsa_circ_001305": {
+    "gene_symbol": "RBM5",
+    "best_transcript": "NM_005778"
+  },
+  "hsa_circ_002011": {
+    "gene_symbol": "DEPDC1",
+    "best_transcript": "NM_001114120"
+  },
+  "hsa_circ_002135": {
+    "gene_symbol": "CEP85",
+    "best_transcript": "NM_022778"
+  },
+  "hsa_circ_001492": {
+    "gene_symbol": "ERBB2IP",
+    "best_transcript": "NM_001253697"
+  },
+  "hsa_circ_002023": {
+    "gene_symbol": "CDC25A",
+    "best_transcript": "NM_001789"
+  },
+  "hsa_circ_001641": {
+    "gene_symbol": "HBS1L",
+    "best_transcript": "NM_001145207"
+  },
+  "hsa_circ_0005556": {
+    "gene_symbol": "NBAS",
+    "best_transcript": "NM_015909"
+  },
+  "hsa_circ_001659": {
+    "gene_symbol": "ARID1B",
+    "best_transcript": "NM_017519"
+  },
+  "hsa_circ_001414": {
+    "gene_symbol": "TMEM165",
+    "best_transcript": "NM_018475"
+  },
+  "hsa_circ_001767": {
+    "gene_symbol": "ZNF425",
+    "best_transcript": "NM_001001661"
+  },
+  "hsa_circRNA_009024": {
+    "gene_symbol": "TXLNG2P",
+    "best_transcript": "NR_045128"
+  },
+  "hsa_circ_001142": {
+    "gene_symbol": "PIGU",
+    "best_transcript": "NM_080476"
+  },
+  "hsa_circRNA_103829": {
+    "best_transcript": "ENST00000251076.5"
+  },
+  "hsa_circ_001910": {
+    "gene_symbol": "WWC3",
+    "best_transcript": "NM_015691"
+  },
+  "hsa_circ_002081": {
+    "gene_symbol": "PPP3CC",
+    "best_transcript": "NM_001243974"
+  },
+  "hsa_circRNA_104083": {
+    "gene_symbol": "VPS13C",
+    "best_transcript": "NM_001018088"
+  },
+  "hsa_circ_000831": {
+    "gene_symbol": "CEP192",
+    "best_transcript": "NM_032142"
+  },
+  "hsa_circ_001561": {
+    "gene_symbol": "AGXT2L2",
+    "best_transcript": "NM_153373"
+  },
+  "hsa_circ_000915": {
+    "gene_symbol": "FKBP8",
+    "best_transcript": "NM_012181"
+  },
+  "hsa_circ_001715": {
+    "gene_symbol": "LIMK1",
+    "best_transcript": "NM_001204426"
+  },
+  "hsa_circ_001768": {
+    "gene_symbol": "REPIN1",
+    "best_transcript": "NM_001099696"
+  },
+  "hsa_circ_001578": {
+    "gene_symbol": "RANBP9",
+    "best_transcript": "NM_005493"
+  },
+  "hsa_circ_001565": {
+    "gene_symbol": "CANX",
+    "best_transcript": "NM_001024649"
+  },
+  "hsa_circ_000570": {
+    "gene_symbol": "TRAF3",
+    "best_transcript": "NM_145725"
+  },
+  "hsa_circ_001603": {
+    "gene_symbol": "UBR2",
+    "best_transcript": "NM_001184801"
+  },
+  "hsa_circRNA_104270": {
+    "best_transcript": "ENST00000341861.5"
+  },
+  "hsa_circ_000322": {
+    "gene_symbol": "MAP4K2",
+    "best_transcript": "NM_004579"
+  },
+  "hsa_circ_000715": {
+    "gene_symbol": "PHLPP2",
+    "best_transcript": "NM_015020"
+  },
+  "hsa_circ_000320": {
+    "gene_symbol": "AHNAK",
+    "best_transcript": "NM_001620"
+  },
+  "hsa_circ_001805": {
+    "gene_symbol": "CSPP1",
+    "best_transcript": "NM_024790"
+  },
+  "hsa_circ_000101": {
+    "gene_symbol": "GPSM2",
+    "best_transcript": "NM_013296"
+  },
+  "hsa_circ_000108": {
+    "gene_symbol": "ST7L",
+    "best_transcript": "NM_138727"
+  },
+  "hsa_circ_000966": {
+    "gene_symbol": "ZNF274",
+    "best_transcript": "NM_133502"
+  },
+  "hsa_circ_001710": {
+    "gene_symbol": "ZNF138",
+    "best_transcript": "NM_001160183"
+  },
+  "hsa_circ_0000237": {
+    "gene_symbol": "HNRNPF",
+    "best_transcript": "NM_001098207"
+  },
+  "hsa_circRNA_100432": {
+    "gene_symbol": "PROSER1",
+    "best_transcript": "NM_025138"
+  },
+  "hsa_circ_000983": {
+    "gene_symbol": "NCOA1",
+    "best_transcript": "NM_003743"
+  },
+  "hsa_circ_001422": {
+    "gene_symbol": "WDFY3",
+    "best_transcript": "NM_014991"
+  },
+  "hsa_circ_000862": {
+    "gene_symbol": "PQLC1",
+    "best_transcript": "NM_025078"
+  },
+  "hsa_circ_001854": {
+    "gene_symbol": "RMRP",
+    "best_transcript": "NR_003051"
+  },
+  "hsa_circ_001851": {
+    "gene_symbol": "UBAP2",
+    "best_transcript": "NM_018449"
+  },
+  "hsa_circ_000293": {
+    "gene_symbol": "TP53I11",
+    "best_transcript": "NM_001076787"
+  },
+  "hsa_circ_000635": {
+    "gene_symbol": "SIN3A",
+    "best_transcript": "NM_001145358"
+  },
+  "hsa_circ_001656": {
+    "gene_symbol": "ARID1B",
+    "best_transcript": "NM_017519"
+  },
+  "hsa_circ_001347": {
+    "gene_symbol": "EIF2A",
+    "best_transcript": "NM_032025"
+  },
+  "hsa_circ_002024": {
+    "gene_symbol": "NAB1",
+    "best_transcript": "NM_005966"
+  },
+  "hsa_circ_000845": {
+    "gene_symbol": "SETBP1",
+    "best_transcript": "NM_001130110"
+  },
+  "hsa_circ_001237": {
+    "gene_symbol": "POLR3H",
+    "best_transcript": "NM_138338"
+  },
+  "hsa_circ_001415": {
+    "gene_symbol": "SRP72",
+    "best_transcript": "NM_006947"
+  },
+  "hsa_circ_001608": {
+    "gene_symbol": "MRPL2",
+    "best_transcript": "NM_015950"
+  },
+  "hsa_circ_0022080": {
+    "gene_symbol": "NUP160",
+    "best_transcript": "NM_015231"
+  },
+  "hsa_circ_002086": {
+    "gene_symbol": "CLEC16A",
+    "best_transcript": "NM_015226"
+  },
+  "hsa_circRNA_104075": {
+    "gene_symbol": "VPS13C",
+    "best_transcript": "NM_001018088"
+  },
+  "hsa_circ_001024": {
+    "gene_symbol": "APLF",
+    "best_transcript": "NM_173545"
+  },
+  "hsa_circ_001810": {
+    "gene_symbol": "NCOA2",
+    "best_transcript": "NM_006540"
+  },
+  "hsa_circ_000591": {
+    "gene_symbol": "MGA",
+    "best_transcript": "NM_001164273"
+  },
+  "hsa_circ_000910": {
+    "gene_symbol": "MYO9B",
+    "best_transcript": "NM_004145"
+  },
+  "hsa_circ_002002": {
+    "gene_symbol": "KIF1B",
+    "best_transcript": "NM_015074"
+  },
+  "hsa_circ_000444": {
+    "gene_symbol": "MED13L",
+    "best_transcript": "NM_015335"
+  },
+  "hsa_circ_000613": {
+    "gene_symbol": "USP3",
+    "best_transcript": "NM_006537"
+  },
+  "hsa_circ_001783": {
+    "gene_symbol": "ADAM28",
+    "best_transcript": "NM_014265"
+  },
+  "hsa_circ_000343": {
+    "gene_symbol": "CLNS1A",
+    "best_transcript": "NM_001293"
+  },
+  "hsa_circ_104821": {
+    "best_transcript": "ENST00000394480.1"
+  },
+  "hsa_circ_001809": {
+    "gene_symbol": "SLCO5A1",
+    "best_transcript": "NM_030958"
+  },
+  "hsa_circRNA_102678": {
+    "best_transcript": "ENST00000216484.2"
+  },
+  "hsa_circ_001311": {
+    "gene_symbol": "TKT",
+    "best_transcript": "NM_001064"
+  },
+  "hsa_circ_002038": {
+    "gene_symbol": "PPP6R3",
+    "best_transcript": "NM_001164160"
+  },
+  "hsa_circRNA_104370": {
+    "gene_symbol": "GLCE",
+    "best_transcript": "NM_015554"
+  },
+  "hsa_circ_000924": {
+    "gene_symbol": "ANKRD27",
+    "best_transcript": "NM_032139"
+  },
+  "hsa_circ_001625": {
+    "gene_symbol": "BACH2",
+    "best_transcript": "NM_001170794"
+  },
+  "hsa_circ_001435": {
+    "gene_symbol": "TBCK",
+    "best_transcript": "NM_001163435"
+  },
+  "hsa_circ_000615": {
+    "gene_symbol": "ZNF609",
+    "best_transcript": "NM_015042"
+  },
+  "hsa_circRNA_102485": {
+    "gene_symbol": "ZFYVE26",
+    "best_transcript": "NM_015346"
+  },
+  "hsa_circ_001372": {
+    "gene_symbol": "TRA2B",
+    "best_transcript": "NM_004593"
+  },
+  "hsa_circ_001380": {
+    "gene_symbol": "UBXN7",
+    "best_transcript": "NM_015562"
+  },
+  "hsa_circ_001261": {
+    "gene_symbol": "ITPR1",
+    "best_transcript": "NM_001168272"
+  },
+  "hsa_circ_001806": {
+    "gene_symbol": "CSPP1",
+    "best_transcript": "NM_024790"
+  },
+  "hsa_circ_001306": {
+    "gene_symbol": "RAD54L2",
+    "best_transcript": "NM_015106"
+  },
+  "hsa_circ_002177": {
+    "gene_symbol": "ARHGAP10",
+    "best_transcript": "NM_024605"
+  },
+  "hsa_circ_002058": {
+    "gene_symbol": "TMEM138",
+    "best_transcript": "NM_016464"
+  },
+  "hsa_circ_002161": {
+    "gene_symbol": "GSPT1",
+    "best_transcript": "NM_001130007"
+  },
+  "hsa_circ_000233": {
+    "gene_symbol": "CCDC7",
+    "best_transcript": "NM_145023"
+  },
+  "hsa_circ_002148": {
+    "gene_symbol": "ANKS3",
+    "best_transcript": "NR_040252"
+  },
+  "hsa_circRNA_100834": {
+    "best_transcript": "ENST00000326291.6"
+  },
+  "hsa_circ_001072": {
+    "gene_symbol": "GTDC1",
+    "best_transcript": "NM_024659"
+  },
+  "hsa_circ_001284": {
+    "gene_symbol": "WDR48",
+    "best_transcript": "NM_020839"
+  },
+  "hsa_circ_001835": {
+    "gene_symbol": "VLDLR",
+    "best_transcript": "NM_001018056"
+  },
+  "hsa_circ_001815": {
+    "gene_symbol": "INTS8",
+    "best_transcript": "NM_017864"
+  },
+  "hsa_circ_001341": {
+    "gene_symbol": "PCCB",
+    "best_transcript": "NM_000532"
+  },
+  "hsa_circ_000486": {
+    "gene_symbol": "KPNA3",
+    "best_transcript": "NM_002267"
+  },
+  "hsa_circ_000139": {
+    "gene_symbol": "GON4L",
+    "best_transcript": "NM_001037533"
+  },
+  "hsa_circ_000587": {
+    "gene_symbol": "HERC2",
+    "best_transcript": "NM_004667"
+  },
+  "hsa_circ_000215": {
+    "gene_symbol": "CAMK1D",
+    "best_transcript": "NM_020397"
+  },
+  "hsa_circRNA_103307": {
+    "best_transcript": "NM_001036"
+  },
+  "hsa_circ_001864": {
+    "gene_symbol": "GNAQ",
+    "best_transcript": "NM_002072"
+  },
+  "hsa_circ_001601": {
+    "gene_symbol": "BTBD9",
+    "best_transcript": "NM_001099272"
+  },
+  "hsa_circ_000390": {
+    "gene_symbol": "FGD4",
+    "best_transcript": "NM_139241"
+  },
+  "hsa_circ_001354": {
+    "gene_symbol": "TIPARP",
+    "best_transcript": "NM_001184717"
+  },
+  "hsa_circRNA_000543": {
+    "gene_symbol": "DAAM1",
+    "best_transcript": "NM_014992"
+  },
+  "hsa_circ_000796": {
+    "gene_symbol": "INTS2",
+    "best_transcript": "NM_020748"
+  },
+  "hsa_circ_000017": {
+    "gene_symbol": "EXOSC10",
+    "best_transcript": "NM_001001998"
+  },
+  "hsa_circ_002179": {
+    "gene_symbol": "SPPL3",
+    "best_transcript": "NM_139015"
+  },
+  "hsa_circ_000717": {
+    "gene_symbol": "WWOX",
+    "best_transcript": "NM_130791"
+  },
+  "hsa_circ_001373": {
+    "gene_symbol": "TRA2B",
+    "best_transcript": "NM_004593"
+  },
+  "hsa_circ_000735": {
+    "gene_symbol": "P2RX1",
+    "best_transcript": "NM_002558"
+  },
+  "hsa_circ_001758": {
+    "gene_symbol": "SLC37A3",
+    "best_transcript": "NM_032295"
+  },
+  "hsa_circ_001293": {
+    "gene_symbol": "SMARCC1",
+    "best_transcript": "NM_003074"
+  },
+  "hsa_circ_000849": {
+    "gene_symbol": "DYM",
+    "best_transcript": "NM_017653"
+  },
+  "hsa_circ_000002": {
+    "gene_symbol": "SDF4",
+    "best_transcript": "NM_016176"
+  },
+  "hsa_circ_001961": {
+    "gene_symbol": "PRKG1",
+    "best_transcript": "NM_001098512"
+  },
+  "hsa_circ_000013": {
+    "gene_symbol": "ENO1",
+    "best_transcript": "NM_001428"
+  },
+  "hsa_circ_000818": {
+    "gene_symbol": "TBCD",
+    "best_transcript": "NM_005993"
+  },
+  "hsa_circ_001135": {
+    "gene_symbol": "TPX2",
+    "best_transcript": "NM_012112"
+  },
+  "hsa_circ_000655": {
+    "gene_symbol": "CHD2",
+    "best_transcript": "NM_001271"
+  },
+  "hsa_circ_002163": {
+    "gene_symbol": "TULP4",
+    "best_transcript": "NM_020245"
+  },
+  "hsa_circ_0008832": {
+    "gene_symbol": "FBXO7",
+    "best_transcript": "NM_012179"
+  },
+  "hsa_circ_001296": {
+    "gene_symbol": "SMARCC1",
+    "best_transcript": "NM_003074"
+  },
+  "hsa_circ_000782": {
+    "gene_symbol": "ZNF652",
+    "best_transcript": "NM_001145365"
+  },
+  "hsa_circ_001761": {
+    "gene_symbol": "MGAM",
+    "best_transcript": "NM_004668"
+  },
+  "hsa_circ_000157": {
+    "gene_symbol": "SELL",
+    "best_transcript": "NM_000655"
+  },
+  "hsa_circ_001733": {
+    "gene_symbol": "CUX1",
+    "best_transcript": "NM_001913"
+  },
+  "hsa_circ_001620": {
+    "gene_symbol": "MDN1",
+    "best_transcript": "NM_014611"
+  },
+  "hsa_circ_001600": {
+    "gene_symbol": "FKBP5",
+    "best_transcript": "NM_001145776"
+  },
+  "hsa_circ_000665": {
+    "gene_symbol": "UBE2I",
+    "best_transcript": "NM_194259"
+  },
+  "hsa_circ_000601": {
+    "gene_symbol": "TRPM7",
+    "best_transcript": "NM_017672"
+  },
+  "hsa_circRNA_103801": {
+    "gene_symbol": "AP4E1",
+    "best_transcript": "NM_001252127"
+  },
+  "hsa_circ_002097": {
+    "gene_symbol": "DFNA5",
+    "best_transcript": "NM_004403"
+  },
+  "hsa_circ_000005": {
+    "gene_symbol": "CDK11A",
+    "best_transcript": "NM_024011"
+  },
+  "hsa_circ_001954": {
+    "gene_symbol": "USP9Y",
+    "best_transcript": "NM_004654"
+  },
+  "hsa_circ_001490": {
+    "gene_symbol": "KIF2A",
+    "best_transcript": "NM_001243953"
+  },
+  "hsa_circ_001730": {
+    "gene_symbol": "EPHB4",
+    "best_transcript": "NM_004444"
+  },
+  "hsa_circ_001374": {
+    "gene_symbol": "CCDC50",
+    "best_transcript": "NM_174908"
+  },
+  "hsa_circ_001419": {
+    "gene_symbol": "RASGEF1B",
+    "best_transcript": "NM_152545"
+  },
+  "hsa_circ_000555": {
+    "gene_symbol": "YLPM1",
+    "best_transcript": "NM_019589"
+  },
+  "hsa_circ_002029": {
+    "gene_symbol": "STK39",
+    "best_transcript": "NM_013233"
+  },
+  "hsa_circ_002000": {
+    "gene_symbol": "SCFD2",
+    "best_transcript": "NM_152540"
+  },
+  "hsa_circ_000045": {
+    "gene_symbol": "PUM1",
+    "best_transcript": "NM_014676"
+  },
+  "hsa_circ_001147": {
+    "gene_symbol": "RBM39",
+    "best_transcript": "NM_001242600"
+  },
+  "hsa_circ_001856": {
+    "gene_symbol": "RNF38",
+    "best_transcript": "NM_022781"
+  },
+  "hsa_circ_000182": {
+    "gene_symbol": "FLVCR1",
+    "best_transcript": "NM_014053"
+  },
+  "hsa_circ_000019": {
+    "gene_symbol": "DDI2",
+    "best_transcript": "NM_032341"
+  },
+  "hsa_circ_001770": {
+    "gene_symbol": "MLL3",
+    "best_transcript": "NM_170606"
+  },
+  "hsa_circ_000270": {
+    "gene_symbol": "ADAM8",
+    "best_transcript": "NM_001109"
+  },
+  "hsa_circ_001794": {
+    "gene_symbol": "POLB",
+    "best_transcript": "NM_002690"
+  },
+  "hsa_circ_001515": {
+    "gene_symbol": "LIX1",
+    "best_transcript": "NM_153234"
+  },
+  "hsa_circ_001029": {
+    "gene_symbol": "DYSF",
+    "best_transcript": "NM_003494"
+  },
+  "hsa_circ_000876": {
+    "gene_symbol": "CHAF1A",
+    "best_transcript": "NM_005483"
+  },
+  "hsa_circ_000658": {
+    "gene_symbol": "MCTP2",
+    "best_transcript": "NM_001159643"
+  },
+  "hsa_circ_002075": {
+    "gene_symbol": "BMP1",
+    "best_transcript": "NR_033403"
+  },
+  "hsa_circ_000960": {
+    "gene_symbol": "PPP6R1",
+    "best_transcript": "NM_014931"
+  },
+  "hsa_circ_001223": {
+    "gene_symbol": "RASD2",
+    "best_transcript": "NM_014310"
+  },
+  "hsa_circ_001974": {
+    "gene_symbol": "TKT",
+    "best_transcript": "NM_001135055"
+  },
+  "hsa_circ_001776": {
+    "gene_symbol": "ESYT2",
+    "best_transcript": "NM_020728"
+  },
+  "hsa_circ_002159": {
+    "gene_symbol": "PTK2",
+    "best_transcript": "NM_001199649"
+  },
+  "hsa_circ_001602": {
+    "gene_symbol": "CCND3",
+    "best_transcript": "NM_001136017"
+  },
+  "hsa_circ_001779": {
+    "gene_symbol": "XKR6",
+    "best_transcript": "NM_173683"
+  },
+  "hsa_circ_002166": {
+    "gene_symbol": "USP48",
+    "best_transcript": "NM_032236"
+  },
+  "hsa_circ_0074806": {
+    "gene_symbol": "CLINT1",
+    "best_transcript": "NM_001195555"
+  },
+  "hsa_circ_000513": {
+    "gene_symbol": "RPPH1",
+    "best_transcript": "NR_002312"
+  },
+  "hsa_circ_000848": {
+    "gene_symbol": "SMAD7",
+    "best_transcript": "NM_001190821"
+  },
+  "hsa_circ_000212": {
+    "gene_symbol": "SFMBT2",
+    "best_transcript": "NM_001018039"
+  },
+  "hsa_circ_001634": {
+    "gene_symbol": "SEC63",
+    "best_transcript": "NM_007214"
+  },
+  "hsa_circ_002127": {
+    "gene_symbol": "HIPK3",
+    "best_transcript": "NM_005734"
+  },
+  "hsa_circ_001604": {
+    "gene_symbol": "UBR2",
+    "best_transcript": "NM_015255"
+  },
+  "mmu_circ_0001544": {
+    "gene_symbol": "ZC3H4",
+    "best_transcript": "NM_198631"
+  },
+  "hsa_circ_001113": {
+    "gene_symbol": "DGKD",
+    "best_transcript": "NM_152879"
+  },
+  "hsa_circ_001985": {
+    "gene_symbol": "UBP1",
+    "best_transcript": "NM_014517"
+  },
+  "hsa_circ_001695": {
+    "gene_symbol": "HERPUD2",
+    "best_transcript": "NM_022373"
+  },
+  "hsa_circ_001152": {
+    "gene_symbol": "SAMHD1",
+    "best_transcript": "NM_015474"
+  },
+  "hsa_circ_001586": {
+    "gene_symbol": "HIST1H3D",
+    "best_transcript": "NM_003530"
+  },
+  "hsa_circ_001080": {
+    "gene_symbol": "FASTKD1",
+    "best_transcript": "NM_024622"
+  },
+  "hsa_circ_001892": {
+    "gene_symbol": "FAM102A",
+    "best_transcript": "NM_203305"
+  },
+  "hsa_circ_000536": {
+    "gene_symbol": "C14ORF182",
+    "best_transcript": "NM_001012706"
+  },
+  "hsa_circRNA_104593": {
+    "best_transcript": "ENST00000538941.2"
+  },
+  "hsa_circ_000937": {
+    "gene_symbol": "BCKDHA",
+    "best_transcript": "NM_000709"
+  },
+  "hsa_circ_001936": {
+    "gene_symbol": "BRWD3",
+    "best_transcript": "NM_153252"
+  },
+  "hsa_circ_001455": {
+    "gene_symbol": "MARCH1",
+    "best_transcript": "NM_001166373"
+  },
+  "hsa_circ_001084": {
+    "gene_symbol": "TMEM194B",
+    "best_transcript": "NM_001142645"
+  },
+  "hsa_circ_001518": {
+    "gene_symbol": "FBXL17",
+    "best_transcript": "NM_001163315"
+  },
+  "hsa_circ_000873": {
+    "gene_symbol": "EEF2",
+    "best_transcript": "NM_001961"
+  },
+  "hsa_circ_000866": {
+    "gene_symbol": "RPS15",
+    "best_transcript": "NM_001018"
+  },
+  "hsa_circ_000874": {
+    "gene_symbol": "EEF2",
+    "best_transcript": "NM_001961"
+  },
+  "hsa_circ_0007707": {
+    "gene_symbol": "LCOR",
+    "best_transcript": "NM_032440"
+  },
+  "hsa_circ_0035445": {
+    "gene_symbol": "ALDH1A2",
+    "best_transcript": "NM_001206897"
+  },
+  "hsa_circ_000957": {
+    "gene_symbol": "PPP1R12C",
+    "best_transcript": "NM_017607"
+  },
+  "hsa_circ_000734": {
+    "gene_symbol": "RPA1",
+    "best_transcript": "NM_002945"
+  },
+  "hsa_circ_000461": {
+    "gene_symbol": "NCOR2",
+    "best_transcript": "NM_006312"
+  },
+  "hsa_circ_001737": {
+    "gene_symbol": "PIK3CG",
+    "best_transcript": "NM_002649"
+  },
+  "hsa_circ_000391": {
+    "gene_symbol": "SLC2A13",
+    "best_transcript": "NM_052885"
+  },
+  "hsa_circ_000408": {
+    "gene_symbol": "TIMELESS",
+    "best_transcript": "NM_003920"
+  },
+  "hsa_circ_000554": {
+    "gene_symbol": "LIN52",
+    "best_transcript": "NM_001024674"
+  },
+  "hsa_circ_000111": {
+    "gene_symbol": "PTPN22",
+    "best_transcript": "NM_015967"
+  },
+  "hsa_circRNA_101541": {
+    "best_transcript": "ENST00000458591.2"
+  },
+  "hsa_circ_001198": {
+    "gene_symbol": "U2AF1",
+    "best_transcript": "NM_001025203"
+  },
+  "hsa_circ_000546": {
+    "gene_symbol": "ZFYVE26",
+    "best_transcript": "NM_015346"
+  },
+  "hsa_circ_000691": {
+    "gene_symbol": "ZNF646",
+    "best_transcript": "NM_014699"
+  },
+  "hsa_circ_001481": {
+    "gene_symbol": "EMB",
+    "best_transcript": "NM_198449"
+  },
+  "hsa_circ_001392": {
+    "gene_symbol": "HTT",
+    "best_transcript": "NM_002111"
+  },
+  "hsa_circ_000476": {
+    "gene_symbol": "FOXO1",
+    "best_transcript": "NM_002015"
+  },
+  "hsa_circ_000105": {
+    "gene_symbol": "CD53",
+    "best_transcript": "NM_001040033"
+  },
+  "hsa_circ_000761": {
+    "gene_symbol": "FBXL20",
+    "best_transcript": "NM_032875"
+  },
+  "hsa_circ_002124": {
+    "gene_symbol": "NUSAP1",
+    "best_transcript": "NM_016359"
+  },
+  "hsa_circRNA_103309": {
+    "best_transcript": "ENST00000306730.3"
+  },
+  "hsa_circ_000904": {
+    "gene_symbol": "AP1M1",
+    "best_transcript": "NM_032493"
+  },
+  "hsa_circ_002001": {
+    "gene_symbol": "TASP1",
+    "best_transcript": "NM_017714"
+  },
+  "hsa_circ_002080": {
+    "gene_symbol": "C15ORF38-AP3S2",
+    "best_transcript": "NM_001199058"
+  },
+  "hsa_circ_001560": {
+    "gene_symbol": "HNRNPAB",
+    "best_transcript": "NM_004499"
+  },
+  "hsa_circ_001764": {
+    "gene_symbol": "MGAM",
+    "best_transcript": "NM_004668"
+  },
+  "hsa_circ_001836": {
+    "gene_symbol": "RFX3",
+    "best_transcript": "NM_002919"
+  },
+  "hsa_circ_001432": {
+    "gene_symbol": "MANBA",
+    "best_transcript": "NM_005908"
+  },
+  "hsa_circ_000898": {
+    "gene_symbol": "LYL1",
+    "best_transcript": "NM_005583"
+  },
+  "hsa_circ_001348": {
+    "gene_symbol": "MBNL1",
+    "best_transcript": "NM_207296"
+  },
+  "hsa_circRNA_100823": {
+    "best_transcript": "ENST00000326291.6"
+  },
+  "hsa_circRNA_104565": {
+    "best_transcript": "ENST00000267938.4"
+  },
+  "hsa_circ_0087862": {
+    "gene_symbol": "RAD23B",
+    "best_transcript": "NM_002874"
+  },
+  "hsa_circ_001243": {
+    "gene_symbol": "RRP7A",
+    "best_transcript": "NM_015703"
+  },
+  "hsa_circRNA_102049": {
+    "best_transcript": "ENST00000441560.2"
+  },
+  "hsa_circ_000545": {
+    "gene_symbol": "ZFYVE26",
+    "best_transcript": "NM_015346"
+  },
+  "hsa_circ_001893": {
+    "gene_symbol": "ODF2",
+    "best_transcript": "NM_002540"
+  },
+  "hsa_circ_001287": {
+    "gene_symbol": "C3ORF23",
+    "best_transcript": "NM_173826"
+  },
+  "hsa_circRNA_100258": {
+    "best_transcript": "ENST00000461502.1"
+  },
+  "hsa_circRNA_104433": {
+    "best_transcript": "ENST00000356056.5"
+  },
+  "hsa_circ_001816": {
+    "gene_symbol": "PTDSS1",
+    "best_transcript": "NM_014754"
+  },
+  "hsa_circ_001180": {
+    "gene_symbol": "BACH1",
+    "best_transcript": "NM_001186"
+  },
+  "hsa_circ_0049657": {
+    "gene_symbol": "NFIX",
+    "best_transcript": "NM_002501"
+  },
+  "hsa_circ_002173": {
+    "gene_symbol": "CREB1",
+    "best_transcript": "NM_134442"
+  },
+  "hsa_circ_000682": {
+    "gene_symbol": "PRKCB",
+    "best_transcript": "NM_002738"
+  },
+  "hsa_circ_001615": {
+    "gene_symbol": "PHIP",
+    "best_transcript": "NM_017934"
+  },
+  "hsa_circ_001054": {
+    "gene_symbol": "AFF3",
+    "best_transcript": "NM_001025108"
+  },
+  "hsa_circ_001175": {
+    "gene_symbol": "YTHDF1",
+    "best_transcript": "NM_017798"
+  },
+  "hsa_circ_001057": {
+    "gene_symbol": "C2ORF29",
+    "best_transcript": "NM_017546"
+  },
+  "hsa_circ_001790": {
+    "gene_symbol": "ASH2L",
+    "best_transcript": "NM_001105214"
+  },
+  "hsa_circ_000310": {
+    "gene_symbol": "CYBASC3",
+    "best_transcript": "NM_001161454"
+  },
+  "hsa_circ_000133": {
+    "gene_symbol": "ILF2",
+    "best_transcript": "NM_004515"
+  },
+  "hsa_circ_000472": {
+    "gene_symbol": "PDS5B",
+    "best_transcript": "NM_015032"
+  },
+  "hsa_circ_001953": {
+    "gene_symbol": "ZFY",
+    "best_transcript": "NM_003411"
+  },
+  "hsa_circ_001828": {
+    "gene_symbol": "DENND3",
+    "best_transcript": "NM_014957"
+  },
+  "hsa_circ_002093": {
+    "gene_symbol": "SFT2D2",
+    "best_transcript": "NM_199344"
+  },
+  "hsa_circ_001780": {
+    "gene_symbol": "PCM1",
+    "best_transcript": "NM_006197"
+  },
+  "hsa_circ_001882": {
+    "gene_symbol": "KIAA0368",
+    "best_transcript": "NM_001080398"
+  },
+  "hsa_circ_001497": {
+    "gene_symbol": "GFM2",
+    "best_transcript": "NM_170681"
+  },
+  "hsa_circ_000899": {
+    "gene_symbol": "DDX39A",
+    "best_transcript": "NM_005804"
+  },
+  "hsa_circ_001004": {
+    "gene_symbol": "NRXN1",
+    "best_transcript": "NM_004801"
+  },
+  "hsa_circ_000654": {
+    "gene_symbol": "CHD2",
+    "best_transcript": "NM_001042572"
+  },
+  "hsa_circ_0011107": {
+    "gene_symbol": "RPA2",
+    "best_transcript": "NM_002946"
+  },
+  "hsa_circ_001540": {
+    "gene_symbol": "ANKHD1",
+    "best_transcript": "NM_017747"
+  },
+  "hsa_circ_000854": {
+    "gene_symbol": "ZCCHC2",
+    "best_transcript": "NM_017742"
+  },
+  "hsa_circ_000737": {
+    "gene_symbol": "C17ORF107",
+    "best_transcript": "NM_001145536"
+  },
+  "hsa_circ_002045": {
+    "gene_symbol": "FAM178A",
+    "best_transcript": "NM_018121"
+  },
+  "hsa_circ_001093": {
+    "gene_symbol": "ALS2",
+    "best_transcript": "NM_020919"
+  },
+  "hsa_circ_000267": {
+    "gene_symbol": "FAM53B",
+    "best_transcript": "NM_014661"
+  },
+  "hsa_circ_002048": {
+    "gene_symbol": "RUFY3",
+    "best_transcript": "NM_001037442"
+  },
+  "hsa_circ_001158": {
+    "gene_symbol": "DHX35",
+    "best_transcript": "NR_033905"
+  },
+  "hsa_circ_001087": {
+    "gene_symbol": "ANKRD44",
+    "best_transcript": "NM_001195144"
+  },
+  "hsa_circ_001447": {
+    "gene_symbol": "ZNF827",
+    "best_transcript": "NM_178835"
+  },
+  "hsa_circ_001403": {
+    "gene_symbol": "RFC1",
+    "best_transcript": "NM_001204747"
+  },
+  "hsa_circ_001375": {
+    "gene_symbol": "OPA1",
+    "best_transcript": "NM_130834"
+  },
+  "hsa_circ_000857": {
+    "gene_symbol": "ZNF236",
+    "best_transcript": "NM_007345"
+  },
+  "hsa_circ_0084353": {
+    "gene_symbol": "PRKDC",
+    "best_transcript": "NM_006904"
+  },
+  "hsa_circ_001425": {
+    "gene_symbol": "HERC6",
+    "best_transcript": "NM_001165136"
+  },
+  "hsa_circ_001973": {
+    "gene_symbol": "PODXL",
+    "best_transcript": "NM_001018111"
+  },
+  "hsa_circ_000423": {
+    "gene_symbol": "PPP1R12A",
+    "best_transcript": "NM_002480"
+  },
+  "hsa_circ_001614": {
+    "gene_symbol": "SENP6",
+    "best_transcript": "NM_001100409"
+  },
+  "hsa_circ_001576": {
+    "gene_symbol": "NEDD9",
+    "best_transcript": "NM_001142393"
+  },
+  "hsa_circ_000569": {
+    "gene_symbol": "WDR20",
+    "best_transcript": "NR_038354"
+  },
+  "hsa_circ_001609": {
+    "gene_symbol": "XPO5",
+    "best_transcript": "NM_020750"
+  },
+  "hsa_circ_002142": {
+    "gene_symbol": "DENND2A",
+    "best_transcript": "NM_015689"
+  },
+  "hsa_circ_001865": {
+    "gene_symbol": "UBQLN1",
+    "best_transcript": "NM_013438"
+  },
+  "hsa_circ_000940": {
+    "gene_symbol": "MARK4",
+    "best_transcript": "NM_001199867"
+  },
+  "hsa_circ_001960": {
+    "gene_symbol": "MYO19",
+    "best_transcript": "NM_001163735"
+  },
+  "hsa_circ_000843": {
+    "gene_symbol": "PIK3C3",
+    "best_transcript": "NM_002647"
+  },
+  "hsa_circRNA_100338": {
+    "gene_symbol": "NBEA",
+    "best_transcript": "NM_015678"
+  },
+  "hsa_circ_001418": {
+    "gene_symbol": "ANTXR2",
+    "best_transcript": "NM_058172"
+  },
+  "hsa_circ_0032970": {
+    "gene_symbol": "TC2N",
+    "best_transcript": "NM_152332"
+  },
+  "hsa_circ_001742": {
+    "gene_symbol": "SMO",
+    "best_transcript": "NM_005631"
+  },
+  "hsa_circ_001279": {
+    "gene_symbol": "GLB1",
+    "best_transcript": "NM_001079811"
+  },
+  "hsa_circ_001636": {
+    "gene_symbol": "ARMC2",
+    "best_transcript": "NM_032131"
+  },
+  "hsa_circRNA_104980": {
+    "best_transcript": "ENST00000299866.8"
+  },
+  "hsa_circ_002056": {
+    "gene_symbol": "PLEKHM1P",
+    "best_transcript": "NR_024386"
+  },
+  "hsa_circRNA_100395": {
+    "gene_symbol": "DCLK1",
+    "best_transcript": "NM_004734"
+  },
+  "hsa_circ_001033": {
+    "gene_symbol": "TTC31",
+    "best_transcript": "NM_022492"
+  },
+  "hsa_circRNA_102246": {
+    "best_transcript": "ENST00000395125.1"
+  },
+  "hsa_circRNA_103781": {
+    "gene_symbol": "TRPM7",
+    "best_transcript": "NM_017672"
+  },
+  "hsa_circ_000933": {
+    "gene_symbol": "FBL",
+    "best_transcript": "NM_001436"
+  },
+  "hsa_circ_000681": {
+    "gene_symbol": "PRKCB",
+    "best_transcript": "NM_002738"
+  },
+  "hsa_circ_000556": {
+    "gene_symbol": "NEK9",
+    "best_transcript": "NM_033116"
+  },
+  "hsa_circRNA_001830": {
+    "gene_symbol": "GSDMD",
+    "best_transcript": "NM_001166237"
+  },
+  "hsa_circ_001756": {
+    "gene_symbol": "HIPK2",
+    "best_transcript": "NM_001113239"
+  },
+  "hsa_circ_000791": {
+    "gene_symbol": "MPO",
+    "best_transcript": "NM_000250"
+  },
+  "hsa_circ_001849": {
+    "gene_symbol": "UBAP2",
+    "best_transcript": "NM_018449"
+  },
+  "hsa_circ_001035": {
+    "gene_symbol": "TGOLN2",
+    "best_transcript": "NM_001206844"
+  },
+  "hsa_circ_001569": {
+    "gene_symbol": "IRF4",
+    "best_transcript": "NM_001195286"
+  },
+  "hsa_circ_001555": {
+    "gene_symbol": "STK10",
+    "best_transcript": "NM_005990"
+  },
+  "hsa_circ_001219": {
+    "gene_symbol": "MTMR3",
+    "best_transcript": "NM_153051"
+  },
+  "hsa_circ_0001947": {
+    "gene_symbol": "AFF2",
+    "best_transcript": "NM_001169122"
+  },
+  "hsa_circ_0002089": {
+    "gene_symbol": "ARHGEF12",
+    "best_transcript": "NM_015313"
+  },
+  "hsa_circ_0137439": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0000003": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0000092": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0000177": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0000204": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0000218": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0000263": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0000267": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0000291": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0000376": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0000408": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0000467": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0000488": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0000495": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0000515": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0000523": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0000592": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0000654": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0000735": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0000792": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0000799": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0000993": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0001038": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0001098": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0001105": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0001178": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0001206": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0001361": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0001368": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0001427": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0001429": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0001451": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0001461": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0001658": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0001725": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0001742": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0001772": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0001801": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0001846": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0001900": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0001971": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0002052": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0002142": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0002185": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0002211": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0002346": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0002453": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0003645": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0003855": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0003998": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0004015": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0004390": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0004928": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0005027": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0005100": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0005198": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0005230": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0005576": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0005963": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0006168": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0006215": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0006848": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0006916": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0006948": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0006990": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0007059": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0007255": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0007294": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0007843": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0008039": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0008106": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0008225": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0008234": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0008287": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0008309": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0008365": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0008450": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0008549": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0008792": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0009361": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0009362": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0011385": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0011780": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0012129": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0012342": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0012384": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0014359": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0015758": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0016788": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0017247": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0018069": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0020123": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0020732": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0021093": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0023303": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0025033": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0025036": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0025039": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0025202": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0026134": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0026344": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0027599": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0030235": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0032627": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0033550": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0034642": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0035483": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0037251": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0037655": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0039411": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0039569": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0042666": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0043949": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0044520": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0044529": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0046264": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0046600": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0047688": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0051079": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0051240": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0051443": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0052112": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0053277": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0055625": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0056618": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0056836": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0057481": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0057558": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0058063": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0058092": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0058124": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0059354": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0059655": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0060060": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0060428": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0060456": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0060467": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0061140": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0061825": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0061868": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0062019": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0062389": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0067835": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0067997": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0068871": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0070269": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0071589": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0071662": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0072083": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0072309": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0072387": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0072391": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0072995": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0073237": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0074026": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0074027": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0075341": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0075828": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0078767": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0079593": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0079993": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0080145": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0081143": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0082374": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0084043": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0088732": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0091570": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0091579": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0091581": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0092012": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0092303": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0092306": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0093996": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0099999": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0101432": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0102049": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0103552": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0127621": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0136666": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0137008": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0137606": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0141940": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0001821": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0005239": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0000073": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0000337": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0076248": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0103809": {
+    "gene_symbol": null,
+    "best_transcript": null
+  },
+  "hsa_circ_0000729": {
+    "gene_symbol": null,
+    "best_transcript": null
+  }
+}
